@@ -1,35 +1,25 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
+<?php
+	$pages = array(
+		'accueil.php',
+		'historique.php',
+		'matos.php',
+		'membres.php',
+		'contact.php',
+	);
+	$index = isset($_GET['p']) ? $_GET['p'] : 0;
+	$index = $index < count($pages) && $index >= 0 ? $index : 0;
+	$page = $pages[$index];
+?>
+<html>
 	<head>
-		<title>Rézo Supélec</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-		
-	    <link rel="stylesheet" media="screen" type="text/css" title="Design" href="css/base.css" />
-	    <link rel="stylesheet" media="screen" type="text/css" title="Design" href="css/header.css" />
-			<!--[if IE]>
-      <link rel="stylesheet" type="text/css" href="css/base_ie.css" />
-      <![endif]-->			
-		<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" /> 
-		
+		<title>SupÃ©lec RÃ©zo</title>
+		<meta charset="utf-8" />
 	</head>
-	
 	<body>
-	<div id="body">
-	
-		<?php include("header.html"); ?>
-		
-		<div id="corps">
-						
-	<div><h1>AZERTY</h1> rtrt r dfg fg</div>
-	<div><h1>AZERTY</h1> rtrt r dfg fg</div>
-	<div><h1>AZERTY</h1> rtrt r dfg fg</div>
-	<div><h1>AZERTY</h1> rtrt r dfg fg</div>
-			
+		<?php include('header.php'); ?>
+		<div id="content">
+			<?php include($page); ?>
 		</div>
-		
-		
-	</div>
 	</body>
-	
 </html>
-
