@@ -1,7 +1,8 @@
 <div id="banner">
-banniere
-<br /><a href="?p=5">contact</a>
+	<div id="banner-content">
+	</div>
 </div>
+
 <div id="menu">
   <ul>
     <li><a href="?p=0">Présentation</a></li>
@@ -11,3 +12,5 @@ banniere
     <li><a href="?p=4">Applications développées </a></li>
   </ul>
 </div>
+
+<br /><a href="?p=5">contact</a>
