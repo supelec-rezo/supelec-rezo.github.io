@@ -1,3 +1,4 @@
+/* General */
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, em, img, strong, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   border: 0 none;
   margin: 0;
@@ -25,27 +26,17 @@ img {
   border: none; 
 }
 
-#banner{
-	background-color: #000;
-	background-image: url('../images/banner.jpg');
-	background-repeat: no-repeat;
-	background-position: top center;
-	
-	height: 300px;
-}
-
-#banner-content{
-	background-image: url('../images/banner_logo.png');
-	background-repeat: no-repeat;
-	background-position: center center;
-	
-	height: 300px;
+html, body{
+  height: 100%;
 }
 
 body {
 	background-color: white;
-/*  padding: 0px;
-	margin: 0px;*/
+}
+
+body, p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size:   13px;
 }
 
 a {
@@ -57,63 +48,216 @@ a:hover {
 	text-decoration: none;
 }
 
-img {
-	border: none;
-}
-
-h1 {
-	font-size: 1.7em;
-}
-
-table {
-	font-size: 1em;
-	border-collapse: collapse;
-}
-
-td, th {
-	border: thin solid #666666;
-	padding: 3px;
-}
-
-td.label, th {
-	background-color: #CCCCCC;
-	font-weight: bold;
-}
-
 code {
 	background-color: #DDDDDD;
-}
-
-#div_logo {
-	width:150px;
-	text-align:center;
-	float:left;
-}
-
-#div_titre {
-	padding-bottom: 30px;
-}
-
-.titre {
-	font-weight:bold;
-	font-size:2.5em;
-}
-
-.sous_titre {
-	font-style:italic;
-	font-size:1.5em;
 }
 
 .center {
 	text-align: center;
 }
 
-.explications {
-	font-size:0.8em;
-	width:600px;
-	text-align:justify;
-}
-
 .download {
 	font-weight:bold;
+}
+
+.blue{
+  color: #0071b9;
+}
+
+.ver-align{
+  vertical-align: middle;
+}
+
+/* Banner */
+#banner{
+	background-color: #000;
+	background-image: url('../images/banner.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+  
+	height: 200px;
+  
+  -moz-box-shadow: 10px 10px 0 #888;
+  -webkit-box-shadow: 10px 10px 0 #888;
+  box-shadow: 0px 5px 5px #000;
+}
+
+#banner-content{
+	background-image: url('../images/banner_logo.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+  
+	height: 200px;
+}
+
+/* Wrapper */
+
+#wrapper{
+  min-height: 100%;
+  width: 85%;
+  
+  margin: auto;
+}
+
+#wrapper-content{
+  text-align: justify;
+  color: #484848;
+}
+
+#wrapper-content h1, #wrapper-content h2, #wrapper-content h3{
+  margin: 20px auto;
+  padding-left: 20px;
+  color: #000;
+}
+
+#wrapper-content h4, h5, h6{
+  margin: 10px auto;
+  padding-left: 10px;
+  color: #000;
+}
+
+#wrapper-content a{
+  text-decoration: none;
+  color: #0071b9;
+}
+
+#wrapper-content a:hover{
+  text-decoration: underline;
+  color: #68bbbe;
+}
+
+#wrapper-content ul {
+  list-style: circle;
+  margin-left: 30px;
+}
+
+.page-title{
+  font-size: 3em;
+}
+
+/* Services table */
+.services{
+}
+
+.services td, th{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.services td:nth-child(2){
+  width: 250px;
+  color: #000;
+}
+
+.services td:first-child{
+  padding-right: 5px;
+}
+
+#see-also{
+  overflow: auto;
+}
+
+#see-also h4{
+  margin-bottom: 30px;
+}
+
+.see-also-table{
+  width: 100%;
+  text-align: center;
+}
+
+.promo{
+  width: 100;
+  overflow: auto;
+}
+
+.promo img{
+  -moz-box-shadow: 0 0 7px 5px black;
+  -webkit-box-shadow: 0 0 7px 5px black;
+  box-shadow: 0 0 7px 5px black; 
+  
+  margin: 10px auto;
+  
+  width: 90%;
+  
+  min-width: 500px;
+  max-width: 700px;
+}
+
+.promo-title{
+  border-bottom: 1px solid grey;
+  padding-bottom: 5px;
+  margin-bottom: 0;
+}
+
+.promo-left{
+  float: left;
+  width: 50%;
+}
+
+.promo-right{
+  text-align: center;
+  float: right;
+  width: 50%;
+}
+
+.members{
+  width: 100%;
+  text-align: left;
+}
+
+.members th{
+  width: 250px;
+}
+.members th, .members td{
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+#apps-summary{
+  width: 100%;
+  
+  margin: 20px auto 0 auto;
+}
+
+.app-table{
+  width: 100%;
+  margin: 20px auto 20px auto;
+}
+
+.app-table th{
+  width: 200px;
+}
+
+.app-table th, .app-table td{
+  padding: 3px;
+}
+
+.topologie{
+  width: 90%;
+}
+
+/* Footer */
+#footer{
+  text-align: center;
+  width: 85%;
+  
+  margin: 10px auto;
+}
+
+#footer-content{
+  text-align: right;
+  border-top: 1px solid grey;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+#footer a{
+  text-decoration: none;
+  color: #0071b9;
+}
+
+#footer a:hover{
+  text-decoration: underline;
+  color: #68bbbe;
 }
