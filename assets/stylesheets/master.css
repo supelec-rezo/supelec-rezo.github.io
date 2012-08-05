@@ -52,6 +52,11 @@ code {
 	background-color: #DDDDDD;
 }
 
+abbr {
+  font-style: oblique;
+  border-bottom: 1px dashed grey;
+}
+
 .center {
 	text-align: center;
 }

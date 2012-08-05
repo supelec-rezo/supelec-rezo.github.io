@@ -114,5 +114,6 @@
   </div>
 
   <div class="promo-right">
+    <img src="assets/images/rezomen/2012.jpg" alt="2012"/>
   </div>
 </div>

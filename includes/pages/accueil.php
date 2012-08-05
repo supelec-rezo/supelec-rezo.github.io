@@ -44,12 +44,12 @@
   <tr>
     <td><img src='assets/images/icons/tnt_server.png' alt= "Serveur TNT"/></td>
     <td>TNT</td>
-    <td>Il est mis à la disposition des élèves la possibilité de regarder la Télévision Numérique Terrestre en multicast à la résidence</td>
+    <td>Il est mis à la disposition des élèves la possibilité de regarder la <abbr title="Télévision Numérique Terrestre" lang="fr">TNT</abbr> en multicast à la résidence</td>
   </tr>
   <tr>
     <td><img src='assets/images/icons/irc_server.png' alt= "Serveur IRC"/></td>
     <td>IRC</td>
-    <td>Nous hébergeons et administrons un serveur IRC de RézoSup</td>
+    <td>Nous hébergeons et administrons un serveur <abbr title="Internet Relay Chat" lang="en">IRC</abbr> de RézoSup</td>
   </tr>
 </table>
 
@@ -60,7 +60,7 @@
 
 <h3>RENATER</h3>
 <p>
-  L'accès internet nous est fourni par l'intermédiaire du Centre des Ressources Informatiques (CRI) de Supélec, par le fournisseur d'accès <a href="http://www.renater.fr">RENATER</a>, organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l'éducation.
+  L'accès internet nous est fourni par l'intermédiaire du <abbr title="Centre des Ressources Informatiques" lang="fr">CRI</abbr> de Supélec, par le fournisseur d'accès <a href="http://www.renater.fr">RENATER</a>, organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l'éducation.
 </p>
 
 <h3>Voir aussi</h3>
@@ -91,7 +91,7 @@
     <tr>
       <td><a href = "http://fr.viadeo.com/fr/groups/?containerId=0022dk4zvt8bvogs">Page Viadéo</a></td>
       <td><a href = "http://fr-fr.facebook.com/pages/Supelec-R%C3%A9zo/203625606324218">Page Facebook</a></td>
-      <td><a href = "http://www.linkedin.com/groups/Supélec-Rézo-3726879/">Page LinkedIn</a></td>
+      <td><a href = "http://www.linkedin.com/groups?gid=3726879&trk=group-name">Page LinkedIn</a></td>
     </tr>
   </table>
 </div>
