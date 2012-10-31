@@ -19,7 +19,6 @@
   <head>
     <meta charset="utf-8" />
     
-    <base href="/page-pro/" />
 
     <title>Supélec Rézo</title>
 
