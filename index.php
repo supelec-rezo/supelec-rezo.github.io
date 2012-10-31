@@ -19,6 +19,7 @@
   <head>
     <meta charset="utf-8" />
     
+    <base href="/" />
 
     <title>Supélec Rézo</title>
 

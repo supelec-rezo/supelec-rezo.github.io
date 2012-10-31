@@ -1,4 +1,4 @@
 
 RewriteEngine On
-RewriteBase /page-pro/
+RewriteBase /
 RewriteRule ^(.+)/$ ?p=$1
