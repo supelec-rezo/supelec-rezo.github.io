@@ -30,14 +30,14 @@
       <td>Installation : <code>patch -p0 &lt; dhcpd-3.0.4-mysql-0.1.patch</code></td>
     </tr>
     <tr>
-      <th class="label">Dépôt subversion :</th>
+      <th class="label">Dépôt Mercurial :</th>
       <td>
-        <a href="https://hg.rez-gif.supelec.fr/dhcpd-mysql-3.0.4">https://svn.rez-gif.supelec.fr/dhcpd-mysql-3.0.4</a><br />
+        <a href="https://hg.rez-gif.supelec.fr/dhcpd-mysql">https://hg.rez-gif.supelec.fr/dhcpd-mysql</a><br />
 
         <div class="explications">
           La révision 1 correspond au serveur non-patché, les révisions supérieures aux modifications
-          successives. Pour obtenir la dernière version de développement du patch, se placer dans le répertoire <code>trunk/</code>
-          et exécuter <code>svn diff -r 1 > dhcpd-3.0.4-mysql.patch</code>
+          successives. Pour obtenir la dernière version de développement du patch, se placer dans le répertoire de votre choix
+          et exécuter <code>hg clone http://hg.rez-gif.supelec.fr/dhcpd-mysql/</code>
         </div>
       </td>
     </tr>

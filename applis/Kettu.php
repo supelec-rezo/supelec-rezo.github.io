@@ -19,18 +19,18 @@
     </tr>
     <tr>
       <th class="label">Langages :</th>
-      <td>Ruby / Ruby on Rails / PHP</td>
+      <td>Ruby / Ruby on Rails / Javascript</td>
     </tr>
     <tr>
       <th class="label">Dernière version :</th>
-      <td>Pas encore disponible pour le public</td>
+      <td>Cette application est utilisée en interne, et n'est pas encore disponnible au public</td>
     </tr>
     <tr>
       <th class="label">Documentation :</th>
       <td>Pas encore disponible</td>
     </tr>
     <tr>
-      <th class="label">Dépôt subversion :</th>
+      <th class="label">Dépôt Mercurial :</th>
       <td>Pas encore disponible pour le public</td>
     </tr>
   </table>

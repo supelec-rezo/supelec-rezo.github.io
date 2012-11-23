@@ -38,12 +38,12 @@
       <tr>
         <th>Maxime COLLODEL</th>
         <td></td>
-        <td></td>
+        <td>(Jusqu'au 10/10/2011)</td>
       </tr>
       <tr>
         <th>Maxime COURTAUX</th>
         <td>Responsable Technique</td>
-        <td></td>
+        <td>(Jusqu'au 10/10/2011, semestre à l'ESCP)</td>
       </tr>
       <tr>
         <th>Jean-Alix DAVID</th>
@@ -59,6 +59,11 @@
         <th>Clément PARISOT</th>
         <td></td>
         <td></td>
+      </tr>
+      <tr>
+        <th>Nicolas PORCEL</th>
+        <td></td>
+        <td>(A partir du 10/10/2011)</td>
       </tr>
     </table>
     
@@ -107,11 +112,6 @@
       </tr>
       <tr>
         <th>Alexandre PLAZANET</th>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <th>Nicolas PORCEL</th>
         <td></td>
         <td></td>
       </tr>

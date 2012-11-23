@@ -22,7 +22,7 @@
 
     <tr>
       <td><a href="apps/#kettu">Kettu</a></td>
-      <td>Pas encore disponible</td>
+      <td>Utilisé en interne, pas encore disponible au public</td>
       <td>Système de gestion d'un réseau local.</td>
     </tr>
 
@@ -33,15 +33,9 @@
     </tr>
 
     <tr>
-      <td><a href="apps/#php-trivial-mvc">PHP Trivial MVC</a></td>
-      <td>Version 0.2 (04/05/2008)</td>
-      <td>Exemple d'implémentation du pattern MVC en PHP.</td>
-    </tr>
-
-    <tr>
-      <td><a href="apps/#phpview">PHP View</a></td>
-      <td>Version 0.12 (29/04/2008)</td>
-      <td>Système de templates.</td>
+      <td><a href="apps/#rezotask">RezoTask</a></td>
+      <td>Développement en cours</td>
+      <td>Outil collaboratif simple de gestion de tâches</td>
     </tr>
 
   </table>

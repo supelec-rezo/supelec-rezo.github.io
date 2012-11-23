@@ -2,7 +2,7 @@
 
 <p>
   Cette page donne la liste des membres connus de Supélec Rézo depuis la création de l'association en 1991. <br />
-  Les membres du bureau font également partie du Conseil d'Administration, créé par une refonte des statuts en 2008.<br />
+  Les membres du bureau font également partie du Conseil d'Administration, créé par une refonte des statuts en 2008. L'appartenance au conseil d'administration commence en Février de l'année scolaire en cours ou après un vote du Conseil d'administration, et se termine au 30 Avril de l'année suivante.<br />
   Les années de promotion correspondent à l'année prévue de remise du diplôme.
 </p>
 

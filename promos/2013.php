@@ -58,12 +58,12 @@
       <tr>
         <th>Etienne DARGAUD</th>
         <td></td>
-        <td>(Jusqu'à ??)</td>
+        <td>(Jusqu'à Décembre 2011)</td>
       </tr>
       <tr>
         <th>Pascal FRESNE</th>
         <td></td>
-        <td>(Jusqu'à ??)</td>
+        <td>(Jusqu'à Décembre 2011)</td>
       </tr>
       <tr>
         <th>Jean-Baptiste GUIRIMAND</th>

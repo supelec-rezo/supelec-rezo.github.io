@@ -33,12 +33,9 @@
       <td>Voir le fichier README</td>
     </tr>
     <tr>
-      <th class="label">Dépôt subversion :</th>
+      <th class="label">Dépôt Mercurial :</th>
       <td>
-        <a href="https://svn.rez-gif.supelec.fr/phprdg">https://svn.rez-gif.supelec.fr/phprdg</a>
-        <div class="explications">
-          La dernière version de développement se trouve dans le répertoire <code>trunk/</code>.
-        </div>
+        <a href="https://hg.rez-gif.supelec.fr/phprdg">https://hg.rez-gif.supelec.fr/phprdg</a>
       </td>
     </tr>
   </table>
