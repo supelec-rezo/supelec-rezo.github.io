@@ -25,10 +25,10 @@
     <li><b>Le switch en salle polyvalente</b>: <em class='blue'>Procurve 1810 8 ports</em></li>
 </ul>
 
-<h4>Bornes WiFi</h4>
+<h4>Points d'accès WiFi</h4>
 
 <p>
-  Les première bornes wifi ont été installées à la résidence en 2008. Il s'agit de bornes <em class="blue">Cisco aironet 1130</em>.
+  Les premièrs points d'accès WiFi ont été installés à la résidence en 2008. Il s'agit de bornes <em class="blue">Cisco aironet 1130</em>.
 </p>
 
 <h2>Topologie complète</h2>
