@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <th class="label">Dernière version :</th>
-      <td>Cette application est utilisée en interne, et n'est pas encore disponnible au public</td>
+      <td>Cette application est utilisée en interne, et n'est pas encore disponible au public</td>
     </tr>
     <tr>
       <th class="label">Documentation :</th>

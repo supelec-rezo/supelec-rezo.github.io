@@ -26,11 +26,6 @@
         <td></td>
       </tr>
       <tr>
-        <th>Yoaan ISAAC</th>
-        <td>Vice-Président</td>
-        <td></td>
-      </tr>
-      <tr>
         <th>Georges DUBUS</th>
         <td>Vice-Président</td>
         <td>(A partir du 17/12/2008)</td>
