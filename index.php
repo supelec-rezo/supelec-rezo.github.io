@@ -32,6 +32,9 @@
 
     <link rel="stylesheet" type="text/css" href="assets/stylesheets/master.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="assets/stylesheets/menu.css" media="screen" />
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" href="assets/stylesheets/ie.css" type="text/css" media="screen" />
+	<![endif]-->
 
     <link rel="icon" type="image/png" href="assets/images/favicon.png"> 
 
