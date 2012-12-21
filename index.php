@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <?php
   $pages = array(
     'accueil' => 'accueil.php',
@@ -15,11 +16,12 @@
   /* Limits the number of promotion years in the members menu */
   $menu_promo_limit = 5;
 ?>
-<html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
   <head>
     <meta charset="utf-8" />
     
-    <base href="/" />
+    <base href="http://www.rezomen.fr/" />
 
     <title>Supélec Rézo</title>
 
@@ -32,7 +34,7 @@
 
     <link rel="stylesheet" type="text/css" href="assets/stylesheets/master.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="assets/stylesheets/menu.css" media="screen" />
-	<!--[if lte IE 8]>
+	<!--[if lte IE 9]>
 		<link rel="stylesheet" href="assets/stylesheets/ie.css" type="text/css" media="screen" />
 	<![endif]-->
 
