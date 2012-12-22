@@ -208,10 +208,10 @@
 #nav ul li ul li a:after {
     background: rgba(0,0,0,.02);
     content: "";
-    height: 18px;
+    height: 15px;
     left: 0;
     position: absolute;
-    top: 19px;
+    top: 13px;
     width: 100%;
 }
 
