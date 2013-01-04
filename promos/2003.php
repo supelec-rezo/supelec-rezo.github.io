@@ -1,4 +1,4 @@
-<div id="2003" class="promo">
+<div id="promo2003" class="promo">
   <h2 class='promo-title'>Promotion 2003</h2>
   
   <div class="promo-left">

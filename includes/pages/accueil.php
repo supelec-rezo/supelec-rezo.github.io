@@ -89,7 +89,7 @@
     <tr>
       <td><a href = "http://fr.viadeo.com/fr/groups/?containerId=0022dk4zvt8bvogs">Page Viadéo</a></td>
       <td><a href = "http://fr-fr.facebook.com/pages/Supelec-R%C3%A9zo/203625606324218">Page Facebook</a></td>
-      <td><a href = "http://www.linkedin.com/groups?gid=3726879&trk=group-name">Page LinkedIn</a></td>
+      <td><a href = "http://www.linkedin.com/groups?gid=3726879&amp;trk=group-name">Page LinkedIn</a></td>
     </tr>
   </table>
 </div>

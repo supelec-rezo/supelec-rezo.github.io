@@ -19,18 +19,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
   <head>
-    <meta charset="utf-8" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     
     <base href="http://www.rezomen.fr/" />
 
     <title>Supélec Rézo</title>
-
-    <?php
-      // Prevents robots from indexing members page.
-      if($index == 'membres'){
-        echo "<meta name='robots' content='noindex'>";
-      }
-    ?>
 
     <link rel="stylesheet" type="text/css" href="assets/stylesheets/master.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="assets/stylesheets/menu.css" media="screen" />
@@ -38,7 +31,7 @@
 		<link rel="stylesheet" href="assets/stylesheets/ie.css" type="text/css" media="screen" />
 	<![endif]-->
 
-    <link rel="icon" type="image/png" href="assets/images/favicon.png"> 
+    <link rel="icon" type="image/png" href="assets/images/favicon.png" /> 
 
     <script type='text/javascript' src='assets/javascript/jquery-1.7.2.min.js'></script>
   </head>
