@@ -9,45 +9,23 @@
 
   // Looks for file to include
   $promo_array = array();
+  $promo_files = glob('promos/*.php');
 
-  if($handle = opendir('promos')){
-
-    while(($entry = readdir($handle)) !== false){
-
-      // Skips directories
-      if(is_dir($entry))
-        continue;
-
-      // Files in 'promo' shall be named after the promotion year: <promo>.php
-      // We keep only the year part, and append it to our array.
-      $split = explode('.', $entry);
-      array_push($promo_array, $split[0]);
-    }
-
-    closedir($handle);
+  foreach($promo_files as $file) {
+    $promo_array[] = substr($file, 7, 4); // we keep only the year
   }
-
-  asort($promo_array);
+  rsort($promo_array);
 
   $applis_array = array();
 
-  if($handle = opendir('applis')){
+  $applis_array = array();
+  $applis_files = glob('applis/*.php');
 
-    while(($entry = readdir($handle)) !== false){
-
-      // Skips directories
-      if(is_dir($entry))
-        continue;
-
-      // Files in 'app' file shall be named after the promotion year: <app name>.php
-      $split = explode('.', $entry);
-      array_push($applis_array, $split[0]);
-    }
-
-    closedir($handle);
+  foreach($applis_files as $file) {
+    $file = substr($file, 7);
+    $applis_array[] = substr($file, 0, strpos($file, '.')); // we keep only the name
   }
-
-  asort($applis_array);
+  sort($applis_array);
 ?>
 
 <div id="menu">
@@ -61,16 +39,13 @@
           <ul>
               <?php
                 // Prints the link for each promotion year.
-                $i = 0;
-
-                foreach(array_reverse($promo_array) as $promo){
+                foreach($promo_array as $i => $promo){
                   if ($i < $menu_promo_limit){
                     echo "<li><a href='membres/#promo$promo'><span>Promotion $promo</span></a></li>";
-                    $i++;
                   } else if ($i == $menu_promo_limit){
                     // We still include the 'promo' anchor so that the link works.
                     echo "<li><a href='membres/#promo$promo'><span>Promotions antérieures</span></a></li>";
-                    $i++;
+		    break;
                   }
                 }
                 unset($promo);
@@ -97,4 +72,4 @@
 
     </ul>
   </div>
-</div>​
+</div>
