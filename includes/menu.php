@@ -65,11 +65,11 @@
 
                 foreach(array_reverse($promo_array) as $promo){
                   if ($i < $menu_promo_limit){
-                    echo "<li><a href='membres/#$promo'><span>Promotion $promo</span></a></li>";
+                    echo "<li><a href='membres/#promo$promo'><span>Promotion $promo</span></a></li>";
                     $i++;
                   } else if ($i == $menu_promo_limit){
                     // We still include the 'promo' anchor so that the link works.
-                    echo "<li><a href='membres/#$promo'><span>Promotions antérieures</span></a></li>";
+                    echo "<li><a href='membres/#promo$promo'><span>Promotions antérieures</span></a></li>";
                     $i++;
                   }
                 }
