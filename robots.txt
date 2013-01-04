@@ -5,7 +5,5 @@
 # Disallow: /
 
 User-Agent: *
-Disallow: /page-pro/membres/
-Disallow: /page-pro/includes/pages/membres.php
+Disallow: /membres/
 Disallow: /assets/
-Disallow: /promos/
