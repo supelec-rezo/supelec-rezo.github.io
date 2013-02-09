@@ -67,7 +67,7 @@
     while(($entry = readdir($handle)) !== false){
 
       // Skips directories
-      if(is_dir($entry))
+      if(is_dir($entry) || $entry === ".htaccess")
         continue;
 
       // Files in 'promo' shall be named after the promotion year: <promo>.php
