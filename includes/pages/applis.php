@@ -37,6 +37,24 @@
       <td>Développement en cours</td>
       <td>Outil collaboratif simple de gestion de tâches</td>
     </tr>
+	
+	<tr>
+	  <td><a href="apps/#notifier">Notifier</a></td>
+	  <td>Développement en cours</td>
+	  <td>Outil de surveillance de serveurs de jeu</td>
+	</tr>
+	
+	<tr>
+	  <td><a href="apps/#rezoirclogs">RezoIrcLogs</a></td>
+	  <td>Version 1.9</td>
+	  <td>Application web permettant de parcourir des logs IRC</td>
+	</tr>
+	
+	<tr>
+	  <td><a href="apps/#yoppi">Yoppi</a></td>
+	  <td>Développement en cours</td>
+	  <td>Indexeur automatique de serveurs FTP</td>
+	</tr>
 
   </table>
 </div>
