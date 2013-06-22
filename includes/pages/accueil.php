@@ -51,6 +51,11 @@
     <td>IRC</td>
     <td>Nous hébergeons et administrons un serveur <abbr title="Internet Relay Chat" lang="en">IRC</abbr> de RézoSup</td>
   </tr>
+  <tr>
+    <td><img src='assets/images/icons/vm_server.png' alt= "Serveur de virtualisation"/></td>
+    <td>IRC</td>
+    <td>Nous hébergeons un serveur de virtualisation permettant d'offrir à nos adhérents des machines virtuelles pour leurs projets, ou pour leurs clubs et associations.</td>
+  </tr>
 </table>
 
 <h3>FedeRez</h3>
