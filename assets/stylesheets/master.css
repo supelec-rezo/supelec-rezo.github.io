@@ -242,6 +242,11 @@ abbr {
   width: 90%;
 }
 
+.server-icon{
+  height: 48px;
+  width: 36px;
+}
+
 /* Footer */
 #footer{
   text-align: center;
