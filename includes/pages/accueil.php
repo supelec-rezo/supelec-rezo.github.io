@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td><img src='assets/images/icons/vm_server.png' alt= "Serveur de virtualisation"/></td>
-    <td>IRC</td>
+    <td>Machines virtuelles</td>
     <td>Nous hébergeons un serveur de virtualisation permettant d'offrir à nos adhérents des machines virtuelles pour leurs projets, ou pour leurs clubs et associations.</td>
   </tr>
 </table>
