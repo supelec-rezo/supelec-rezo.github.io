@@ -22,37 +22,37 @@
 <h3>Services</h3>
 <table class="services">
   <tr>
-    <td><img src='assets/images/icons/mail_server.png' alt= "Serveur mail"/></td>
+    <td><img class="server-icon" src='assets/images/icons/mail_server.png' alt= "Serveur mail"/></td>
     <td>Service mail</td>
     <td>Chaque adhérent se voit fournir à son inscription une adresse mail, et la possibilité de s'inscrire aux listes de distribution administrées par Supélec Rézo</td>
   </tr>
   <tr>
-    <td><img src='assets/images/icons/ftp_server.png' alt= "Serveur FTP"/></td>
+    <td><img class="server-icon" src='assets/images/icons/ftp_server.png' alt= "Serveur FTP"/></td>
     <td>Service d'hébergement de fichiers</td>
     <td>Nous fournissons aux associations et clubs du campus la possibilité d'héberger des fichiers. Les élèves peuvent également nous demander en cas de besoin un hébergement personnel</td>
   </tr>
   <tr>
-    <td><img src='assets/images/icons/web_server.png' alt= "Serveur Web"/></td>
+    <td><img class="server-icon" src='assets/images/icons/web_server.png' alt= "Serveur Web"/></td>
     <td>Service d'hébergement web</td>
     <td>Nous proposons aux adhérents un service d'hébergement de sites web</td>
   </tr>
   <tr>
-    <td><img src='assets/images/icons/html.png' alt= "Website"/></td>
+    <td><img class="server-icon" src='assets/images/icons/html.png' alt= "Website"/></td>
     <td>Site communautaire</td>
     <td>Nous proposons un site communautaire, contenant notamment un trombinoscope des étudiants de Supélec, un descriptif des clubs et associations du campus, ainsi qu'une section d'aide à l'adhérent</td>
   </tr>
   <tr>
-    <td><img src='assets/images/icons/tnt_server.png' alt= "Serveur TNT"/></td>
+    <td><img class="server-icon" src='assets/images/icons/tnt_server.png' alt= "Serveur TNT"/></td>
     <td>TNT</td>
     <td>Il est mis à la disposition des élèves la possibilité de regarder la <abbr title="Télévision Numérique Terrestre" lang="fr">TNT</abbr> en multicast à la résidence</td>
   </tr>
   <tr>
-    <td><img src='assets/images/icons/irc_server.png' alt= "Serveur IRC"/></td>
+    <td><img class="server-icon" src='assets/images/icons/irc_server.png' alt= "Serveur IRC"/></td>
     <td>IRC</td>
     <td>Nous hébergeons et administrons un serveur <abbr title="Internet Relay Chat" lang="en">IRC</abbr> de RézoSup</td>
   </tr>
   <tr>
-    <td><img src='assets/images/icons/vm_server.png' alt= "Serveur de virtualisation"/></td>
+    <td><img class="server-icon" src='assets/images/icons/vm_server.png' alt= "Serveur de virtualisation"/></td>
     <td>Machines virtuelles</td>
     <td>Nous hébergeons un serveur de virtualisation permettant d'offrir à nos adhérents des machines virtuelles pour leurs projets, ou pour leurs clubs et associations.</td>
   </tr>

@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <th class="label">Dernière version :</th>
-      <td>Cette application est utilisée en interne, et n'est pas encore disponible au public</td>
+      <td>La dernière version stable est la 2.0. La version 3.0 est en cours de développement.</td>
     </tr>
     <tr>
       <th class="label">Documentation :</th>
@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <th class="label">Dépôt Mercurial :</th>
-      <td>Pas encore disponible pour le public</td>
+      <td>Retrouvez ce dépôt parmi les dépôts mercurial de Supélec Rézo: <a href="https://hg.rez-gif.supelec.fr/kettu-admin/" alt="Dépôt de Kettu">https://hg.rez-gif.supelec.fr/kettu-admin/</a></td>
     </tr>
   </table>
 </div>
