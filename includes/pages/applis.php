@@ -15,12 +15,6 @@
     </tr>
 
     <tr>
-      <td><a href="apps/#dhcpd-mysql">DHCPd MySQL</a></td>
-      <td>Version 0.1 pour dhcpd-3.0.4 (09/04/2007)</td>
-      <td>Ajout du support Mysql au serveur DHCP de l'ISC.</td>
-    </tr>
-
-    <tr>
       <td><a href="apps/#kettu">Kettu</a></td>
       <td>Utilisé en interne, pas encore disponible au public</td>
       <td>Système de gestion d'un réseau local.</td>
@@ -31,30 +25,24 @@
       <td>Version 0.22 (04/05/2008)</td>
       <td>Abstraction simple d'une base de données Mysql en PHP.</td>
     </tr>
-
-    <tr>
-      <td><a href="apps/#rezotask">RezoTask</a></td>
-      <td>Développement en cours</td>
-      <td>Outil collaboratif simple de gestion de tâches</td>
-    </tr>
 	
-	<tr>
-	  <td><a href="apps/#notifier">Notifier</a></td>
-	  <td>Développement en cours</td>
-	  <td>Outil de surveillance de serveurs de jeu</td>
-	</tr>
-	
-	<tr>
-	  <td><a href="apps/#rezoirclogs">RezoIrcLogs</a></td>
-	  <td>Version 1.9</td>
-	  <td>Application web permettant de parcourir des logs IRC</td>
-	</tr>
-	
-	<tr>
-	  <td><a href="apps/#yoppi">Yoppi</a></td>
-	  <td>Développement en cours</td>
-	  <td>Indexeur automatique de serveurs FTP</td>
-	</tr>
+  	<tr>
+  	  <td><a href="apps/#notifier">Notifier</a></td>
+  	  <td>Développement en cours</td>
+  	  <td>Outil de surveillance de serveurs de jeu</td>
+  	</tr>
+  	
+  	<tr>
+  	  <td><a href="apps/#rezoirclogs">RezoIrcLogs</a></td>
+  	  <td>Version 1.9</td>
+  	  <td>Application web permettant de parcourir des logs IRC</td>
+  	</tr>
+  	
+  	<tr>
+  	  <td><a href="apps/#yoppi">Yoppi</a></td>
+  	  <td>Développement en cours</td>
+  	  <td>Indexeur automatique de serveurs FTP</td>
+  	</tr>
 
   </table>
 </div>
