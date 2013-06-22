@@ -1,5 +1,13 @@
 <h1 class="page-title">Historique</h1>
 
+<h3>2012</h3>
+<p>
+  Supélec Rézo investit dans la virtualisation, et se dote de son premier serveur utilisant Xen comme hyperviseur. L'association propose depuis des machines virtuelles à ses adhérents.<br />
+  <br />
+
+  Face au problème de l'augmentation des machines connectées à la résidence, Supélec Rézo refond également son système d'adressage et implémente un NAT permettant aux adhérents de connecter jusqu'à 256 machines chacun.
+</p>
+
 <h3>2010</h3>
 <p>
   Rénovation complète du local Rézo, au rez-de-chaussée la résidence II.C.
