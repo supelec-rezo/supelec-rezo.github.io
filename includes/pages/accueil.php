@@ -75,11 +75,13 @@
     <tr>
       <td><a href = "http://www.larez.fr"><img src='assets/images/icons/rezo.png' alt='Rézo' /></a></td>
       <td><a href = "http://www.federez.net"><img src='assets/images/icons/federez.png' alt='FédeRez' /></a></td>
+      <td><a href = "https://www.april.org"><img src='assets/images/icons/april.png' alt='April' /></a></td>
       <td><a href = "https://github.com/supelec-rezo/"><img src='assets/images/icons/github.png' alt='GitHub' /></a></td>
     </tr>
     <tr>
       <td><a href = "http://www.larez.fr">Site communautaire de Supélec Rézo</a></td>
       <td><a href = "http://www.federez.net">Site de FédeRez</a></td>
+      <td><a href = "https://www.april.org">Site de l'April</a></td>
       <td><a href = "https://github.com/supelec-rezo/">Dépôts GitHub du Rézo</a></td>
     </tr>
   </table>
