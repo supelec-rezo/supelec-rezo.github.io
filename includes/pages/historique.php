@@ -1,5 +1,10 @@
 <h1 class="page-title">Historique</h1>
 
+<h3>2013</h3>
+<p>
+  Supélec Rézo devient membre de l'<a href = "https://www.april.org/">APRIL</a>, association pour la promotion et la défense du logiciel libre.
+</p>
+
 <h3>2012</h3>
 <p>
   Supélec Rézo investit dans la virtualisation, et se dote de son premier serveur utilisant <a href="http://www.xenproject.org/">Xen</a> comme hyperviseur. L'association propose depuis des machines virtuelles à ses adhérents.<br />
