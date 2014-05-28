@@ -79,6 +79,6 @@
   </div>
   
   <div class="promo-right">
-    <img src="assets/images/rezomen/2015.jpg" alt="2015"/>
+    <img src="assets/images/rezomen/2016.jpg" alt="2016"/>
   </div>
 </div>
