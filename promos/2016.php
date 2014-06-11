@@ -75,6 +75,11 @@
         <td></td>
         <td></td>
       </tr>
+      <tr>
+        <th>Bruno PRZETAKIEWICZ</th>
+        <td></td>
+        <td></td>
+      </tr>
     </table>
   </div>
   
