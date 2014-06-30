@@ -14,7 +14,7 @@
 
 <h3>Membres</h3>
 <p>
-  Supélec Rézo est consitué d'une vingtaine d'élèves de Supélec, aussi connus sous le nom de Rézomen.<br />
+  Supélec Rézo est constitué d'une vingtaine d'élèves de Supélec, aussi connus sous le nom de Rézomen.<br />
   Cette équipe s'occupe, en plus de l'administration du réseau, de tenir des permanences, organisées deux fois par semaines le lundi midi et le mercredi soir, ainsi que de répondre quotidiennement aux demandes formulées par ses adhérents. <br />
   Pour plus de précisions, visitez la <a href="membres/">page des membres</a>.
 </p>

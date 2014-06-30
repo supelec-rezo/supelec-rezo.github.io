@@ -28,5 +28,5 @@
 <h4>Points d'accès WiFi</h4>
 
 <p>
-  Les premièrs points d'accès WiFi ont été installés à la résidence en 2008. Il s'agit de bornes <em class="blue">Cisco aironet 1130</em>.
+  Les premiers points d'accès WiFi ont été installés à la résidence en 2008. Il s'agit de bornes <em class="blue">Cisco aironet 1130</em>.
 </p>
