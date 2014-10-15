@@ -46,6 +46,11 @@
         <td></td>
       </tr>
       <tr>
+        <th>Robin LABAT</th>
+        <td></td>
+        <td>(A partir du 24/09/2014)</td>
+      </tr>
+      <tr>
         <th>Paul MARGHERITTA</th>
         <td></td>
         <td></td>
