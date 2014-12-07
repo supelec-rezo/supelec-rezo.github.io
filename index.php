@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
 <?php
   $pages = array(
@@ -12,15 +12,15 @@
   $index = isset($_GET['p']) ? $_GET['p'] : 'accueil';
   $index = array_key_exists($index, $pages) ? $index : 'accueil';
   $page = $pages[$index];
-  
+
   /* Limits the number of promotion years in the members menu */
   $menu_promo_limit = 5;
 ?>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<html lang="fr">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    
+
     <base href="http://www.rezomen.fr/" />
 
     <title>Supélec Rézo</title>
@@ -31,7 +31,7 @@
 		<link rel="stylesheet" href="assets/stylesheets/ie.css" type="text/css" media="screen" />
 	<![endif]-->
 
-    <link rel="icon" type="image/png" href="assets/images/favicon.png" /> 
+    <link rel="icon" type="image/png" href="assets/images/favicon.png" />
 
     <script type='text/javascript' src='assets/javascript/jquery-1.7.2.min.js'></script>
   </head>

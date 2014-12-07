@@ -92,11 +92,13 @@
       <td><a href = "http://fr.viadeo.com/fr/groups/?containerId=0022dk4zvt8bvogs"><img src='assets/images/icons/viadeo.png' alt='Viadéo' /></a></td>
       <td><a href = "http://fr-fr.facebook.com/pages/Supelec-R%C3%A9zo/203625606324218"><img src='assets/images/icons/facebook.png' alt='Facebook' /></a></td>
       <td><a href = "http://www.linkedin.com/groups/Supélec-Rézo-3726879/"><img src='assets/images/icons/linkedin.png' alt='LinkedIn' /></a></td>
+      <td><a href = "http://www.twitter.com/supelec_rezo"><img src='assets/images/icons/twitter.png' width=240 height=120 alt='Twitter' /></a></td>
     </tr>
     <tr>
       <td><a href = "http://fr.viadeo.com/fr/groups/?containerId=0022dk4zvt8bvogs">Page Viadéo</a></td>
       <td><a href = "http://fr-fr.facebook.com/pages/Supelec-R%C3%A9zo/203625606324218">Page Facebook</a></td>
       <td><a href = "http://www.linkedin.com/groups?gid=3726879&amp;trk=group-name">Page LinkedIn</a></td>
+      <td><a href = "http://www.twitter.com/supelec_rezo">Page Twitter</a></td>
     </tr>
   </table>
 </div>

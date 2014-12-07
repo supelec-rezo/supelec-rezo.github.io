@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <th class="label">Dépôt Mercurial :</th>
-      <td>Retrouvez ce dépôt parmi les dépôts mercurial de Supélec Rézo: <a href="https://hg.rez-gif.supelec.fr/kettu-admin/" alt="Dépôt de Kettu">https://hg.rez-gif.supelec.fr/kettu-admin/</a></td>
+      <td>Retrouvez ce dépôt parmi les dépôts mercurial de Supélec Rézo: <a href="https://hg.rez-gif.supelec.fr/kettu-admin/" title="Dépôt de Kettu">https://hg.rez-gif.supelec.fr/kettu-admin/</a></td>
     </tr>
   </table>
 </div>
