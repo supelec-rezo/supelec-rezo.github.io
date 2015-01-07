@@ -6,8 +6,8 @@
     
     <table class="members">
       <tr>
-        <th>Gauthier SEBAUX</th>
-        <td>Président</td>
+	  	<th>Jean-Sébastien RENAUD</th>
+		<td>Président (à partir du 10/12/14, précédemment Secrétaire)</td>
         <td></td>
       </tr>
       <tr>
@@ -16,13 +16,13 @@
         <td></td>
       </tr>
       <tr>
-        <th>Jean-Sébastien RENAUD</th>
-        <td>Secrétaire</td>
+        <th>Hélène BOUDON</th>
+        <td>Secrétaire (à partir du 10/12/14)</td>
         <td></td>
       </tr>
       <tr>
-        <th>Julien MURGEY</th>
-        <td>Vice-Président</td>
+        <th>Fabien Berquez</th>
+        <td>Vice-Président (à partir du 10/12/14)</td>
         <td></td>
       </tr>
     </table>
@@ -30,16 +30,6 @@
     <h3>Conseil d'administration</h3>
     
     <table class="members">
-      <tr>
-        <th>Fabien BERQUEZ</th>
-        <td></td>
-		<td></td>
-      </tr>
-      <tr>
-        <th>Hélène BOUDON</th>
-        <td></td>
-        <td></td>
-      </tr>
       <tr>
         <th>Gabriel DEPARIS</th>
         <td></td>
@@ -56,10 +46,20 @@
         <td></td>
       </tr>
       <tr>
+        <th>Julien MURGEY</th>
+        <td></td>
+		<td>(vice-président jusqu'au 10/12/14 pour cause de départ en semestre)</td>
+      </tr>
+      <tr>
         <th>Antoine RABANY</th>
         <td></td>
         <td></td>
       </tr>
+      <tr>
+		<th>Gauthier SEBAUX</th>
+		<td></td>
+        <td>(président jusqu'au 10/12/14 pour cause de départ en semestre)</td>
+	  </tr>
       <tr>
         <th>Arthur VILLARD</th>
         <td></td>
