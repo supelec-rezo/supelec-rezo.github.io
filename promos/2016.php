@@ -21,7 +21,7 @@
         <td></td>
       </tr>
       <tr>
-        <th>Fabien Berquez</th>
+        <th>Fabien BERQUEZ</th>
         <td>Vice-Président (à partir du 10/12/14)</td>
         <td></td>
       </tr>
