@@ -90,7 +90,8 @@
         <td></td>
         <td></td>
       </tr>
-        <tr>Cyprien THOMAS</tr>
+      <tr>
+        <th>Cyprien THOMAS</th>
         <td></td>
         <td></td>
       </tr>
