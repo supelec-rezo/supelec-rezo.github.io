@@ -41,6 +41,11 @@
         <td></td>
       </tr>
       <tr>
+        <th>Jean-Baptiste DE PLINVAL</th>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
         <th>Julian FARELLA-CHAMPEIX</th>
         <td></td>
         <td>(démissionnaire en avril 2015)</td>
@@ -76,17 +81,16 @@
     
     <table class="members">
       <tr>
-        <th>Jean-Baptiste DE PLINVAL</th>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
         <th>Adrien PALAYRET</th>
         <td></td>
         <td></td>
       </tr>
       <tr>
         <th>Antoine REBEYRE</th>
+        <td></td>
+        <td></td>
+      </tr>
+        <tr>Cyprien THOMAS</tr>
         <td></td>
         <td></td>
       </tr>
