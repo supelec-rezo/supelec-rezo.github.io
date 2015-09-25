@@ -1,4 +1,4 @@
-<div id="promo2016" class="promo">
+<div id="promo2017" class="promo">
   <h2 class='promo-title'>Promotion 2017</h2>
   
   <div class="promo-left">
@@ -6,13 +6,13 @@
     
     <table class="members">
       <tr>
-	  	<th>Eugène NELOU</th>
-		<td>Président</td>
+	<th>Eugène NELOU</th>
+	<td>Président</td>
         <td></td>
       </tr>
       <tr>
         <th>Louise MORIN</th>
-        <td>Trésorier</td>
+        <td>Trésorière</td>
         <td></td>
       </tr>
       <tr>
@@ -61,8 +61,8 @@
         <td></td>
       </tr>
       <tr>
-		<th>Valentin LE TOURNEUX DE LA PERRAUDIERE</th>
-		<td></td>
+	<th>Valentin LE TOURNEUX DE LA PERRAUDIERE</th>
+	<td></td>
         <td></td>
 	  </tr>
       <tr>
