@@ -66,6 +66,11 @@
         <td></td>
 	  </tr>
       <tr>
+	  <tr>
+        <th>Antoine REBEYRE</th>
+        <td></td>
+        <td></td>
+      </tr>
         <th>Yohann SILLAM</th>
         <td></td>
         <td></td>
@@ -85,11 +90,7 @@
         <td></td>
         <td></td>
       </tr>
-      <tr>
-        <th>Antoine REBEYRE</th>
-        <td></td>
-        <td></td>
-      </tr>
+
       <tr>
         <th>Cyprien THOMAS</th>
         <td></td>
