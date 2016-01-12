@@ -53,7 +53,7 @@
       <tr>
         <th>Ghislain FOURNIER</th>
         <td></td>
-		<td></td>
+	<td></td>
       </tr>
       <tr>
         <th>Nicolas GONCALVES</th>
@@ -85,6 +85,11 @@
     <h3>Autres membres</h3>
     
     <table class="members">
+      <tr>
+        <th>Jules CHAMOUX</th>
+        <td></td>
+        <td>(Depuis janvier 2016)</td>
+      </tr>
       <tr>
         <th>Adrien PALAYRET</th>
         <td></td>
