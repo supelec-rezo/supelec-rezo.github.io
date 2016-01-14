@@ -1,12 +1,12 @@
 <h1 class="page-title">Supélec Rézo</h1>
 
 <p>
-  Supélec Rézo est une association loi 1901 administrant le réseau internet de la résidence du campus de Supélec de Gif-sur-Yvette. 
+  Supélec Rézo est une association loi 1901 administrant le réseau internet de la résidence du campus de CentraleSupélec de Gif-sur-Yvette. 
 </p>
 
 <h3>Objectifs et missions</h3>
 <ul>
-  <li>Fournir aux adhérents de l'association une connexion internet</li>
+  <li>Fournir aux adhérents de l'association une connexion à Internet</li>
   <li>Favoriser la communication entre étudiants sur le campus, ce qui passe par l'offre de nombreux services tels qu'un service mail, un hébergement de sites internets, de fichiers...</li>
   <li>Offrir une aide technique aux adhérents en ce qui concerne leurs problèmes d'ordre informatique</li>
   <li>Maintenir et renouveler le parc informatique de la résidence</li>
@@ -14,8 +14,8 @@
 
 <h3>Membres</h3>
 <p>
-  Supélec Rézo est constitué d'une vingtaine d'élèves de Supélec, aussi connus sous le nom de Rézomen.<br />
-  Cette équipe s'occupe, en plus de l'administration du réseau, de tenir des permanences, organisées deux fois par semaines le lundi midi et le mercredi soir, ainsi que de répondre quotidiennement aux demandes formulées par ses adhérents. <br />
+  Supélec Rézo est constitué d'une vingtaine d'élèves de CentraleSupélec, aussi connus sous le nom de Rézomen.<br />
+  Cette équipe s'occupe, en plus de l'administration du réseau, de tenir des permanences, organisées trois fois par semaines les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux demandes formulées par ses adhérents. <br />
   Pour plus de précisions, visitez la <a href="membres/">page des membres</a>.
 </p>
 
@@ -39,7 +39,7 @@
   <tr>
     <td><img class="server-icon" src='assets/images/icons/html.png' alt= "Website"/></td>
     <td>Site communautaire</td>
-    <td>Nous proposons un site communautaire, contenant notamment un trombinoscope des étudiants de Supélec, un descriptif des clubs et associations du campus, ainsi qu'une section d'aide à l'adhérent</td>
+    <td>Nous proposons un site communautaire, contenant notamment un trombinoscope des étudiants de CentraleSupélec, un descriptif des clubs et associations du campus, ainsi qu'une section d'aide à l'adhérent</td>
   </tr>
   <tr>
     <td><img class="server-icon" src='assets/images/icons/tnt_server.png' alt= "Serveur TNT"/></td>
@@ -52,20 +52,20 @@
     <td>Nous hébergeons et administrons un serveur <abbr title="Internet Relay Chat" lang="en">IRC</abbr> de RézoSup</td>
   </tr>
   <tr>
-    <td><img class="server-icon" src='assets/images/icons/vm_server.png' alt= "Serveur de virtualisation"/></td>
+    <td><img class="server-icon" src='assets/images/icons/vm_server.png' alt= "Serveurs de virtualisation"/></td>
     <td>Machines virtuelles</td>
-    <td>Nous hébergeons un serveur de virtualisation permettant d'offrir à nos adhérents des machines virtuelles pour leurs projets, ou pour leurs clubs et associations.</td>
+    <td>Nous hébergeons des serveurs de virtualisation permettant d'offrir à nos adhérents des machines virtuelles pour leurs projets, ou pour leurs clubs et associations.</td>
   </tr>
 </table>
 
 <h3>FedeRez</h3>
 <p>
-  Supélec Rézo est membre de <a href="http://www.federez.net">FedeRez</a>, fédération d'associations regroupant des réseaux étudiants venant de la France entière, et visant à favoriser l'échange entre ces dernières, tant par l'organisation d'évènements regroupants ses membres que par les conseils techniques qu'elle apporte afin de soutenir le développement des projets des associations qu'elle rassemble. FedeRez organise chaque année les <a href="http://www.federez.net/journees/">journées FedeRez</a>, évènement durant lequel sont organisées des conférences sur le thème de l'informatique.
+  Supélec Rézo est membre fondateur de <a href="http://www.federez.net">FedeRez</a>, fédération d'associations regroupant des réseaux étudiants venant de la France entière, et visant à favoriser l'échange entre ces dernières, tant par l'organisation d'évènements regroupants ses membres que par les conseils techniques qu'elle apporte afin de soutenir le développement des projets des associations qu'elle rassemble. FedeRez organise chaque année les <a href="http://www.federez.net/journees/">journées FedeRez</a>, évènement durant lequel sont organisées des conférences sur le thème de l'informatique.
 </p>
 
 <h3>RENATER</h3>
 <p>
-  L'accès internet nous est fourni par l'intermédiaire du <abbr title="Centre des Ressources Informatiques" lang="fr">CRI</abbr> de Supélec, par le fournisseur d'accès <a href="http://www.renater.fr">RENATER</a>, organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l'éducation.
+  L'accès à Internet nous est fourni par l'intermédiaire du <abbr title="Direction des Services Informatiques" lang="fr">DSI</abbr> de l'Université Paris-Sud, par le fournisseur d'accès <a href="http://www.renater.fr">RENATER</a>, organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l'éducation.
 </p>
 
 <h3>Voir aussi</h3>

@@ -58,7 +58,7 @@
       if(is_dir($entry) || $entry === ".htaccess")
         continue;
 
-      // Files in 'promo' shall be named after the promotion year: <promo>.php
+      // Files in 'applis' shall be named after the application name: <apppli>.php
       // We keep only the year part, and append it to our array.
       array_push($applis_array, $entry);
     }

@@ -3,7 +3,6 @@
   function get_app_id_name($name){
     $words = explode(" ", strtolower($name));
     $result = implode('-', $words);
-
     return $result;
   }
 

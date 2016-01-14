@@ -2,7 +2,7 @@
 
 <h2>Serveurs</h2>
 <p>
-  Supélec Rézo possède un parc de 17 serveurs. Ces serveurs sont traditionnellement nommés à partir de noms de personnages de Star Wars.<br />
+  Supélec Rézo possède un parc d'une vingtaine serveurs. Ces serveurs sont traditionnellement nommés à partir de noms de personnages de Star Wars.<br />
 
   Ce parc se compose de machines montées à partir de pièces achetées dans le commerce pour la plupart, mais également d'anciennes machines de membres, ainsi que de serveurs donnés à l'association.
 </p>
@@ -28,5 +28,5 @@
 <h4>Points d'accès WiFi</h4>
 
 <p>
-  Les premiers points d'accès WiFi ont été installés à la résidence en 2008. Il s'agit de bornes <em class="blue">Cisco aironet 1130</em>.
+  Les premiers points d'accès WiFi ont été installés à la résidence en 2008. Il s'agit de bornes <em class="blue">Cisco aironet 1130AG</em> et <em class="blue">Cisco aironet AP1042N</em>. La mise en place complète du réseau WiFi a été finie en 2012. Une refonte totale de ce réseau est actuellement menée.
 </p>

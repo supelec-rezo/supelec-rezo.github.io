@@ -1,5 +1,12 @@
 <h1 class="page-title">Historique</h1>
 
+<h3>2015</h3>
+<p>
+  Supélec Rézo fonde l'<a href="https://myares.fr">ARES</abbr> avec VIA et CR@NS, les associations réseau officiant respectivement sur le campus de CentraleSupélec à Châtenay-Malabry et celui de l'École Normale Supérieure à Chacan. Cette association sert d'interlocuteur aux instances responsables du Projet Paris-Saclay dans la promotion d'un réseau étudiant sur le campus de l'Université Paris-Saclay.
+  </br></br>
+  Supélec Rézo a aussi proocédé à l'amélioration de sa fibre, passant d'un débit de 100Mb/s à 1Gb/s grâce à la coopération avec la DSI de l'Université Paris-Sud.
+ </p>
+  
 <h3>2013</h3>
 <p>
   Supélec Rézo devient membre de l'<a href = "https://www.april.org/">APRIL</a>, association pour la promotion et la défense du logiciel libre.

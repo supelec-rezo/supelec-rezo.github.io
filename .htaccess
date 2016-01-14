@@ -1,5 +1,4 @@
-Order allow,deny
-Allow from all
+Require all granted
 RewriteEngine On
 RewriteBase /
 RewriteRule ^([^\/]+)/$ ?p=$1
