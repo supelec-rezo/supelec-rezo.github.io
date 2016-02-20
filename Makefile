@@ -16,4 +16,4 @@ dirs:
 	mkdir -p $(addprefix $(LOCALE_DIR)/, $(addsuffix /LC_MESSAGES, $(LANGUAGES)))
 
 messages.pot: 
-	xgettext --from-code=UTF-8 -o messages.pot *.php
+	xgettext --from-code=UTF-8 -o messages.pot *.php */*.php */*/*.php
