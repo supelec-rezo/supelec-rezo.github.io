@@ -53,7 +53,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <base href="http://localhost/" />
+    <base href="http://rezomen.fr/" />
 
     <title>Supélec Rézo</title>
 
