@@ -13,22 +13,14 @@
   if(isset($_SESSION['locale'])) {
   	$locale = $locales[$_SESSION['locale']];
   } 
-  $result = putenv('LANG='.$locale);
-  if($result === false)
-    echo 'NOPE!!!!';
-  $result = putenv('LC_ALL='.$locale);
-  if($result === false)
-    echo 'NOPE2!!!!';
+  putenv('LANG='.$locale);
+  putenv('LC_ALL='.$locale);
   
   $domain='messages'; 
   bindtextdomain($domain, 'Locale');
-  $result = bind_textdomain_codeset($domain, 'UTF-8');
-  if($result === false)
-    echo 'NOPE3!!!!';
+  bind_textdomain_codeset($domain, 'UTF-8');
   
-  $result = textdomain($domain);
-  if($result === false)
-    echo 'NOPE4!!!!';
+  textdomain($domain);
 
   setlocale(LC_MESSAGES, $locale);
   
