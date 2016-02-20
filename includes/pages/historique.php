@@ -2,9 +2,9 @@
 
 <h3>2015</h3>
 <p>
-  <?php echo _('Supélec Rézo fonde l\'<a href="https://myares.fr">ARES</a> avec VIA et CR@NS, les associations réseau officiant respectivement sur le campus de CentraleSupélec à Châtenay-Malabry et celui de l\'École Normale Supérieure à Chacan.').' '._('Cette association sert d\'interlocuteur aux instances responsables du Projet Paris-Saclay dans la promotion d\'un réseau étudiant sur le campus de l\'Université Paris-Saclay.'); ?>
+  <?php echo _('Supélec Rézo fonde l\'<a href="https://myares.fr">ARES</a> avec <a href="http://www.via.ecp.fr">VIA</a> et le <a href="http://www.crans.org">CR@NS</a>, les associations de réseaux officiant respectivement sur le campus de CentraleSupélec à Châtenay-Malabry et celui de l\'École Normale Supérieure à Cachan.').' '._('Cette association sert d\'interlocuteur aux instances responsables du Projet Paris-Saclay dans la promotion d\'un réseau étudiant sur le campus de l\'Université Paris-Saclay.'); ?>
   </br></br>
-  <?php echo _('Supélec Rézo a aussi proocédé à l\'amélioration de sa fibre, passant d\'un débit de 100Mb/s à 1Gb/s grâce à la coopération avec la DSI de l\'Université Paris-Sud.'); ?>
+  <?php echo _('Supélec Rézo a aussi procédé à l\'amélioration de sa fibre, passant d\'un débit de 100Mb/s à 1Gb/s grâce à sa coopération avec la DSI de l\'Université Paris-Sud.'); ?>
  </p>
   
 <h3>2013</h3>
