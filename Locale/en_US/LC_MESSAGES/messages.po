@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the rezomen.fr package.
 # Julien Lepiller <tyreunom@larez.fr>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 2016\n"
@@ -12,10 +11,12 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.5-dev\n"
 
 #: applis/Birdo.php:6
 msgid "Indexeur automatique de serveurs FTP."
@@ -67,283 +68,350 @@ msgstr ""
 
 #: applis/Kettu.php:6 includes/pages/applis.php:18
 msgid "Système de gestion d'un réseau local."
-msgstr ""
+msgstr "Local Area Network management system."
 
 #: applis/Kettu.php:7
 msgid ""
 "Il s'agit de l'ensemble de logiciels et de \tscripts que nous utilisons pour administrer le réseau de la "
 "résidence."
 msgstr ""
+"It's a set of applications and scripts we are using in order to administrate "
+"the network of the residence."
 
 #: applis/Kettu.php:8
+#, fuzzy
 msgid "Le projet Kettu est developpé en interne, essentiellement en Ruby."
-msgstr ""
+msgstr "We've developed the Kettu project mainly in Ruby."
 
 #: applis/Kettu.php:9
 msgid ""
 "Il supporte&nbsp;: la gestion des switchs, du DNS, du DHCP, du Firewall, les adhésions et la comptabilité, "
 "les comptes Web, FTP, mail et les mailing-lists des adhérents, ..."
 msgstr ""
+"it feature management of switches, DNS, DHCP, Firewall, memberships, "
+"accounting, Web accounts, FTP accounts, mail accounts and mailing-lists, …"
 
 #: applis/Kettu.php:19
 msgid "Langages :"
-msgstr ""
+msgstr "Languages:"
+
+#: applis/Kettu.php:23 applis/Notifier.php:22 applis/PHP RDG.php:22 applis/RezoIrcLogs.php:22
+#: applis/Yoppi.php:22
+msgid "Dernière version :"
+msgstr "Latest release:"
 
 #: applis/Kettu.php:24
-msgid ""
-"La dernière version stable est la 2.0. La version 3.0 a été abandonnée au profit de la version 4.0, "
-"actuellement en cours de dévelopement."
+msgid "La dernière version stable est la 2.0. La version 3.0 est en cours de développement."
 msgstr ""
+"The latest stable version is 2.0. The version 3.0 is currently being "
+"developed."
+
+#: applis/Kettu.php:27 applis/Notifier.php:26 applis/PHP RDG.php:30 applis/RezoIrcLogs.php:26
+#: applis/Yoppi.php:26
+msgid "Documentation :"
+msgstr "Documentation:"
+
+#: applis/Kettu.php:28 applis/Notifier.php:27 applis/Yoppi.php:27
+msgid "Pas encore disponible"
+msgstr "Not available"
+>>>>>>> Translated using Weblate (English (United States))
 
 #: applis/Kettu.php:31 applis/PHP RDG.php:34
 msgid "Dépôt Mercurial :"
-msgstr ""
+msgstr "Mercurial repository:"
 
 #: applis/Kettu.php:32
 msgid "Retrouvez ce dépôt parmi les dépôts mercurial de Supélec Rézo&nbsp;:"
-msgstr ""
+msgstr "Find it among Supélec Rézo's mercurial repositories:"
 
 #: applis/Notifier.php:6
 msgid "Outil de surveillance de serveurs de jeu."
-msgstr ""
+msgstr "Gaming servers monitoring tool."
 
 #: applis/Notifier.php:7
 msgid ""
 "Cette application permet de détecter et de notifier l'utilisateur quand un joueur rejoint un des serveurs "
 "surveillés."
 msgstr ""
+"This application makes it possible detect and notify a user whenever a "
+"player joins one the monitored servers."
 
 #: applis/Notifier.php:8
 msgid ""
 "La notification s'effectue par une alerte sonore ou visuelle, via une icône dans la zone de notification."
 msgstr ""
+"The notification consists in an alarm or a visual signal in the notification "
+"area."
 
-#: applis/Notifier.php:31 applis/RezoIrcLogs.php:31
+#: applis/Notifier.php:18 applis/PHP RDG.php:18 applis/RezoIrcLogs.php:18 applis/Yoppi.php:18
+msgid "Langage :"
+msgstr "Language:"
+
+#: applis/Notifier.php:23 applis/Yoppi.php:23
+msgid "Cette application est en cours de développement."
+msgstr "This application is currently being developed."
+
+#: applis/Notifier.php:30 applis/RezoIrcLogs.php:30 applis/Yoppi.php:30
+msgid "Dépôt Git :"
+msgstr "Git repository:"
+
+#: applis/Notifier.php:31 applis/RezoIrcLogs.php:31 applis/Yoppi.php:31
 msgid "Retrouvez ce projet sur GitHub&nbsp;:"
-msgstr ""
+msgstr "Find this project on GitHub:"
 
 #: applis/PHP RDG.php:6
 msgid "Implémentation simple du patron de conception Row Data Gateway pour PHP."
 msgstr ""
+"It's a simple implementation of the Row Data Gateway design pattern, "
+"realized in PHP."
 
 #: applis/PHP RDG.php:7
+#, fuzzy
 msgid ""
 "L'objectif de PHP RDG est de fournir une implémentation très simple pour réaliser l'abstraction d'une table "
 "Mysql dans une classe PHP."
 msgstr ""
+"Providing a very simple abstraction layer of MySQL tables is the aim of PHP "
+"RDG."
 
 #: applis/PHP RDG.php:8
+#, fuzzy
 msgid ""
 "Les fonctions habituelles de communication avec la base de données sont factorisées, il n'y a plus qu'à les "
 "inclure dans vos classes en les faisant hériter d'une classe de base."
 msgstr ""
+"Usual communication functions with the databases are centralized in one base "
+"class which then merely needs to be extended by your own classes."
 
 #: applis/PHP RDG.php:24
 msgid "Version 0.22 du 04/05/2008"
-msgstr ""
+msgstr "Version 0.22 from 2008-05-04"
 
 #: applis/PHP RDG.php:25
 msgid "Télécharger au format tar.gz"
-msgstr ""
+msgstr "Download tar.gz"
 
 #: applis/PHP RDG.php:26
 msgid "Télécharger au format zip"
-msgstr ""
+msgstr "Download zip"
 
 #: applis/RezoIrcLogs.php:6 includes/pages/applis.php:36
 msgid "Application web permettant de parcourir des logs IRC"
-msgstr ""
+msgstr "Web application to browse IRC logs"
 
 #: applis/RezoIrcLogs.php:7
 msgid ""
 "Cette application lit et affiche dans un format agréable les logs IRC, en prenant soin de les organiser de "
 "façon hiérarchique et chronologique."
 msgstr ""
+"This application reads and displays IRC logs in a nice format. It organizes "
+"logs hierarchically and chronologically."
 
 #: applis/RezoIrcLogs.php:8
+#, fuzzy
 msgid "Elle permet également d'effectuer des recherches à l'intérieur de ces logs."
-msgstr ""
+msgstr "It also features search functions."
 
 #: applis/RezoIrcLogs.php:23
 msgid "Version 1.9."
-msgstr ""
+msgstr "Version 1.9."
 
 #: applis/RezoIrcLogs.php:27
 msgid "Voir le fichier README"
+msgstr "See README file"
+
+#: applis/Yoppi.php:6
+msgid "Indexeur automatique de serveurs FTP."
+msgstr "Automatic FTP indexer."
+
+#: applis/Yoppi.php:7
+msgid ""
+"Cet outil parcourt et indexe de façon automatique les serveurs FTP dotés d'un accès anonyme sur son réseau."
 msgstr ""
+"This tool scans and indexes FTP servers which allow anonymous access across "
+"the network."
+
+#: applis/Yoppi.php:8
+#, fuzzy
+msgid "Il permet également d'effectuer des recherches dans ces serveurs."
+msgstr "One can also search for files in these servers."
 
 #: includes/footer.php:3
 msgid "Page professionnelle de Sup&eacute;lec R&eacute;zo."
-msgstr ""
+msgstr "Sup&eacute;lec R&eacute;zo professional page."
 
 #: includes/footer.php:3
 msgid "Nous contacter"
-msgstr ""
+msgstr "Contact us"
 
 #: includes/footer.php:4
 msgid "Tous droits r&eacute;serv&eacute;s."
-msgstr "All rights reserved"
+msgstr "All rights reserved."
 
 #: includes/menu.php:33
 msgid "Présentation"
-msgstr ""
+msgstr "Overview"
 
 #: includes/menu.php:35 includes/pages/historique.php:1
 msgid "Historique"
-msgstr ""
+msgstr "History"
 
 #: includes/menu.php:37 includes/pages/accueil.php:15 includes/pages/membres.php:1
 msgid "Membres"
-msgstr ""
+msgstr "Members"
 
 #: includes/menu.php:43 promos/2003.php:2 promos/2004.php:2 promos/2005.php:2 promos/2006.php:2
-#: promos/2007.php:2 promos/2008.php:2 promos/2009.php:2 promos/2010.php:2 promos/2011.php:2 promos/2012.php:2
-#: promos/2013.php:2 promos/2014.php:2 promos/2015.php:2 promos/2016.php:2 promos/2017.php:2
+#: promos/2007.php:2 promos/2008.php:2 promos/2009.php:2 promos/2010.php:2 promos/2011.php:2
+#: promos/2012.php:2 promos/2013.php:2 promos/2014.php:2 promos/2015.php:2 promos/2016.php:2
+#: promos/2017.php:2
+#, fuzzy
 msgid "Promotion"
-msgstr ""
+msgstr "Graduation year"
 
 #: includes/menu.php:46
+#, fuzzy
 msgid "Promotions antérieures"
-msgstr ""
+msgstr "Previously graduated"
 
 #: includes/menu.php:55 includes/pages/matos.php:1
 msgid "Matériel"
-msgstr ""
+msgstr "Hardware"
 
 #: includes/menu.php:57
 msgid "Applications"
-msgstr ""
+msgstr "Applications"
 
 #: includes/menu.php:70 includes/pages/contact.php:1
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 #: promos/2003.php:5 promos/2004.php:5 promos/2005.php:5 promos/2006.php:5 promos/2007.php:5 promos/2008.php:5
 #: promos/2009.php:5 promos/2010.php:6 promos/2011.php:5 promos/2012.php:5 promos/2013.php:5 promos/2014.php:5
 #: promos/2015.php:5 promos/2016.php:5 promos/2017.php:5
 msgid "Bureau"
-msgstr ""
+msgstr "Board"
 
 #: promos/2003.php:10 promos/2004.php:10 promos/2005.php:10 promos/2006.php:10 promos/2007.php:10
 #: promos/2008.php:10 promos/2009.php:10 promos/2010.php:10 promos/2011.php:10 promos/2012.php:10
 #: promos/2013.php:10 promos/2014.php:10 promos/2015.php:10 promos/2016.php:10 promos/2017.php:10
 msgid "Président"
-msgstr ""
+msgstr "President"
 
 #: promos/2003.php:15 promos/2004.php:15 promos/2005.php:15 promos/2006.php:15 promos/2007.php:15
 #: promos/2008.php:15 promos/2009.php:15 promos/2010.php:20 promos/2011.php:15 promos/2012.php:15
 #: promos/2013.php:15 promos/2014.php:15 promos/2015.php:15 promos/2016.php:15
 msgid "Trésorier"
-msgstr ""
+msgstr "Treasurer"
 
 #: promos/2003.php:20 promos/2004.php:20 promos/2005.php:20 promos/2006.php:20 promos/2007.php:20
 #: promos/2008.php:20 promos/2009.php:20 promos/2010.php:25 promos/2011.php:20 promos/2012.php:20
 #: promos/2013.php:20 promos/2013.php:25 promos/2014.php:20 promos/2015.php:20 promos/2016.php:20
 #: promos/2017.php:20
 msgid "Secrétaire"
-msgstr ""
+msgstr "Secretary"
 
 #: promos/2003.php:25 promos/2005.php:25 promos/2006.php:25 promos/2007.php:25 promos/2008.php:25
 #: promos/2009.php:25 promos/2010.php:30 promos/2011.php:25 promos/2012.php:25 promos/2013.php:30
 #: promos/2013.php:35 promos/2014.php:25 promos/2014.php:30 promos/2015.php:25 promos/2016.php:25
 #: promos/2017.php:25
 msgid "Vice-Président"
-msgstr ""
+msgstr "Vice-President"
 
 #: promos/2003.php:30 promos/2004.php:25 promos/2005.php:30 promos/2006.php:30 promos/2007.php:30
 #: promos/2008.php:30 promos/2009.php:55 promos/2010.php:37 promos/2011.php:85 promos/2012.php:65
 #: promos/2013.php:95 promos/2014.php:70 promos/2015.php:60 promos/2016.php:70 promos/2017.php:86
 msgid "Autres membres"
-msgstr ""
+msgstr "Other members"
 
 #: promos/2009.php:30 promos/2010.php:35 promos/2011.php:30 promos/2012.php:30 promos/2013.php:40
-#: promos/2014.php:35 promos/2015.php:30 promos/2016.php:30 promos/2017.php:40
+#: promos/2014.php:35 promos/2015.php:30 promos/2016.php:30 promos/2017.php:30
+#, fuzzy
 msgid "Conseil d'administration"
-msgstr ""
+msgstr "Board of managers"
 
 #: promos/2010.php:11
 msgid "(Du 16/04/2008 jusqu'au 17/12/2008, départ en semestre à l'étranger)"
-msgstr ""
+msgstr "(From 2008-04-16 to 2008-12-17, went for a semester abroad)"
 
 #: promos/2010.php:15
 msgid "Vice-Président puis Président"
-msgstr ""
+msgstr "Vice-President, then President"
 
 #: promos/2010.php:16
 msgid "(Président à partir du 17/12/2008)"
-msgstr ""
+msgstr "(President from 2008-12-17)"
 
 #: promos/2010.php:31
 msgid "(A partir du 17/12/2008)"
-msgstr ""
+msgstr "(From 2008-12-17)"
 
 #: promos/2010.php:42 promos/2011.php:35 promos/2012.php:35 promos/2014.php:45
 msgid "Responsable Technique"
-msgstr ""
+msgstr "Technical Supervisor"
 
 #: promos/2013.php:21
 msgid "(Avril 2011 - Janvier 2012, départ en semestre à l'étranger)"
-msgstr ""
+msgstr "(From April, 2011 to January, 2012, went for a semester abroad)"
 
 #: promos/2013.php:25
 msgid "et Responsable Technique"
-msgstr ""
+msgstr "and Technical Supervisor"
 
 #: promos/2013.php:26
 msgid "(Secrétaire de Janvier 2012 à Avril 2012)"
-msgstr ""
+msgstr "(Secretary from January, 2012 to April, 2012)"
 
 #: promos/2013.php:51
 msgid "(À partir de Septembre 2011)"
-msgstr ""
+msgstr "(From September, 2011)"
 
 #: promos/2013.php:56
 msgid "(Jusqu'au 29/02/2012, départ à l'étranger)"
-msgstr ""
+msgstr "(Until 2012-02-29, went for a semester abroad)"
 
 #: promos/2013.php:61 promos/2013.php:66
 msgid "(Jusqu'à Décembre 2011)"
-msgstr ""
+msgstr "(Until December, 2011)"
 
 #: promos/2013.php:71
 msgid "(Jusqu'au 27/02/2012, départ à l'étranger)"
-msgstr ""
+msgstr "(Until 2012-02-27, went for a semester abroad)"
 
 #: promos/2014.php:41
 msgid "(Jusqu'au 10/10/2011)"
-msgstr ""
+msgstr "(Until 2011-10-10)"
 
 #: promos/2014.php:46
 msgid "(Jusqu'au 10/10/2011, semestre à l'ESCP)"
-msgstr ""
+msgstr "(Until 2011-10-10, exchange student at ESCP)"
 
 #: promos/2014.php:66
 msgid "(À partir du 10/10/2011)"
-msgstr ""
+msgstr "(From 2011-10-10)"
 
 #: promos/2016.php:10
 msgid "(à partir du 10/12/14, précédemment Secrétaire)"
-msgstr ""
+msgstr "(From 2014-12-10, Secretary before)"
 
 #: promos/2016.php:20 promos/2016.php:25
 msgid "(à partir du 10/12/14)"
-msgstr ""
+msgstr "(From 2014-12-10)"
 
 #: promos/2016.php:41
 msgid "(À partir du 24/09/2014)"
-msgstr ""
+msgstr "(From 2014-09-24)"
 
 #: promos/2016.php:51
 msgid "(vice-président jusqu'au 10/12/14 pour cause de départ en semestre)"
-msgstr ""
+msgstr "(Vice-President until 2014-12-10, went for a semester abroad)"
 
 #: promos/2016.php:61
 msgid "(président jusqu'au 10/12/14 pour cause de départ en semestre)"
-msgstr ""
+msgstr "(President until 2014-12-10, went for a semester abroad)"
 
 #: promos/2017.php:15
 msgid "Trésorière"
-msgstr ""
+msgstr "Treasurer"
 
 #: promos/2017.php:30
 msgid "Responsable Infrastructure"
@@ -355,67 +423,79 @@ msgstr ""
 
 #: promos/2017.php:61
 msgid "(démissionnaire en avril 2015)"
-msgstr ""
+msgstr "(resigned in April, 2015)"
 
 #: promos/2017.php:92
 msgid "(Depuis janvier 2016)"
-msgstr ""
+msgstr "(From January, 2016)"
 
 #: includes/pages/accueil.php:4
 msgid ""
 "Supélec Rézo est une association loi 1901 administrant le réseau internet de la résidence du campus de "
 "CentraleSupélec de Gif-sur-Yvette."
 msgstr ""
+"Supélec Rézo is an association defined by the French 1901 law. It "
+"administrates the computer network of CentraleSupélec residence in Gif-sur-"
+"Yvette and provides an Internet access to its members."
 
 #: includes/pages/accueil.php:7
 msgid "Objectifs et missions"
-msgstr ""
+msgstr "Goals and missions"
 
 #: includes/pages/accueil.php:9
 msgid "Fournir aux adhérents de l'association une connexion à Internet"
-msgstr ""
+msgstr "To provide an Internet access to all members of the association"
 
 #: includes/pages/accueil.php:10
 msgid ""
 "Favoriser la communication entre étudiants sur le campus, ce qui passe par l'offre de nombreux services "
 "tels qu'un service mail, un hébergement de sites internets, de fichiers..."
 msgstr ""
+"To promote communications between students on the campus. To do that, we "
+"provide services such as mails, websites hosting, files hosting, …"
 
 #: includes/pages/accueil.php:11
 msgid "Offrir une aide technique aux adhérents en ce qui concerne leurs problèmes d'ordre informatique"
 msgstr ""
+"To provide technical support to members who need help on computer topics"
 
 #: includes/pages/accueil.php:12
 msgid "Maintenir et renouveler le parc informatique de la résidence"
-msgstr ""
+msgstr "To maintain and renew the IT infrastructure of the residence"
 
 #: includes/pages/accueil.php:17
 msgid ""
 "Supélec Rézo est constitué d'une vingtaine d'élèves de CentraleSupélec, aussi connus sous le nom de Rézomen."
 msgstr ""
+"Supélec Rézo is composed of about twenty students from CentraleSupélec. "
+"Their are usually named Rézomen."
 
 #: includes/pages/accueil.php:18
+#, fuzzy
 msgid ""
 "Cette équipe s'occupe, en plus de l'administration du réseau, de tenir des permanences, organisées trois "
 "fois par semaines les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux "
 "demandes formulées par ses adhérents."
 msgstr ""
+"Besides administrating the network, this team has three duty periods a week, "
+"on Monday and Friday at noon and on Wednesday evening. It also continuously "
+"answer to all requests from members."
 
 #: includes/pages/accueil.php:19
 msgid "Pour plus de précisions, visitez la"
-msgstr ""
+msgstr "For more information, please visit the"
 
 #: includes/pages/accueil.php:19
 msgid "page des membres"
-msgstr ""
+msgstr "members page"
 
 #: includes/pages/accueil.php:22
 msgid "Services"
-msgstr ""
+msgstr "Services"
 
 #: includes/pages/accueil.php:26
 msgid "Service mail"
-msgstr ""
+msgstr "Mail service"
 
 #: includes/pages/accueil.php:27
 msgid ""
