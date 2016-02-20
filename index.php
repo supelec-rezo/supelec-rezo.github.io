@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 <?php
+  session_start();
   $locales = array(
   	'fr_FR.utf8',
   	'en_US.utf8'
@@ -12,14 +13,25 @@
   if(isset($_SESSION['locale'])) {
   	$locale = $locales[$_SESSION['locale']];
   } 
-  putenv('LANG='.$locale);
-  putenv('LC_ALL='.$locale);
+  $result = putenv('LANG='.$locale);
+  if($result === false)
+    echo 'NOPE!!!!';
+  $result = putenv('LC_ALL='.$locale);
+  if($result === false)
+    echo 'NOPE2!!!!';
   
   $domain='messages'; 
   bindtextdomain($domain, 'Locale');
-  bind_textdomain_codeset($domain, 'UTF-8');
+  $result = bind_textdomain_codeset($domain, 'UTF-8');
+  if($result === false)
+    echo 'NOPE3!!!!';
   
-  textdomain($domain);
+  $result = textdomain($domain);
+  if($result === false)
+    echo 'NOPE4!!!!';
+
+  setlocale(LC_MESSAGES, $locale);
+  
 
   $pages = array(
     'accueil' => 'accueil.php',

@@ -95,6 +95,17 @@ abbr {
 	height: 200px;
 }
 
+#flags {
+	background: url('images/banner_logo.png') no-repeat center;
+	height: 200px;
+	padding: 1em;
+}
+
+#flags a {
+	display: inline-block;
+	margin: 1em;
+}
+
 /* Wrapper */
 
 #wrapper{
