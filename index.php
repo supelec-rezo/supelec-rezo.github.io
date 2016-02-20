@@ -1,6 +1,26 @@
 <!DOCTYPE html>
 
 <?php
+  $locales = array(
+  	'fr_FR.utf8',
+  	'en_US.utf8'
+  );
+  $locale = $locales[0];
+  if(isset($_GET['locale'])) {
+  	$_SESSION['locale'] = intval($_GET['locale']);
+  } 
+  if(isset($_SESSION['locale'])) {
+  	$locale = $locales[$_SESSION['locale']];
+  } 
+  putenv('LANG='.$locale);
+  putenv('LC_ALL='.$locale);
+  
+  $domain='messages'; 
+  bindtextdomain($domain, 'Locale');
+  bind_textdomain_codeset($domain, 'UTF-8');
+  
+  textdomain($domain);
+
   $pages = array(
     'accueil' => 'accueil.php',
     'historique' => 'historique.php',
@@ -21,7 +41,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <base href="http://www.rezomen.fr/" />
+    <base href="http://localhost/" />
 
     <title>Supélec Rézo</title>
 

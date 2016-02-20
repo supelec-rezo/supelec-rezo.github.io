@@ -1,38 +1,38 @@
 <div id="promo2011" class="promo">
-  <h2 class='promo-title'>Promotion 2011</h2>
+  <h2 class='promo-title'><?php echo _("Promotion");?> 2011</h2>
   
   <div class="promo-left">
-    <h3>Bureau</h3>
+    <h3><?php echo _("Bureau");?></h3>
     
     <table class="members">
       <tr>
         <th>Dimitri WATEL</th>
-        <td>Président</td>
+        <td><?php echo _("Président");?></td>
         <td></td>
       </tr>
       <tr>
         <th>Samuel COULIN</th>
-        <td>Trésorier</td>
+        <td><?php echo _("Trésorier");?></td>
         <td></td>
       </tr>
       <tr>
         <th>Yann ARMELIN</th>
-        <td>Secrétaire</td>
+        <td><?php echo _("Secrétaire");?></td>
         <td></td>
       </tr>
       <tr>
         <th>Yoaan ISAAC</th>
-        <td>Vice-Président</td>
+        <td><?php echo _('Vice-Président');?></td>
         <td></td>
       </tr>
     </table>
       
-    <h3>Conseil d'administration</h3>
+    <h3><?php echo _('Conseil d\'administration');?></h3>
     
     <table class="members">
       <tr>
         <th>Jean-Baptiste BESSELAT</th>
-        <td>Responsable Technique</td>
+        <td><?php echo _('Responsable Technique');?></td>
         <td></td>
       </tr>
       <tr>
@@ -82,7 +82,7 @@
       </tr>
     </table> 
     
-    <h3>Autres membres</h3>
+    <h3><?php echo _('Autres membres');?></h3>
     
     <table class="members">
       

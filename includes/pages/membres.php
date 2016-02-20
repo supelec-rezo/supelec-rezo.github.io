@@ -1,9 +1,9 @@
-<h1 class="page-title">Membres</h1>
+<h1 class="page-title"><?php echo _('Membres');?></h1>
 
 <p>
-  Cette page donne la liste des membres connus de Supélec Rézo depuis la création de l'association en 1991. <br />
-  Les membres du bureau font également partie du Conseil d'Administration, créé par une refonte des statuts en 2008. L'appartenance au conseil d'administration commence en Février de l'année scolaire en cours ou après un vote du Conseil d'administration, et se termine au 30 Avril de l'année suivante.<br />
-  Les années de promotion correspondent à l'année prévue de remise du diplôme.
+  <?php echo _('Cette page donne la liste des membres connus de Supélec Rézo depuis la création de l\'association en 1991.');?> <br />
+  <?php echo _('Les membres du bureau font également partie du Conseil d\'Administration, créé par une refonte des statuts en 2008. L\'appartenance au conseil d\'administration commence en Février de l\'année scolaire en cours ou après un vote du Conseil d\'administration, et se termine au 30 Avril de l\'année suivante.');?><br />
+  <?php echo _('Les années de promotion correspondent à l\'année prévue de remise du diplôme.');?>
 </p>
 
 <?php

@@ -1,33 +1,33 @@
 <div id="promo2006" class="promo">
-  <h2 class='promo-title'>Promotion 2006</h2>
+  <h2 class='promo-title'><?php echo _("Promotion");?> 2006</h2>
   
   <div class="promo-left">
-    <h3>Bureau</h3>
+    <h3><?php echo _("Bureau");?></h3>
     
     <table class="members">
       <tr>
         <th>Matthieu LEMERRE</th>
-        <td>Président</td>
+        <td><?php echo _("Président");?></td>
         <td></td>
       </tr>
       <tr>
         <th>Carl FISCHER</th>
-        <td>Trésorier</td>
+        <td><?php echo _("Trésorier");?></td>
         <td></td>
       </tr>
       <tr>
         <th>François DE PARSCAU DU PLESSIX</th>
-        <td>Secrétaire</td>
+        <td><?php echo _("Secrétaire");?></td>
         <td></td>
       </tr>
       <tr>
         <th>Colin PITRAT</th>
-        <td>Vice-Président</td>
+        <td><?php echo _('Vice-Président');?></td>
         <td></td>
       </tr>
     </table>
     
-    <h3>Autres membres</h3>
+    <h3><?php echo _('Autres membres');?></h3>
     
     <table class="members">
       <tr>

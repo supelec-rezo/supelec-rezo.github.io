@@ -1,33 +1,33 @@
 <div id="promo2017" class="promo">
-  <h2 class='promo-title'>Promotion 2017</h2>
+  <h2 class='promo-title'><?php echo _("Promotion");?> 2017</h2>
   
   <div class="promo-left">
-    <h3>Bureau</h3>
+    <h3><?php echo _("Bureau");?></h3>
     
     <table class="members">
       <tr>
 	<th>Eugène NELOU</th>
-	<td>Président</td>
+	<td><?php echo _("Président");?></td>
         <td></td>
       </tr>
       <tr>
         <th>Louise MORIN</th>
-        <td>Trésorière</td>
+        <td><?php echo _("Trésorière");?></td>
         <td></td>
       </tr>
       <tr>
         <th>Adrien ROL</th>
-        <td>Secrétaire</td>
+        <td><?php echo _("Secrétaire");?></td>
         <td></td>
       </tr>
       <tr>
         <th>Marc BARUSSAUD</th>
-        <td>Vice-Président</td>
+        <td><?php echo _('Vice-Président');?></td>
         <td></td>
       </tr>
     </table>
       
-    <h3>Conseil d'administration</h3>
+    <h3><?php echo _('Conseil d\'administration');?></h3>
     
     <table class="members">
       <tr>
@@ -48,7 +48,7 @@
       <tr>
         <th>Julian FARELLA-CHAMPEIX</th>
         <td></td>
-        <td>(démissionnaire en avril 2015)</td>
+        <td><?php echo _('(démissionnaire en avril 2015)');?></td>
       </tr>
       <tr>
         <th>Ghislain FOURNIER</th>
@@ -82,13 +82,13 @@
       </tr>
     </table>
     
-    <h3>Autres membres</h3>
+    <h3><?php echo _('Autres membres');?></h3>
     
     <table class="members">
       <tr>
         <th>Jules CHAMOUX</th>
         <td></td>
-        <td>(Depuis janvier 2016)</td>
+        <td><?php echo _('(Depuis janvier 2016)');?></td>
       </tr>
       <tr>
         <th>Adrien PALAYRET</th>

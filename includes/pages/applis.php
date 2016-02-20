@@ -1,47 +1,45 @@
-<h1 class="page-title"> Applications développées </h1>
+<h1 class="page-title"><?php echo _('Applications développées'); ?> </h1>
 
 <p>
-  Vous trouverez sur cette page les projets de l'équipe de développement logiciel
-  de l'association <a href="http://www.rez-gif.supelec.fr">Supélec Rézo</a>. Pour toute question,
-  remarque, insulte, contactez Supélec Rézo sur sa <a href="mailto:rezo@rez-gif.supelec.fr">mailing-list</a>.
+  <?php echo _('Vous trouverez sur cette page les projets de l\'équipe de développement logiciel de l\'association <a href="http://www.rez-gif.supelec.fr">Supélec Rézo</a>'); ?>. <?php echo _('Pour toute question, remarque, insulte, contactez Supélec Rézo sur sa <a href="mailto:rezo@rez-gif.supelec.fr">mailing-list</a>.'); ?>
 </p>
 
 <div>
   <table id="apps-summary">
     <tr>
-      <th>Nom du projet</th>
-      <th>Dernière version</th>
-      <th>Description</th>
+      <th><?php echo _('Nom du projet'); ?></th>
+      <th><?php echo _('Dernière version'); ?></th>
+      <th><?php echo _('Description'); ?></th>
     </tr>
 
     <tr>
       <td><a href="apps/#kettu">Kettu</a></td>
-      <td>Utilisé en interne, pas encore disponible au public</td>
-      <td>Système de gestion d'un réseau local.</td>
+      <td><?php echo _('Utilisé en interne, pas encore disponible au public'); ?></td>
+      <td><?php echo _('Système de gestion d\'un réseau local.'); ?></td>
     </tr>
 
     <tr>
       <td><a href="apps/#phprdg">PHP RDG</a></td>
-      <td>Version 0.22 (04/05/2008)</td>
-      <td>Abstraction simple d'une base de données Mysql en PHP.</td>
+      <td><?php echo _('Version'); ?> 0.22 (04/05/2008)</td>
+      <td><?php echo _('Abstraction simple d\'une base de données Mysql en PHP.'); ?></td>
     </tr>
 	
   	<tr>
   	  <td><a href="apps/#notifier">Notifier</a></td>
-  	  <td>Développement en cours</td>
-  	  <td>Outil de surveillance de serveurs de jeu</td>
+  	  <td><?php echo _('Développement en cours'); ?></td>
+  	  <td><?php echo _('Outil de surveillance de serveurs de jeu'); ?></td>
   	</tr>
   	
   	<tr>
   	  <td><a href="apps/#rezoirclogs">RezoIrcLogs</a></td>
-  	  <td>Version 1.9</td>
-  	  <td>Application web permettant de parcourir des logs IRC</td>
+  	  <td><?php echo _('Version'); ?> 1.9</td>
+  	  <td><?php echo _('Application web permettant de parcourir des logs IRC'); ?></td>
   	</tr>
   	
   	<tr>
   	  <td><a href="apps/#yoppi">Yoppi</a></td>
-  	  <td>Développement en cours</td>
-  	  <td>Indexeur automatique de serveurs FTP</td>
+  	  <td><?php echo _('Développement en cours'); ?></td>
+  	  <td><?php echo _('Indexeur automatique de serveurs FTP'); ?></td>
   	</tr>
 
   </table>

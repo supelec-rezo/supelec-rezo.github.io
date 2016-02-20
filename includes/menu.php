@@ -30,20 +30,20 @@
 <div id="menu">
   <div id="nav">
     <ul>
-      <li><a href="accueil/"><span>Présentation</span></a></li>
+      <li><a href="accueil/"><span><?php echo _('Présentation');?></span></a></li>
 
-      <li><a href="historique/"><span>Historique</span></a></li>
+      <li><a href="historique/"><span><?php echo _('Historique');?></span></a></li>
 
-      <li class="dropdown"><a href="membres/"><span>Membres</span></a>
+      <li class="dropdown"><a href="membres/"><span><?php echo _('Membres');?></span></a>
           <ul>
               <?php
                 // Prints the link for each promotion year.
                 foreach($promo_array as $i => $promo){
                   if ($i < $menu_promo_limit){
-                    echo "<li><a href='membres/#promo$promo'><span>Promotion $promo</span></a></li>";
+                    echo "<li><a href='membres/#promo$promo'><span>"._('Promotion')." $promo</span></a></li>";
                   } else if ($i == $menu_promo_limit){
                     // We still include the 'promo' anchor so that the link works.
-                    echo "<li><a href='membres/#promo$promo'><span>Promotions antérieures</span></a></li>";
+                    echo "<li><a href='membres/#promo$promo'><span>"._('Promotions antérieures')."</span></a></li>";
 		    break;
                   }
                 }
@@ -52,9 +52,9 @@
           </ul>
       </li>
 
-      <li><a href="matos/"><span>Matériel</span></a></li>
+      <li><a href="matos/"><span><?php echo _('Matériel');?></span></a></li>
 
-      <li class="dropdown"><a href="apps/"><span>Applications</span></a>
+      <li class="dropdown"><a href="apps/"><span><?php echo _('Applications');?></span></a>
           <ul>
               <?php
                 // Prints the link for each app.
@@ -67,7 +67,7 @@
           </ul>
       </li>
 
-      <li><a href="contact/"><span>Contact</span></a></li>
+      <li><a href="contact/"><span><?php echo _('Contact');?></span></a></li>
 
     </ul>
   </div>
