@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-02-21 12:04+0000\n"
-"Last-Translator: julien.lepiller <julien.lepiller@supelec.fr>\n"
+"PO-Revision-Date: 2016-02-21 19:10+0000\n"
+"Last-Translator: arthur.villard <choco1394@hotmail.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -77,20 +77,19 @@ msgid ""
 "Il s'agit de l'ensemble de logiciels et de \tscripts que nous utilisons pour administrer le réseau de la "
 "résidence."
 msgstr ""
-"It's a set of applications and scripts we are using in order to administrate "
-"the network of the residence."
+"It is the set of applications and scripts we are using in order to "
+"administrate the network of the residence."
 
 #: applis/Kettu.php:8
-#, fuzzy
 msgid "Le projet Kettu est developpé en interne, essentiellement en Ruby."
-msgstr "We've developed the Kettu project mainly in Ruby."
+msgstr "The Kettu project is developed internally, mainly in Ruby."
 
 #: applis/Kettu.php:9
 msgid ""
 "Il supporte&nbsp;: la gestion des switchs, du DNS, du DHCP, du Firewall, les adhésions et la comptabilité, "
 "les comptes Web, FTP, mail et les mailing-lists des adhérents, ..."
 msgstr ""
-"it feature management of switches, DNS, DHCP, Firewall, memberships, "
+"it features: management of the switches, DNS, DHCP, Firewall, memberships, "
 "accounting, Web accounts, FTP accounts, mail accounts and mailing-lists, …"
 
 #: applis/Kettu.php:19
@@ -135,7 +134,7 @@ msgid ""
 "Cette application permet de détecter et de notifier l'utilisateur quand un joueur rejoint un des serveurs "
 "surveillés."
 msgstr ""
-"This application makes it possible detect and notify a user whenever a "
+"This application makes it possible to detect and notify a user whenever a "
 "player joins one the monitored servers."
 
 #: applis/Notifier.php:8
@@ -164,8 +163,7 @@ msgstr "Find this project on GitHub:"
 #: applis/PHP RDG.php:6
 msgid "Implémentation simple du patron de conception Row Data Gateway pour PHP."
 msgstr ""
-"It's a simple implementation of the Row Data Gateway design pattern, "
-"realized in PHP."
+"It's a simple implementation of the Row Data Gateway design pattern in PHP."
 
 #: applis/PHP RDG.php:7
 #, fuzzy
@@ -266,7 +264,6 @@ msgstr "Members"
 #: promos/2007.php:2 promos/2008.php:2 promos/2009.php:2 promos/2010.php:2 promos/2011.php:2
 #: promos/2012.php:2 promos/2013.php:2 promos/2014.php:2 promos/2015.php:2 promos/2016.php:2
 #: promos/2017.php:2
-#, fuzzy
 msgid "Promotion"
 msgstr "Graduation year"
 
@@ -437,8 +434,8 @@ msgid ""
 "CentraleSupélec de Gif-sur-Yvette."
 msgstr ""
 "Supélec Rézo is an association defined by the French 1901 law. It "
-"administrates the computer network of CentraleSupélec residence in Gif-sur-"
-"Yvette and provides an Internet access to its members."
+"administrates the computer network of the CentraleSupélec residence in Gif-"
+"sur-Yvette and provides an Internet access to its members."
 
 #: includes/pages/accueil.php:7
 msgid "Objectifs et missions"
