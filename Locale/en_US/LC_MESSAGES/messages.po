@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-02-21 19:10+0000\n"
+"PO-Revision-Date: 2016-02-21 20:44+0000\n"
 "Last-Translator: arthur.villard <choco1394@hotmail.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
@@ -102,6 +102,7 @@ msgid "Dernière version :"
 msgstr "Latest release:"
 
 #: applis/Kettu.php:24
+#, fuzzy
 msgid "La dernière version stable est la 2.0. La version 3.0 est en cours de développement."
 msgstr ""
 "The latest stable version is 2.0. The version 3.0 is currently being "
@@ -113,6 +114,7 @@ msgid "Documentation :"
 msgstr "Documentation:"
 
 #: applis/Kettu.php:28 applis/Notifier.php:27 applis/Yoppi.php:27
+#, fuzzy
 msgid "Pas encore disponible"
 msgstr "Not available"
 >>>>>>> Translated using Weblate (English (United States))
@@ -126,6 +128,7 @@ msgid "Retrouvez ce dépôt parmi les dépôts mercurial de Supélec Rézo&nbsp;
 msgstr "Find it among Supélec Rézo's mercurial repositories:"
 
 #: applis/Notifier.php:6
+#, fuzzy
 msgid "Outil de surveillance de serveurs de jeu."
 msgstr "Gaming servers monitoring tool."
 
@@ -149,6 +152,7 @@ msgid "Langage :"
 msgstr "Language:"
 
 #: applis/Notifier.php:23 applis/Yoppi.php:23
+#, fuzzy
 msgid "Cette application est en cours de développement."
 msgstr "This application is currently being developed."
 
@@ -184,6 +188,7 @@ msgstr ""
 "class which then merely needs to be extended by your own classes."
 
 #: applis/PHP RDG.php:24
+#, fuzzy
 msgid "Version 0.22 du 04/05/2008"
 msgstr "Version 0.22 from 2008-05-04"
 
@@ -451,7 +456,7 @@ msgid ""
 "tels qu'un service mail, un hébergement de sites internets, de fichiers..."
 msgstr ""
 "To promote communications between students on the campus. To do that, we "
-"provide services such as mails, websites hosting, files hosting, …"
+"provide services such as mails, website hosting, file hosting, …"
 
 #: includes/pages/accueil.php:11
 msgid "Offrir une aide technique aux adhérents en ce qui concerne leurs problèmes d'ordre informatique"
@@ -466,8 +471,8 @@ msgstr "To maintain and renew the IT infrastructure of the residence"
 msgid ""
 "Supélec Rézo est constitué d'une vingtaine d'élèves de CentraleSupélec, aussi connus sous le nom de Rézomen."
 msgstr ""
-"Supélec Rézo is composed of about twenty students from CentraleSupélec. "
-"Their are usually named Rézomen."
+"Supélec Rézo is composed of about twenty students from CentraleSupélec. They "
+"are usually named Rézomen."
 
 #: includes/pages/accueil.php:18
 #, fuzzy
@@ -497,20 +502,26 @@ msgid "Service mail"
 msgstr "Mail service"
 
 #: includes/pages/accueil.php:27
+#, fuzzy
 msgid ""
 "Chaque adhérent se voit fournir à son inscription une adresse mail, et la possibilité de s'inscrire aux "
 "listes de diffusion administrées par Supélec Rézo."
 msgstr ""
+"When registering, each member receives a mail adress and the possibility to "
+"subscibe to the mailing lists managed by Supélec Rézo."
 
 #: includes/pages/accueil.php:31
 msgid "Service d'hébergement de fichiers"
 msgstr "File hosting service"
 
 #: includes/pages/accueil.php:32
+#, fuzzy
 msgid ""
 "Nous fournissons aux associations et clubs du campus la possibilité d'héberger des fichiers. Les élèves "
 "peuvent également nous demander en cas de besoin un hébergement personnel."
 msgstr ""
+"We offer a file hosting service for the clubs and societies of the campus. "
+"Students can also make a request for an indiviual hosting if needed."
 
 #: includes/pages/accueil.php:36
 msgid "Service d'hébergement web"
@@ -518,7 +529,7 @@ msgstr "Web hosting service"
 
 #: includes/pages/accueil.php:37
 msgid "Nous proposons aux adhérents un service d'hébergement de sites web."
-msgstr ""
+msgstr "We offer a web hosting service for the students."
 
 #: includes/pages/accueil.php:41
 #, fuzzy
@@ -526,19 +537,25 @@ msgid "Site communautaire"
 msgstr "Community website"
 
 #: includes/pages/accueil.php:42
+#, fuzzy
 msgid ""
 "Nous proposons un site communautaire, contenant notamment un trombinoscope des étudiants de "
 "CentraleSupélec, un descriptif des clubs et associations du campus, ainsi qu'une section d'aide à "
 "l'adhérent."
 msgstr ""
+"We offer a community website with a trombinoscope of the CentraleSupélec's "
+"students, a description of the clubs and societies on the campus and a help "
+"section for our members."
 
 #: includes/pages/accueil.php:47
+#, fuzzy
 msgid "Il est mis à la disposition des élèves la possibilité de regarder la"
-msgstr ""
+msgstr "We give students a way to watch the"
 
 #: includes/pages/accueil.php:47
-msgid "en multicast à la résidence."
-msgstr ""
+#, fuzzy
+msgid "en multicast à la résidence"
+msgstr "in multicast inside the residence"
 
 #: includes/pages/accueil.php:52
 msgid ""
@@ -551,104 +568,137 @@ msgid "Machines virtuelles"
 msgstr "Virtual machines"
 
 #: includes/pages/accueil.php:57
+#, fuzzy
 msgid ""
 "Nous hébergeons des serveurs de virtualisation permettant d'offrir à nos adhérents des machines virtuelles "
 "pour leurs projets, ou pour leurs clubs et associations."
 msgstr ""
+"We host virtualization servers in order to offer virtual machines for our "
+"members' projects or for the club and societies on the campus."
 
 #: includes/pages/accueil.php:63
+#, fuzzy
 msgid "Supélec Rézo est membre fondateur de"
-msgstr ""
+msgstr "Supélec Rézo is a founding member of"
 
 #: includes/pages/accueil.php:63
+#, fuzzy
 msgid ""
 "fédération d'associations regroupant des réseaux étudiants venant de la France entière, et visant à "
 "favoriser l'échange entre ces dernières, tant par l'organisation d'événements regroupants ses membres que "
 "par les conseils techniques qu'elle apporte afin de soutenir le développement des projets des associations "
 "qu'elle rassemble."
 msgstr ""
+"federation of student network associations from the whole France which aims "
+"at improving the exchanges between them by organizing events for its members "
+"as well as giving technical advice to support their on-going projects."
 
 #: includes/pages/accueil.php:63
+#, fuzzy
 msgid "FedeRez organise chaque année les"
-msgstr ""
+msgstr "Each year, FedeRez organizes the"
 
 #: includes/pages/accueil.php:63
+#, fuzzy
 msgid "journées FedeRez"
-msgstr ""
+msgstr "\"journées FedeRez\" (FedeRez's days)"
 
 #: includes/pages/accueil.php:63
+#, fuzzy
 msgid "événement durant lequel sont organisées des conférences sur le thème de l'informatique."
 msgstr ""
+"an event which consists of conferences and talks about the computing world."
 
 #: includes/pages/accueil.php:68
+#, fuzzy
 msgid "L'accès à Internet nous est fourni par l'intermédiaire du"
-msgstr ""
+msgstr "The Internet acces is given to us by"
 
 #: includes/pages/accueil.php:68
+#, fuzzy
 msgid "DSI"
-msgstr ""
+msgstr "ISD"
 
 #: includes/pages/accueil.php:68
+#, fuzzy
 msgid "de l'Université Paris-Sud, par le fournisseur d'accès"
-msgstr ""
+msgstr "of the University of Paris-Sud through the provider"
 
 #: includes/pages/accueil.php:68
+#, fuzzy
 msgid "organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l'éducation."
 msgstr ""
+"organization in charge of grouping the telecommunication infrastructure for "
+"the research and the education."
 
 #: includes/pages/accueil.php:71
+#, fuzzy
 msgid "Voir aussi"
-msgstr ""
+msgstr "See also"
 
 #: includes/pages/accueil.php:73
+#, fuzzy
 msgid "Supélec Rézo sur le web"
-msgstr ""
+msgstr "Supélec Rézo on the Web"
 
 #: includes/pages/accueil.php:82
+#, fuzzy
 msgid "Site communautaire de Supélec Rézo"
-msgstr ""
+msgstr "Community website of Supélec Rézo"
 
 #: includes/pages/accueil.php:83
+#, fuzzy
 msgid "Site de FédeRez"
-msgstr ""
+msgstr "Website of FedeRez"
 
 #: includes/pages/accueil.php:84
+#, fuzzy
 msgid "Site de l'April"
-msgstr ""
+msgstr "Website of the April"
 
 #: includes/pages/accueil.php:85
+#, fuzzy
 msgid "Dépôts GitHub du Rézo"
-msgstr ""
+msgstr "GitHub repositories of Supélec Rézo"
 
 #: includes/pages/accueil.php:89
+#, fuzzy
 msgid "Supélec Rézo sur les réseaux sociaux"
-msgstr ""
+msgstr "Supélec Rézo on the social networks"
 
 #: includes/pages/accueil.php:98
+#, fuzzy
 msgid "Page Viadéo"
-msgstr ""
+msgstr "Viadéo page"
 
 #: includes/pages/accueil.php:99
+#, fuzzy
 msgid "Page Facebook"
-msgstr ""
+msgstr "Facebook page"
 
 #: includes/pages/accueil.php:100
+#, fuzzy
 msgid "Page LinkedIn"
-msgstr ""
+msgstr "LinkedIn page"
 
 #: includes/pages/accueil.php:101
+#, fuzzy
 msgid "Page Twitter"
-msgstr ""
+msgstr "Twitter page"
 
 #: includes/pages/applis.php:1
+#, fuzzy
 msgid "Applications développées"
-msgstr ""
+msgstr "Created applications"
 
 #: includes/pages/applis.php:4
+#, fuzzy
 msgid ""
 "Vous trouverez sur cette page les projets de l'équipe de développement logiciel de l'association <a href="
 "\"http://www.rez-gif.supelec.fr\">Supélec Rézo</a>"
 msgstr ""
+"You can find on this page the projects of the software development team of "
+"the association <a href=\"http://www.rez-gif.supelec.fr\">Supélec Rézo</a>."
 
 #: includes/pages/applis.php:4
 msgid ""
