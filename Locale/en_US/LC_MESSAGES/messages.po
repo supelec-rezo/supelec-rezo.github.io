@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-02-21 20:44+0000\n"
+"PO-Revision-Date: 2016-02-21 22:00+0000\n"
 "Last-Translator: arthur.villard <choco1394@hotmail.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
@@ -701,117 +701,170 @@ msgstr ""
 "the association <a href=\"http://www.rez-gif.supelec.fr\">Supélec Rézo</a>."
 
 #: includes/pages/applis.php:4
+#, fuzzy
 msgid ""
 "Pour toute question, remarque, insulte, contactez Supélec Rézo sur sa <a href=\"mailto:rezo@rez-gif.supelec."
 "fr\">mailing-list</a>."
 msgstr ""
+"If you have any question or suggestion, please contact Supélec Rézo on its <"
+"a href=\"mailto:rezo@rez-gif.supelec.fr\">mailing-list</a>."
 
 #: includes/pages/applis.php:10
+#, fuzzy
 msgid "Nom du projet"
-msgstr ""
+msgstr "Name of the project"
 
 #: includes/pages/applis.php:11
+#, fuzzy
 msgid "Dernière version"
-msgstr ""
+msgstr "Latest version"
 
 #: includes/pages/applis.php:12
+#, fuzzy
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: includes/pages/applis.php:17
+#, fuzzy
 msgid "Utilisé en interne, pas encore disponible au public"
-msgstr ""
+msgstr "Used internally, not publicly available yet"
 
 #: includes/pages/applis.php:23 includes/pages/applis.php:35
+#, fuzzy
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: includes/pages/applis.php:24
+#, fuzzy
 msgid "Abstraction simple d'une base de données Mysql en PHP."
-msgstr ""
+msgstr "Simple abstraction of a MySQL database en PHP."
 
 #: includes/pages/applis.php:29 includes/pages/applis.php:41
+#, fuzzy
 msgid "Développement en cours"
-msgstr ""
+msgstr "Under development"
 
 #: includes/pages/applis.php:30
+#, fuzzy
 msgid "Outil de surveillance de serveurs de jeu"
-msgstr ""
+msgstr "Monitoring tool for game servers"
 
 #: includes/pages/applis.php:42
+#, fuzzy
 msgid "Indexeur automatique de serveurs FTP"
-msgstr ""
+msgstr "Automatic FTP server indexer"
 
 #: includes/pages/contact.php:4
+#, fuzzy
 msgid "Vous pouvez nous contacter&nbsp;:"
-msgstr ""
+msgstr "You can contact us:"
 
 #: includes/pages/contact.php:8
+#, fuzzy
 msgid "Par mail via notre mailing&nbsp;:"
-msgstr ""
+msgstr "by mail using our mailing-list:"
 
 #: includes/pages/contact.php:9
+#, fuzzy
 msgid "En nous écrivant à l'adresse"
-msgstr ""
+msgstr "by writting to"
 
 #: includes/pages/contact.php:10
+#, fuzzy
 msgid "Sur IRC sur le chan"
-msgstr ""
+msgstr "By IRC on the channel"
 
 #: includes/pages/historique.php:5
+#, fuzzy
 msgid ""
 "Supélec Rézo fonde l'<a href=\"https://myares.fr\">ARES</a> avec <a href=\"http://www.via.ecp.fr\">VIA</a> "
 "et le <a href=\"http://www.crans.org\">CR@NS</a>, les associations de réseaux officiant respectivement sur "
 "le campus de CentraleSupélec à Châtenay-Malabry et celui de l'École Normale Supérieure à Cachan."
 msgstr ""
+"Supélec Rézo forms the <a href=\"https://myares.fr\">ARES</a> together with <"
+"a href=\"http://www.via.ecp.fr\">VIA</a> and the <a href=\"http://www.crans."
+"org\">CR@NS</a>, the student network associations based respectively on the "
+"campus of CentraleSupélec in Châtenay-Malabry and the campus of the École "
+"Normale Supérieure in Cachan."
 
 #: includes/pages/historique.php:5
+#, fuzzy
 msgid ""
 "Cette association sert d'interlocuteur aux instances responsables du Projet Paris-Saclay dans la promotion "
 "d'un réseau étudiant sur le campus de l'Université Paris-Saclay."
 msgstr ""
+"This association is meant to be the spokesperson with the authorities in "
+"charge of the Paris-Saclay project to promote a student network on the "
+"campus of the University of Paris-Saclay."
 
 #: includes/pages/historique.php:7
+#, fuzzy
 msgid ""
 "Supélec Rézo a aussi procédé à l'amélioration de sa fibre, passant d'un débit de 100Mb/s à 1Gb/s grâce à sa "
 "coopération avec la DSI de l'Université Paris-Sud."
 msgstr ""
+"Supélec Rézo also proceeded to upgrade its fiber, going from a throughput of "
+"100Mb/s to a throughput of 1Gb/s thanks to the help of the ISD of the "
+"University of Paris-Saclay."
 
 #: includes/pages/historique.php:12
+#, fuzzy
 msgid ""
 "Supélec Rézo devient membre de l'<a href = \"https://www.april.org/\">APRIL</a>, association pour la "
 "promotion et la défense du logiciel libre."
 msgstr ""
+"Supélec Rézo becomes a member of the <a href = \"https://www.april.org/\""
+">APRIL</a>, a French association for the promotion and the defense of open-"
+"source software."
 
 #: includes/pages/historique.php:17
+#, fuzzy
 msgid ""
 "Supélec Rézo investit dans la virtualisation, et se dote de son premier serveur utilisant <a href=\"http://"
 "www.xenproject.org/\">Xen</a> comme hyperviseur."
 msgstr ""
+"Supélec Rézo invests in virtualization solutions and equip itself with its "
+"first server using <a href=\"http://www.xenproject.org/\">Xen</a> as the "
+"hypervisor."
 
 #: includes/pages/historique.php:17
+#, fuzzy
 msgid " L'association propose depuis des machines virtuelles à ses adhérents."
-msgstr ""
+msgstr " Since then, the association offers virtual machines to its members."
 
 #: includes/pages/historique.php:20
+#, fuzzy
 msgid ""
 "Face au problème de l'augmentation des machines connectées à la résidence, Supélec Rézo refond également "
 "son système d'adressage et implémente un <a href=\"http://fr.wikipedia.org/wiki/Network_address_translation"
 "\">NAT</a> permettant aux adhérents de connecter jusqu'à 256 machines chacun."
 msgstr ""
+"Due to the increase in the number of devices connected to the residence, "
+"Supélec Rézo also rebuild its addressing scheme and implement a <a href=\""
+"http://en.wikipedia.org/wiki/Network_address_translation\">NAT</a> allowing "
+"each member to connect up to 256 devices."
 
 #: includes/pages/historique.php:25
+#, fuzzy
 msgid "Rénovation complète du local Rézo, au rez-de-chaussée la résidence II.C."
 msgstr ""
+"Complete renovation of the Rézo's office, at the ground floor of the "
+"residence II.C."
 
 #: includes/pages/historique.php:30
+#, fuzzy
 msgid ""
 "Supélec Rézo renouvelle entièrement son architecture physique, accomplissement d'un projet datant de 2007. "
 "De nombreux switchs sont achetés à HP avec l'aide du CRI de Supélec et de CESAL (Organisme gérant de la "
 "résidence des élèves de Supélec) ; ils seront installés entre novembre et décembre 2009."
 msgstr ""
+"Suéplec Rézo cxompletely renew its ahrdware architecture, end point of a "
+"project started in 2007. Many switches were bought from HP with the help of "
+"Supélec's CRI and CESAL (organization managing the residence of Supélec's "
+"students); they will be deployed between November and December 2009."
 
 #: includes/pages/historique.php:35
+#, fuzzy
 msgid ""
 "Supélec Rezo fonde <a href=\"http://www.federez.net\">FedeRez</a>, en association avec <a href=\"http://br."
 "binets.fr/Accueil\">Binet Réseau</a> (Polytechnique), <a href=\"http://www.crans.org/\">CR@NS</a> (École "
@@ -821,191 +874,282 @@ msgid ""
 "et <a href=\"http://www.via.ecp.fr/\">VIA Centrale Réseaux</a> (École Centrale Paris ), la Fédération des "
 "Réseaux Étudiants."
 msgstr ""
+"Supélec Rézo forms <a href=\"http://www.federez.net\">FedeRez</a>, the "
+"federation of student networks, together with <a href=\"http://br.binets.fr/"
+"Accueil\">Binet Réseau</a> (École  Polytechnique), <a href=\""
+"http://www.crans.org/\">CR@NS</a> (École Normale Supérieure de Cachan), <a "
+"href=\"http://resel.fr/\">ResEl</a> (TELECOM Bretagne - Institut TELECOM), <"
+"a href=\"http://www.rezel.net/\">Rezel</a> (TELECOM ParisTech - Télécom "
+"Paris - Institut TELECOM), <a href=\"http://www.rez-rennes.supelec.fr/\">"
+"Supélec Rézo Rennes</a> (Supélec campus of Rennes) et <a href=\""
+"http://www.via.ecp.fr/\">VIA Centrale Réseaux</a> (École Centrale Paris)."
 
 #: includes/pages/historique.php:38
+#, fuzzy
 msgid ""
 "Ceci a pu enfin s'accomplir après de très longues discussions au cours des années précédentes, "
 "principalement sur IRC <a href=\"irc://irc.rezosup.org/#federez\">irc.rezosup.org/#federez</a> et au cours "
 "des journées FedeRez."
 msgstr ""
+"This could finally be done after very long conversations during the previous "
+"years, mainly on IRC <a href=\"irc://irc.rezosup.org/#federez\""
+">irc.rezosup.org/#federez</a> and during the \"journées FedeRez\" (FedeRez's "
+"days)."
 
 #: includes/pages/historique.php:39
+#, fuzzy
 msgid ""
 "Les status ont été adoptés après une réunion marathon durant les journées FedeRez de l'année 2009 organisée "
 "par l'École Normale Supérieure de Cachan."
 msgstr ""
+"The status were passed after a very long meeting during the \"journées "
+"FedeRez\" (FedeRez's days) in 2009 organized by the École Normale Supérieure "
+"de Cachan."
 
 #: includes/pages/historique.php:42
+#, fuzzy
 msgid "FedeRez est officiellement créée le 08 Août 2009 (WALDEC : W751201020)."
-msgstr ""
+msgstr "FedeRez is officially created on August, 08 2009 (WALDEC : W751201020)."
 
 #: includes/pages/historique.php:47
+#, fuzzy
 msgid "Installation des premières bornes WiFi à la résidence."
-msgstr ""
+msgstr "Deployment of the first WiFi emitters inside the residence."
 
 #: includes/pages/historique.php:50
+#, fuzzy
 msgid "26 mars 2008"
-msgstr ""
+msgstr "March, 26 2008"
 
 #: includes/pages/historique.php:52
+#, fuzzy
 msgid "Création du Conseil d'<strong>Administration de Supélec Rézo</strong>."
-msgstr ""
+msgstr "Creation of the <strong>Board of managers of Supélec Rézo</strong>."
 
 #: includes/pages/historique.php:53
+#, fuzzy
 msgid ""
 "Au fil des années le nombre de Rézomen a augmenté (pour atteindre un nombre record de 15 personnes "
 "impliquées dans la promotion 2010)."
 msgstr ""
+"Year after Year, the number of Rézomen has increased (to reach the record "
+"number of 15 implied persons of the graduation year 2010)."
 
 #: includes/pages/historique.php:53
+#, fuzzy
 msgid ""
 "Cela introduisit des problématiques d'organisation, que la réforme des statuts créant le Conseil "
 "d'Administration a tenté de résoudre."
 msgstr ""
+"This created organizational problems that the creation of the Board of "
+"managers tried to solve."
 
 #: includes/pages/historique.php:56
+#, fuzzy
 msgid "Septembre 1996"
-msgstr ""
+msgstr "September 1996"
 
 #: includes/pages/historique.php:58
+#, fuzzy
 msgid "Fin des câblages de la résidence I, plus ancienne que la résidence II."
-msgstr ""
+msgstr "End of the wiring of the residence I, older than the residence II."
 
 #: includes/pages/historique.php:61
+#, fuzzy
 msgid "Septembre 1995"
-msgstr ""
+msgstr "September 1995"
 
 #: includes/pages/historique.php:63
+#, fuzzy
 msgid ""
 "Lors de sa <strong>mise en service</strong> à la rentrée de septembre 1995, le réseau interconnecte 80 "
 "ordinateurs en résidence II exclusivement."
 msgstr ""
+"On its <strong>deployment</strong> at the beginning of the school year in "
+"September 1995, the network connects 80 computers in the residence II only."
 
 #: includes/pages/historique.php:64
+#, fuzzy
 msgid ""
 "Les Rézomen ont à l'époque en effet préféré se concentrer sur le déploiement dans cette nouvelle résidence "
 "ouverte en Septembre 1994."
 msgstr ""
+"At this time, the Rézomen chose to focus on the deployment inside this new "
+"residence opened in September 1994."
 
 #: includes/pages/historique.php:69
+#, fuzzy
 msgid ""
 "Il faudra attendre trois ans et demi pour que le réseau (en réalité, une partie de celui-ci) soit mis en "
 "service, suite à un travail considérable d'étude et de financement mené par les premiers Rezomen."
 msgstr ""
+"It took three and a half years for the network (in fact, a part of the "
+"network) to come into service after an incredible work made of studies and "
+"funding was made by the first Rézomen."
 
 #: includes/pages/historique.php:70
+#, fuzzy
 msgid ""
 "Les comptes rendus de réunion de ces temps \"anciens\" font état d'une collaboration inter-campus "
 "particulièrement active, les \"Supélec Rézo\" rennais et messin étant alors rattachés à celui de Gif."
 msgstr ""
+"The minutes of the meetings of these \"ancient times\" show a very active "
+"inter-campus collaboration, the \"Supélec Rézo\" from Rennes and Metz were "
+"then attached to the one from Gif."
 
 #: includes/pages/historique.php:73
+#, fuzzy
 msgid "Juin 1991"
-msgstr ""
+msgstr "June 1991"
 
 #: includes/pages/historique.php:75
+#, fuzzy
 msgid ""
 "<strong>Création de l'association</strong> le 11 Juin 1991, fondée par Alexandre LACHMANN, Corinne LAUER et "
 "Valérie ABRELL."
 msgstr ""
+"<strong>Creation of the association</strong> on June, 21 1991, formed by "
+"Alexandre LACHMANN, Corinne LAUER et Valérie ABRELL."
 
 #: includes/pages/historique.php:76
+#, fuzzy
 msgid ""
 "L'objet de l'association Supélec Rézo est alors de créer et gérer un \"réseau voix-données-images\" dans la "
 "résidence des élèves."
 msgstr ""
+"The reason of the association Supélec Rézo is then to create and manage a \""
+"voice-data-image network\" isnide the students' residence."
 
 #: includes/pages/matos.php:3
+#, fuzzy
 msgid "Serveurs"
-msgstr ""
+msgstr "Servers"
 
 #: includes/pages/matos.php:5
+#, fuzzy
 msgid ""
 "Supélec Rézo possède un parc d'une vingtaine serveurs. Ces serveurs sont traditionnellement nommés à partir "
 "de noms de personnages de Star Wars."
 msgstr ""
+"Supélec Rézo owns arounr twenty servers. These servers are usually named "
+"after Star Wars characters."
 
 #: includes/pages/matos.php:7
+#, fuzzy
 msgid ""
 "Ce parc se compose de machines montées à partir de pièces achetées dans le commerce pour la plupart, mais "
 "également d'anciennes machines de membres, ainsi que de serveurs donnés à l'association."
 msgstr ""
+"This stock is made of machines assembled from parts mainly bought in "
+"standard stores but also from parts gathered on old members' machines and "
+"also of servers given to the association."
 
 #: includes/pages/matos.php:10
+#, fuzzy
 msgid "Matériel Réseau"
-msgstr ""
+msgstr "Network equipment"
 
 #: includes/pages/matos.php:12
+#, fuzzy
 msgid "Switchs"
-msgstr ""
+msgstr "Switchs"
 
 #: includes/pages/matos.php:14
+#, fuzzy
 msgid ""
 "Nous possédons 5 modèles de switchs formant l'architecture filaire de la résidence, tous mis en production "
 "lors du renouvellement de l'architecture physique en novembre 2009."
 msgstr ""
+"We have 5 different types of switches which create the wired architecture of "
+"the residence, all of them deployed during the renewal of the hardware "
+"architecture in November 2009."
 
 #: includes/pages/matos.php:17
+#, fuzzy
 msgid "Voici une liste des modèles que nous utilisons&nbsp;:"
-msgstr ""
+msgstr "Here is a list of the different types of switchs we are using:"
 
 #: includes/pages/matos.php:21
+#, fuzzy
 msgid "Le master switch"
-msgstr ""
+msgstr "The master switch"
 
 #: includes/pages/matos.php:21 includes/pages/matos.php:22 includes/pages/matos.php:23
 #: includes/pages/matos.php:24 includes/pages/matos.php:25
 msgid "&nbsp;:"
-msgstr ""
+msgstr ":"
 
 #: includes/pages/matos.php:22
+#, fuzzy
 msgid "Les switchs 24 ports"
-msgstr ""
+msgstr "The 24 port switches"
 
 #: includes/pages/matos.php:23
+#, fuzzy
 msgid "Les switchs 48 ports"
-msgstr ""
+msgstr "The 48 port switches"
 
 #: includes/pages/matos.php:24
+#, fuzzy
 msgid "Les switchs serveurs"
-msgstr ""
+msgstr "The server switchs"
 
 #: includes/pages/matos.php:25
+#, fuzzy
 msgid "Le switch en salle polyvalente"
-msgstr ""
+msgstr "The switch in the \"salle polyvalente\" (multiusage room)"
 
 #: includes/pages/matos.php:28
+#, fuzzy
 msgid "Points d'accès WiFi"
-msgstr ""
+msgstr "WiFi access point"
 
 #: includes/pages/matos.php:31
+#, fuzzy
 msgid "Les premiers points d'accès WiFi ont été installés à la résidence en 2008."
-msgstr ""
+msgstr "The first WiFi access points were deployed in the residence in 2008."
 
 #: includes/pages/matos.php:31
+#, fuzzy
 msgid ""
 "Il s'agit de bornes <em class=\"blue\">Cisco aironet 1130AG</em> et <em class=\"blue\">Cisco aironet "
 "AP1042N</em>."
 msgstr ""
+"It is <em class=\"blue\">Cisco aironet 1130AG</em> and <em class=\"blue\">"
+"Cisco aironet AP1042N</em> routers."
 
 #: includes/pages/matos.php:31
+#, fuzzy
 msgid ""
 "La mise en place complète du réseau WiFi a été finie en 2012. Une refonte totale de ce réseau est "
 "actuellement menée."
 msgstr ""
+"The complete deployment of the WiFi network was finished in 2012. A complete "
+"renewal of this network is on-going."
 
 #: includes/pages/membres.php:4
+#, fuzzy
 msgid ""
 "Cette page donne la liste des membres connus de Supélec Rézo depuis la création de l'association en 1991."
 msgstr ""
+"This page lists all the known active members of Supélec Rézo since its "
+"creation in 1991."
 
 #: includes/pages/membres.php:5
+#, fuzzy
 msgid ""
 "Les membres du bureau font également partie du Conseil d'Administration, créé par une refonte des statuts "
 "en 2008. L'appartenance au conseil d'administration commence en Février de l'année scolaire en cours ou "
 "après un vote du Conseil d'administration, et se termine au 30 Avril de l'année suivante."
 msgstr ""
+"The members of the committee are also members of the Board of managers "
+"created by the status passed in 2008. The mandate for the Board of managers "
+"starts in February of the school year or after a vote from the current Board "
+"of managers, and finishes on April, 30 of the next year."
 
 #: includes/pages/membres.php:6
+#, fuzzy
 msgid "Les années de promotion correspondent à l'année prévue de remise du diplôme."
 msgstr ""
+"The graduation year corresponds to the expected year of the certificate "
+"presentation."
