@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-02-21 03:27+0000\n"
-"Last-Translator: jean-sebastien.renaud <jean-sebastien.renaud@larez.fr>\n"
+"PO-Revision-Date: 2016-02-21 12:04+0000\n"
+"Last-Translator: julien.lepiller <julien.lepiller@supelec.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -507,7 +507,7 @@ msgstr ""
 
 #: includes/pages/accueil.php:31
 msgid "Service d'hébergement de fichiers"
-msgstr ""
+msgstr "File hosting service"
 
 #: includes/pages/accueil.php:32
 msgid ""
@@ -524,8 +524,9 @@ msgid "Nous proposons aux adhérents un service d'hébergement de sites web."
 msgstr ""
 
 #: includes/pages/accueil.php:41
+#, fuzzy
 msgid "Site communautaire"
-msgstr ""
+msgstr "Community website"
 
 #: includes/pages/accueil.php:42
 msgid ""
@@ -550,7 +551,7 @@ msgstr ""
 
 #: includes/pages/accueil.php:56
 msgid "Machines virtuelles"
-msgstr ""
+msgstr "Virtual machines"
 
 #: includes/pages/accueil.php:57
 msgid ""
