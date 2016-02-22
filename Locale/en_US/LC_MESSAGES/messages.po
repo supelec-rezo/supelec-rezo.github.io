@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-02-21 22:00+0000\n"
-"Last-Translator: arthur.villard <choco1394@hotmail.fr>\n"
+"PO-Revision-Date: 2016-02-22 23:22+0000\n"
+"Last-Translator: hugo.hervieux <hugo.hervieux@rez-gif.supelec.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -102,11 +102,8 @@ msgid "Dernière version :"
 msgstr "Latest release:"
 
 #: applis/Kettu.php:24
-#, fuzzy
 msgid "La dernière version stable est la 2.0. La version 3.0 est en cours de développement."
-msgstr ""
-"The latest stable version is 2.0. The version 3.0 is currently being "
-"developed."
+msgstr "The latest stable version is 2.0. The version 3.0 is under development."
 
 #: applis/Kettu.php:27 applis/Notifier.php:26 applis/PHP RDG.php:30 applis/RezoIrcLogs.php:26
 #: applis/Yoppi.php:26
@@ -114,10 +111,8 @@ msgid "Documentation :"
 msgstr "Documentation:"
 
 #: applis/Kettu.php:28 applis/Notifier.php:27 applis/Yoppi.php:27
-#, fuzzy
 msgid "Pas encore disponible"
-msgstr "Not available"
->>>>>>> Translated using Weblate (English (United States))
+msgstr "Not available yet"
 
 #: applis/Kettu.php:31 applis/PHP RDG.php:34
 msgid "Dépôt Mercurial :"
