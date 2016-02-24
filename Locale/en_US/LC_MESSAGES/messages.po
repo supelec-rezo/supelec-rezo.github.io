@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-02-22 23:22+0000\n"
-"Last-Translator: hugo.hervieux <hugo.hervieux@rez-gif.supelec.fr>\n"
+"PO-Revision-Date: 2016-02-24 23:25+0000\n"
+"Last-Translator: marc.barussaud <marc.barussaud@laposte.net>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -1021,12 +1021,11 @@ msgid "Serveurs"
 msgstr "Servers"
 
 #: includes/pages/matos.php:5
-#, fuzzy
 msgid ""
 "Supélec Rézo possède un parc d'une vingtaine serveurs. Ces serveurs sont traditionnellement nommés à partir "
 "de noms de personnages de Star Wars."
 msgstr ""
-"Supélec Rézo owns arounr twenty servers. These servers are usually named "
+"Supélec Rézo owns around twenty servers. These servers are usually named "
 "after Star Wars characters."
 
 #: includes/pages/matos.php:7
