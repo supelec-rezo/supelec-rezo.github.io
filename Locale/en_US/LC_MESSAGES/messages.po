@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-02-24 23:25+0000\n"
-"Last-Translator: marc.barussaud <marc.barussaud@laposte.net>\n"
+"PO-Revision-Date: 2016-02-29 09:41+0000\n"
+"Last-Translator: hugo.hervieux <hugo.hervieux@rez-gif.supelec.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -123,7 +123,6 @@ msgid "Retrouvez ce dépôt parmi les dépôts mercurial de Supélec Rézo&nbsp;
 msgstr "Find it among Supélec Rézo's mercurial repositories:"
 
 #: applis/Notifier.php:6
-#, fuzzy
 msgid "Outil de surveillance de serveurs de jeu."
 msgstr "Gaming servers monitoring tool."
 
@@ -147,9 +146,8 @@ msgid "Langage :"
 msgstr "Language:"
 
 #: applis/Notifier.php:23 applis/Yoppi.php:23
-#, fuzzy
 msgid "Cette application est en cours de développement."
-msgstr "This application is currently being developed."
+msgstr "This application is under development."
 
 #: applis/Notifier.php:30 applis/RezoIrcLogs.php:30 applis/Yoppi.php:30
 msgid "Dépôt Git :"
