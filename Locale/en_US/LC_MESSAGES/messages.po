@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-02-29 09:41+0000\n"
-"Last-Translator: hugo.hervieux <hugo.hervieux@rez-gif.supelec.fr>\n"
+"PO-Revision-Date: 2016-02-29 09:54+0000\n"
+"Last-Translator: arthur.villard <choco1394@hotmail.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -172,18 +172,16 @@ msgstr ""
 "RDG."
 
 #: applis/PHP RDG.php:8
-#, fuzzy
 msgid ""
 "Les fonctions habituelles de communication avec la base de données sont factorisées, il n'y a plus qu'à les "
 "inclure dans vos classes en les faisant hériter d'une classe de base."
 msgstr ""
-"Usual communication functions with the databases are centralized in one base "
-"class which then merely needs to be extended by your own classes."
+"Usual functions to communicate with the databases are centralized in one "
+"base class which only needs to be extended by your own classes."
 
 #: applis/PHP RDG.php:24
-#, fuzzy
 msgid "Version 0.22 du 04/05/2008"
-msgstr "Version 0.22 from 2008-05-04"
+msgstr "Version 0.22, 2008-05-04"
 
 #: applis/PHP RDG.php:25
 msgid "Télécharger au format tar.gz"
@@ -206,9 +204,8 @@ msgstr ""
 "logs hierarchically and chronologically."
 
 #: applis/RezoIrcLogs.php:8
-#, fuzzy
 msgid "Elle permet également d'effectuer des recherches à l'intérieur de ces logs."
-msgstr "It also features search functions."
+msgstr "It also allows to perform searches inside these logs."
 
 #: applis/RezoIrcLogs.php:23
 msgid "Version 1.9."
@@ -468,15 +465,14 @@ msgstr ""
 "are usually named Rézomen."
 
 #: includes/pages/accueil.php:18
-#, fuzzy
 msgid ""
 "Cette équipe s'occupe, en plus de l'administration du réseau, de tenir des permanences, organisées trois "
 "fois par semaines les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux "
 "demandes formulées par ses adhérents."
 msgstr ""
-"Besides administrating the network, this team has three duty periods a week, "
-"on Monday and Friday at noon and on Wednesday evening. It also continuously "
-"answer to all requests from members."
+"Besides administrating the network, this team has three duty periods per "
+"week, on Monday and Friday at noon and on Wednesday evening. It also "
+"continuously answers to all requests from its members."
 
 #: includes/pages/accueil.php:19
 msgid "Pour plus de précisions, visitez la"
