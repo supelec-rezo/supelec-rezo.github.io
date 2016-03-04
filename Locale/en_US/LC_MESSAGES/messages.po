@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-03-04 13:14+0000\n"
-"Last-Translator: hugo.hervieux <hugo.hervieux@rez-gif.supelec.fr>\n"
+"PO-Revision-Date: 2016-03-04 13:15+0000\n"
+"Last-Translator: arthur.villard <choco1394@hotmail.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -103,7 +103,9 @@ msgstr "Latest release:"
 
 #: applis/Kettu.php:24
 msgid "La dernière version stable est la 2.0. La version 3.0 est en cours de développement."
-msgstr "The latest stable version is 2.0. The version 3.0 is under development."
+msgstr ""
+"The latest stable version is 2.0. The version 3.0 is currently under "
+"development."
 
 #: applis/Kettu.php:27 applis/Notifier.php:26 applis/PHP RDG.php:30 applis/RezoIrcLogs.php:26
 #: applis/Yoppi.php:26
@@ -124,7 +126,7 @@ msgstr "Find it among Supélec Rézo's mercurial repositories:"
 
 #: applis/Notifier.php:6
 msgid "Outil de surveillance de serveurs de jeu."
-msgstr "Gaming servers monitoring tool."
+msgstr "Monitoring tool for Gaming servers"
 
 #: applis/Notifier.php:7
 msgid ""
