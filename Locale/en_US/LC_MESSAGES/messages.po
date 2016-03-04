@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-03-04 13:15+0000\n"
-"Last-Translator: arthur.villard <choco1394@hotmail.fr>\n"
+"PO-Revision-Date: 2016-03-04 13:21+0000\n"
+"Last-Translator: hugo.hervieux <hugo.hervieux@rez-gif.supelec.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -558,7 +558,6 @@ msgid "Machines virtuelles"
 msgstr "Virtual machines"
 
 #: includes/pages/accueil.php:57
-#, fuzzy
 msgid ""
 "Nous hébergeons des serveurs de virtualisation permettant d'offrir à nos adhérents des machines virtuelles "
 "pour leurs projets, ou pour leurs clubs et associations."
@@ -594,23 +593,19 @@ msgid "journées FedeRez"
 msgstr "\"journées FedeRez\" (FedeRez's days)"
 
 #: includes/pages/accueil.php:63
-#, fuzzy
 msgid "événement durant lequel sont organisées des conférences sur le thème de l'informatique."
 msgstr ""
-"an event which consists of conferences and talks about the computing world."
+"an event which consists in conferences and talks about the computing world."
 
 #: includes/pages/accueil.php:68
-#, fuzzy
 msgid "L'accès à Internet nous est fourni par l'intermédiaire du"
 msgstr "The Internet acces is given to us by"
 
 #: includes/pages/accueil.php:68
-#, fuzzy
 msgid "DSI"
 msgstr "ISD"
 
 #: includes/pages/accueil.php:68
-#, fuzzy
 msgid "de l'Université Paris-Sud, par le fournisseur d'accès"
 msgstr "of the University of Paris-Sud through the provider"
 
@@ -622,62 +617,50 @@ msgstr ""
 "the research and the education."
 
 #: includes/pages/accueil.php:71
-#, fuzzy
 msgid "Voir aussi"
 msgstr "See also"
 
 #: includes/pages/accueil.php:73
-#, fuzzy
 msgid "Supélec Rézo sur le web"
 msgstr "Supélec Rézo on the Web"
 
 #: includes/pages/accueil.php:82
-#, fuzzy
 msgid "Site communautaire de Supélec Rézo"
 msgstr "Community website of Supélec Rézo"
 
 #: includes/pages/accueil.php:83
-#, fuzzy
 msgid "Site de FédeRez"
 msgstr "Website of FedeRez"
 
 #: includes/pages/accueil.php:84
-#, fuzzy
 msgid "Site de l'April"
 msgstr "Website of the April"
 
 #: includes/pages/accueil.php:85
-#, fuzzy
 msgid "Dépôts GitHub du Rézo"
 msgstr "GitHub repositories of Supélec Rézo"
 
 #: includes/pages/accueil.php:89
-#, fuzzy
 msgid "Supélec Rézo sur les réseaux sociaux"
 msgstr "Supélec Rézo on the social networks"
 
 #: includes/pages/accueil.php:98
-#, fuzzy
 msgid "Page Viadéo"
 msgstr "Viadéo page"
 
 #: includes/pages/accueil.php:99
-#, fuzzy
 msgid "Page Facebook"
 msgstr "Facebook page"
 
 #: includes/pages/accueil.php:100
-#, fuzzy
 msgid "Page LinkedIn"
 msgstr "LinkedIn page"
 
 #: includes/pages/accueil.php:101
-#, fuzzy
 msgid "Page Twitter"
 msgstr "Twitter page"
 
 #: includes/pages/applis.php:1
-#, fuzzy
 msgid "Applications développées"
 msgstr "Created applications"
 
@@ -700,27 +683,22 @@ msgstr ""
 "a href=\"mailto:rezo@rez-gif.supelec.fr\">mailing-list</a>."
 
 #: includes/pages/applis.php:10
-#, fuzzy
 msgid "Nom du projet"
 msgstr "Name of the project"
 
 #: includes/pages/applis.php:11
-#, fuzzy
 msgid "Dernière version"
 msgstr "Latest version"
 
 #: includes/pages/applis.php:12
-#, fuzzy
 msgid "Description"
 msgstr "Description"
 
 #: includes/pages/applis.php:17
-#, fuzzy
 msgid "Utilisé en interne, pas encore disponible au public"
 msgstr "Used internally, not publicly available yet"
 
 #: includes/pages/applis.php:23 includes/pages/applis.php:35
-#, fuzzy
 msgid "Version"
 msgstr "Version"
 
@@ -730,37 +708,30 @@ msgid "Abstraction simple d'une base de données Mysql en PHP."
 msgstr "Simple abstraction of a MySQL database en PHP."
 
 #: includes/pages/applis.php:29 includes/pages/applis.php:41
-#, fuzzy
 msgid "Développement en cours"
 msgstr "Under development"
 
 #: includes/pages/applis.php:30
-#, fuzzy
 msgid "Outil de surveillance de serveurs de jeu"
 msgstr "Monitoring tool for game servers"
 
 #: includes/pages/applis.php:42
-#, fuzzy
 msgid "Indexeur automatique de serveurs FTP"
 msgstr "Automatic FTP server indexer"
 
 #: includes/pages/contact.php:4
-#, fuzzy
 msgid "Vous pouvez nous contacter&nbsp;:"
 msgstr "You can contact us:"
 
 #: includes/pages/contact.php:8
-#, fuzzy
 msgid "Par mail via notre mailing&nbsp;:"
 msgstr "by mail using our mailing-list:"
 
 #: includes/pages/contact.php:9
-#, fuzzy
 msgid "En nous écrivant à l'adresse"
 msgstr "by writting to"
 
 #: includes/pages/contact.php:10
-#, fuzzy
 msgid "Sur IRC sur le chan"
 msgstr "By IRC on the channel"
 
@@ -788,7 +759,6 @@ msgstr ""
 "campus of the University of Paris-Saclay."
 
 #: includes/pages/historique.php:7
-#, fuzzy
 msgid ""
 "Supélec Rézo a aussi procédé à l'amélioration de sa fibre, passant d'un débit de 100Mb/s à 1Gb/s grâce à sa "
 "coopération avec la DSI de l'Université Paris-Sud."
