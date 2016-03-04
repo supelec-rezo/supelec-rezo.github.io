@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-02-29 09:54+0000\n"
-"Last-Translator: arthur.villard <choco1394@hotmail.fr>\n"
+"PO-Revision-Date: 2016-03-04 13:14+0000\n"
+"Last-Translator: hugo.hervieux <hugo.hervieux@rez-gif.supelec.fr>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: applis/Kettu.php:8
 msgid "Le projet Kettu est developpé en interne, essentiellement en Ruby."
-msgstr "The Kettu project is developed internally, mainly in Ruby."
+msgstr "The Kettu project is developed by our team, mainly in Ruby."
 
 #: applis/Kettu.php:9
 msgid ""
@@ -509,8 +509,8 @@ msgid ""
 "Nous fournissons aux associations et clubs du campus la possibilité d'héberger des fichiers. Les élèves "
 "peuvent également nous demander en cas de besoin un hébergement personnel."
 msgstr ""
-"We offer a file hosting service for the clubs and societies of the campus. "
-"Students can also make a request for an indiviual hosting if needed."
+"We offer a file hosting service for the clubs and organizations on the "
+"campus. Students can also make a request for an indiviual hosting if needed."
 
 #: includes/pages/accueil.php:36
 msgid "Service d'hébergement web"
@@ -521,7 +521,6 @@ msgid "Nous proposons aux adhérents un service d'hébergement de sites web."
 msgstr "We offer a web hosting service for the students."
 
 #: includes/pages/accueil.php:41
-#, fuzzy
 msgid "Site communautaire"
 msgstr "Community website"
 
