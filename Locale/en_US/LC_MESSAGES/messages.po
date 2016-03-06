@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 15:24+0200\n"
 "POT-Creation-Date: 2016-02-20 15:43+0100\n"
-"PO-Revision-Date: 2016-03-04 13:21+0000\n"
-"Last-Translator: hugo.hervieux <hugo.hervieux@rez-gif.supelec.fr>\n"
+"PO-Revision-Date: 2016-03-06 14:37+0000\n"
+"Last-Translator: marc.barussaud <marc.barussaud@laposte.net>\n"
 "Language-Team: English (United States) "
 "<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
@@ -126,7 +126,7 @@ msgstr "Find it among Supélec Rézo's mercurial repositories:"
 
 #: applis/Notifier.php:6
 msgid "Outil de surveillance de serveurs de jeu."
-msgstr "Monitoring tool for Gaming servers"
+msgstr "Monitoring tool for Gaming servers."
 
 #: applis/Notifier.php:7
 msgid ""
