@@ -1,5 +1,5 @@
-<div id="yoppi" class="app">
-  <h1>Yoppi</h1>
+<div id="birdo" class="app">
+  <h1>Birdo</h1>
 
   <div>
     <p>
