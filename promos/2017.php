@@ -27,7 +27,7 @@
       </tr>
 	  <tr>
         <th>Ghislain FOURNIER</th>
-        <td><?php echo _("Responsable Infracstructure");?></td>
+        <td><?php echo _("Responsable Infrastructure");?></td>
 		<td></td>
       </tr>
 	  <tr>

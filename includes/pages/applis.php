@@ -37,7 +37,7 @@
   	</tr>
   	
   	<tr>
-  	  <td><a href="apps/#yoppi">Yoppi</a></td>
+  	  <td><a href="apps/#yoppi">Birdo</a></td>
   	  <td><?php echo _('Développement en cours'); ?></td>
   	  <td><?php echo _('Indexeur automatique de serveurs FTP'); ?></td>
   	</tr>
