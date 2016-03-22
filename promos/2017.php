@@ -25,6 +25,16 @@
         <td><?php echo _('Vice-Président');?></td>
         <td></td>
       </tr>
+	  <tr>
+        <th>Ghislain FOURNIER</th>
+        <td><?php echo _("Responsable Infracstructure");?></td>
+		<td></td>
+      </tr>
+	  <tr>
+        <th>Arnaud VENTURI</th>
+        <td><?php echo _("Responsable Administration Système");?></td>
+        <td></td>
+      </tr>
     </table>
       
     <h3><?php echo _('Conseil d\'administration');?></h3>
@@ -51,35 +61,26 @@
         <td><?php echo _('(démissionnaire en avril 2015)');?></td>
       </tr>
       <tr>
-        <th>Ghislain FOURNIER</th>
-        <td></td>
-	<td></td>
-      </tr>
-      <tr>
         <th>Nicolas GONCALVES</th>
         <td></td>
         <td></td>
       </tr>
       <tr>
-	<th>Valentin LE TOURNEUX DE LA PERRAUDIERE</th>
-	<td></td>
+		<th>Valentin LE TOURNEUX DE LA PERRAUDIERE</th>
+		<td></td>
         <td></td>
 	  </tr>
-      <tr>
 	  <tr>
         <th>Antoine REBEYRE</th>
         <td></td>
         <td></td>
       </tr>
+	  <tr>
         <th>Yohann SILLAM</th>
         <td></td>
         <td></td>
       </tr>
-      <tr>
-        <th>Arnaud VENTURI</th>
-        <td></td>
-        <td></td>
-      </tr>
+
     </table>
     
     <h3><?php echo _('Autres membres');?></h3>
