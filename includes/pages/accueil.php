@@ -24,32 +24,32 @@
   <tr>
     <td><img class="server-icon" src='assets/images/icons/mail_server.png' alt= "Serveur mail"/></td>
     <td><?php echo _('Service mail');?></td>
-    <td><?php echo _('Chaque adhérent se voit fournir à son inscription une adresse mail, et la possibilité de s\'inscrire aux listes de distribution administrées par Supélec Rézo'); ?></td>
+    <td><?php echo _('Chaque adhérent se voit fournir à son inscription une adresse mail, et la possibilité de s\'inscrire aux listes de diffusion administrées par Supélec Rézo.'); ?></td>
   </tr>
   <tr>
     <td><img class="server-icon" src='assets/images/icons/ftp_server.png' alt= "Serveur FTP"/></td>
     <td><?php echo _('Service d\'hébergement de fichiers'); ?></td>
-    <td><?php echo _('Nous fournissons aux associations et clubs du campus la possibilité d\'héberger des fichiers. Les élèves peuvent également nous demander en cas de besoin un hébergement personnel'); ?></td>
+    <td><?php echo _('Nous fournissons aux associations et clubs du campus la possibilité d\'héberger des fichiers. Les élèves peuvent également nous demander en cas de besoin un hébergement personnel.'); ?></td>
   </tr>
   <tr>
     <td><img class="server-icon" src='assets/images/icons/web_server.png' alt= "Serveur Web"/></td>
     <td><?php echo _('Service d\'hébergement web'); ?></td>
-    <td><?php echo _('Nous proposons aux adhérents un service d\'hébergement de sites web'); ?></td>
+    <td><?php echo _('Nous proposons aux adhérents un service d\'hébergement de sites web.'); ?></td>
   </tr>
   <tr>
     <td><img class="server-icon" src='assets/images/icons/html.png' alt= "Website"/></td>
     <td><?php echo _('Site communautaire'); ?></td>
-    <td><?php echo _('Nous proposons un site communautaire, contenant notamment un trombinoscope des étudiants de CentraleSupélec, un descriptif des clubs et associations du campus, ainsi qu\'une section d\'aide à l\'adhérent'); ?></td>
+    <td><?php echo _('Nous proposons un site communautaire, contenant notamment un trombinoscope des étudiants de CentraleSupélec, un descriptif des clubs et associations du campus, ainsi qu\'une section d\'aide à l\'adhérent.'); ?></td>
   </tr>
   <tr>
     <td><img class="server-icon" src='assets/images/icons/tnt_server.png' alt= "Serveur TNT"/></td>
     <td>TNT</td>
-    <td><?php echo _('Il est mis à la disposition des élèves la possibilité de regarder la'); ?> <abbr title="Télévision Numérique Terrestre" lang="fr">TNT</abbr> <?php echo _('en multicast à la résidence'); ?></td>
+    <td><?php echo _('Il est mis à la disposition des élèves la possibilité de regarder la'); ?> <abbr title="Télévision Numérique Terrestre" lang="fr">TNT</abbr> <?php echo _('en multicast à la résidence.'); ?></td>
   </tr>
   <tr>
     <td><img class="server-icon" src='assets/images/icons/irc_server.png' alt= "Serveur IRC"/></td>
     <td>IRC</td>
-    <td><?php echo _('Nous hébergeons et administrons un serveur');?> <abbr title="Internet Relay Chat" lang="en">IRC</abbr> <?php echo _('de RézoSup'); ?></td>
+    <td><?php echo _('Nous hébergeons et administrons un serveur <abbr title="Internet Relay Chat" lang="en">IRC</abbr> de RézoSup'); ?></td>
   </tr>
   <tr>
     <td><img class="server-icon" src='assets/images/icons/vm_server.png' alt= "Serveurs de virtualisation"/></td>
@@ -60,12 +60,12 @@
 
 <h3>FedeRez</h3>
 <p>
-  <?php echo _('Supélec Rézo est membre fondateur de'); ?> <a href="http://www.federez.net">FedeRez</a>, <?php echo _('fédération d\'associations regroupant des réseaux étudiants venant de la France entière, et visant à favoriser l\'échange entre ces dernières, tant par l\'organisation d\'événements regroupants ses membres que par les conseils techniques qu\'elle apporte afin de soutenir le développement des projets des associations qu\'elle rassemble.'); ?> <?php echo _('FedeRez organise chaque année les'); ?> <a href="http://www.federez.net/journees/"><?php echo _('journées FedeRez'); ?></a>, <?php echo _('événement durant lequel sont organisées des conférences sur le thème de l\'informatique.'); ?>
+  <?php echo _('Supélec Rézo est membre fondateur de <a href="http://www.federez.net">FedeRez</a>, fédération d\'associations regroupant des réseaux étudiants venant de la France entière, et visant à favoriser l\'échange entre ces dernières, tant par l\'organisation d\'événements regroupants ses membres que par les conseils techniques qu\'elle apporte afin de soutenir le développement des projets des associations qu\'elle rassemble.').' '._('FedeRez organise chaque année les <a href="http://www.federez.net/journees/">journées FedeRez</a>, événement durant lequel sont organisées des conférences sur le thème de l\'informatique.'); ?>
 </p>
 
 <h3>RENATER</h3>
 <p>
-  <?php echo _('L\'accès à Internet nous est fourni par l\'intermédiaire du'); ?> <abbr title="Direction des Services Informatiques" lang="fr"><?php echo _('DSI'); ?></abbr> <?php echo _('de l\'Université Paris-Sud, par le fournisseur d\'accès'); ?> <a href="http://www.renater.fr">RENATER</a>, <?php echo _('organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l\'éducation.'); ?>
+  <?php echo _('L\'accès à Internet nous est fourni par l\'intermédiaire du <abbr title="Direction des Services Informatiques" lang="fr">DSI</abbr> de l\'Université Paris-Sud, par le fournisseur d\'accès <a href="http://www.renater.fr">RENATER</a>, organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l\'éducation.'); ?>
 </p>
 
 <h3><?php echo _('Voir aussi'); ?></h3>
