@@ -1,7 +1,8 @@
-<!DOCTYPE html>
-
 <?php
   session_start();
+?>
+<!DOCTYPE html>
+<?php
   $locales = array(
   	'fr_FR.utf8',
   	'en_US.utf8'
