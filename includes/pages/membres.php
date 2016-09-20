@@ -6,6 +6,10 @@
   <?php echo _('Les années de promotion correspondent à l\'année prévue de remise du diplôme.');?>
 </p>
 
+<iframe width="100%" height="300px" style="margin: 1em 0 0 0;" frameBorder="0"
+src="https://framacarte.org/en/map/untitled-map_5083?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a
+href="https://framacarte.org/en/map/untitled-map_5083">En plein &eacute;cran</a></p>
+
 <?php
   $promo_array = array();
 
