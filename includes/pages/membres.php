@@ -7,8 +7,8 @@
 </p>
 
 <iframe width="100%" height="300px" style="margin: 1em 0 0 0;" frameBorder="0"
-src="https://framacarte.org/en/map/untitled-map_5083?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a
-href="https://framacarte.org/en/map/untitled-map_5083"><?php echo _('En plein écran'); ?></a></p>
+src="https://framacarte.org/en/map/rezomen-sans-frontieres_5083?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a
+href="https://framacarte.org/en/map/rezomen-sans-frontieres_5083"><?php echo _('En plein écran'); ?></a></p>
 
 <?php
   $promo_array = array();
