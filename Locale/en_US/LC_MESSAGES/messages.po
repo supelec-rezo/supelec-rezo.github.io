@@ -7,12 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 2016\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-21 15:24+0200\n"
-"POT-Creation-Date: 2016-02-20 15:43+0100\n"
+"POT-Creation-Date: 2016-11-26 18:20+0100\n"
 "PO-Revision-Date: 2016-03-06 14:37+0000\n"
 "Last-Translator: marc.barussaud <marc.barussaud@laposte.net>\n"
-"Language-Team: English (United States) "
-"<http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
+"Language-Team: English (United States) <http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,16 +20,17 @@ msgstr ""
 
 #: applis/Birdo.php:6
 msgid "Indexeur automatique de serveurs FTP."
-msgstr ""
+msgstr "Automatic FTP indexer."
 
 #: applis/Birdo.php:7
 msgid ""
 "Cet outil parcourt et indexe de façon automatique les serveurs FTP dotés d'un accès anonyme sur son réseau."
-msgstr ""
+msgstr "This tool scans and indexes FTP servers which allow anonymous access across the network."
 
 #: applis/Birdo.php:8
+#, fuzzy
 msgid "Il permet également d'effectuer des recherches dans ces serveurs."
-msgstr ""
+msgstr "One can also search for files in these servers."
 
 #: applis/Birdo.php:14 applis/Kettu.php:15 applis/Notifier.php:14 applis/PHP RDG.php:14
 #: applis/RezoIrcLogs.php:14
@@ -40,29 +39,29 @@ msgstr ""
 
 #: applis/Birdo.php:18 applis/Notifier.php:18 applis/PHP RDG.php:18 applis/RezoIrcLogs.php:18
 msgid "Langage :"
-msgstr ""
+msgstr "Language:"
 
 #: applis/Birdo.php:22 applis/Kettu.php:23 applis/Notifier.php:22 applis/PHP RDG.php:22
 #: applis/RezoIrcLogs.php:22
 msgid "Dernière version :"
-msgstr ""
+msgstr "Latest release:"
 
 #: applis/Birdo.php:23 applis/Notifier.php:23
 msgid "Cette application est en cours de développement."
-msgstr ""
+msgstr "This application is under development."
 
 #: applis/Birdo.php:26 applis/Kettu.php:27 applis/Notifier.php:26 applis/PHP RDG.php:30
 #: applis/RezoIrcLogs.php:26
 msgid "Documentation :"
-msgstr ""
+msgstr "Documentation:"
 
 #: applis/Birdo.php:27 applis/Kettu.php:28 applis/Notifier.php:27
 msgid "Pas encore disponible"
-msgstr ""
+msgstr "Not available yet"
 
 #: applis/Birdo.php:30 applis/Notifier.php:30 applis/RezoIrcLogs.php:30
 msgid "Dépôt Git :"
-msgstr ""
+msgstr "Git repository:"
 
 #: applis/Birdo.php:31
 msgid "Ce projet n'est pas encore disponible au public pour des raisons de maturité."
@@ -77,8 +76,8 @@ msgid ""
 "Il s'agit de l'ensemble de logiciels et de \tscripts que nous utilisons pour administrer le réseau de la "
 "résidence."
 msgstr ""
-"It is the set of applications and scripts we are using in order to "
-"administrate the network of the residence."
+"It is the set of applications and scripts we are using in order to administrate the network of the "
+"residence."
 
 #: applis/Kettu.php:8
 msgid "Le projet Kettu est developpé en interne, essentiellement en Ruby."
@@ -89,32 +88,19 @@ msgid ""
 "Il supporte&nbsp;: la gestion des switchs, du DNS, du DHCP, du Firewall, les adhésions et la comptabilité, "
 "les comptes Web, FTP, mail et les mailing-lists des adhérents, ..."
 msgstr ""
-"it features: management of the switches, DNS, DHCP, Firewall, memberships, "
-"accounting, Web accounts, FTP accounts, mail accounts and mailing-lists, …"
+"it features: management of the switches, DNS, DHCP, Firewall, memberships, accounting, Web accounts, FTP "
+"accounts, mail accounts and mailing-lists, …"
 
 #: applis/Kettu.php:19
 msgid "Langages :"
 msgstr "Languages:"
 
-#: applis/Kettu.php:23 applis/Notifier.php:22 applis/PHP RDG.php:22 applis/RezoIrcLogs.php:22
-#: applis/Yoppi.php:22
-msgid "Dernière version :"
-msgstr "Latest release:"
-
 #: applis/Kettu.php:24
-msgid "La dernière version stable est la 2.0. La version 3.0 est en cours de développement."
-msgstr ""
-"The latest stable version is 2.0. The version 3.0 is currently under "
-"development."
-
-#: applis/Kettu.php:27 applis/Notifier.php:26 applis/PHP RDG.php:30 applis/RezoIrcLogs.php:26
-#: applis/Yoppi.php:26
-msgid "Documentation :"
-msgstr "Documentation:"
-
-#: applis/Kettu.php:28 applis/Notifier.php:27 applis/Yoppi.php:27
-msgid "Pas encore disponible"
-msgstr "Not available yet"
+#, fuzzy
+msgid ""
+"La dernière version stable est la 2.0. La version 3.0 a été abandonnée au profit de la version 4.0, "
+"actuellement en cours de dévelopement."
+msgstr "The latest stable version is 2.0. The version 3.0 is currently under development."
 
 #: applis/Kettu.php:31 applis/PHP RDG.php:34
 msgid "Dépôt Mercurial :"
@@ -133,53 +119,36 @@ msgid ""
 "Cette application permet de détecter et de notifier l'utilisateur quand un joueur rejoint un des serveurs "
 "surveillés."
 msgstr ""
-"This application makes it possible to detect and notify a user whenever a "
-"player joins one the monitored servers."
+"This application makes it possible to detect and notify a user whenever a player joins one the monitored "
+"servers."
 
 #: applis/Notifier.php:8
 msgid ""
 "La notification s'effectue par une alerte sonore ou visuelle, via une icône dans la zone de notification."
-msgstr ""
-"The notification consists in an alarm or a visual signal in the notification "
-"area."
+msgstr "The notification consists in an alarm or a visual signal in the notification area."
 
-#: applis/Notifier.php:18 applis/PHP RDG.php:18 applis/RezoIrcLogs.php:18 applis/Yoppi.php:18
-msgid "Langage :"
-msgstr "Language:"
-
-#: applis/Notifier.php:23 applis/Yoppi.php:23
-msgid "Cette application est en cours de développement."
-msgstr "This application is under development."
-
-#: applis/Notifier.php:30 applis/RezoIrcLogs.php:30 applis/Yoppi.php:30
-msgid "Dépôt Git :"
-msgstr "Git repository:"
-
-#: applis/Notifier.php:31 applis/RezoIrcLogs.php:31 applis/Yoppi.php:31
+#: applis/Notifier.php:31 applis/RezoIrcLogs.php:31
 msgid "Retrouvez ce projet sur GitHub&nbsp;:"
 msgstr "Find this project on GitHub:"
 
 #: applis/PHP RDG.php:6
 msgid "Implémentation simple du patron de conception Row Data Gateway pour PHP."
-msgstr ""
-"It's a simple implementation of the Row Data Gateway design pattern in PHP."
+msgstr "It's a simple implementation of the Row Data Gateway design pattern in PHP."
 
 #: applis/PHP RDG.php:7
 #, fuzzy
 msgid ""
 "L'objectif de PHP RDG est de fournir une implémentation très simple pour réaliser l'abstraction d'une table "
 "Mysql dans une classe PHP."
-msgstr ""
-"Providing a very simple abstraction layer of MySQL tables is the aim of PHP "
-"RDG."
+msgstr "Providing a very simple abstraction layer of MySQL tables is the aim of PHP RDG."
 
 #: applis/PHP RDG.php:8
 msgid ""
 "Les fonctions habituelles de communication avec la base de données sont factorisées, il n'y a plus qu'à les "
 "inclure dans vos classes en les faisant hériter d'une classe de base."
 msgstr ""
-"Usual functions to communicate with the databases are centralized in one "
-"base class which only needs to be extended by your own classes."
+"Usual functions to communicate with the databases are centralized in one base class which only needs to be "
+"extended by your own classes."
 
 #: applis/PHP RDG.php:24
 msgid "Version 0.22 du 04/05/2008"
@@ -202,8 +171,8 @@ msgid ""
 "Cette application lit et affiche dans un format agréable les logs IRC, en prenant soin de les organiser de "
 "façon hiérarchique et chronologique."
 msgstr ""
-"This application reads and displays IRC logs in a nice format. It organizes "
-"logs hierarchically and chronologically."
+"This application reads and displays IRC logs in a nice format. It organizes logs hierarchically and "
+"chronologically."
 
 #: applis/RezoIrcLogs.php:8
 msgid "Elle permet également d'effectuer des recherches à l'intérieur de ces logs."
@@ -216,22 +185,6 @@ msgstr "Version 1.9."
 #: applis/RezoIrcLogs.php:27
 msgid "Voir le fichier README"
 msgstr "See README file"
-
-#: applis/Yoppi.php:6
-msgid "Indexeur automatique de serveurs FTP."
-msgstr "Automatic FTP indexer."
-
-#: applis/Yoppi.php:7
-msgid ""
-"Cet outil parcourt et indexe de façon automatique les serveurs FTP dotés d'un accès anonyme sur son réseau."
-msgstr ""
-"This tool scans and indexes FTP servers which allow anonymous access across "
-"the network."
-
-#: applis/Yoppi.php:8
-#, fuzzy
-msgid "Il permet également d'effectuer des recherches dans ces serveurs."
-msgstr "One can also search for files in these servers."
 
 #: includes/footer.php:3
 msgid "Page professionnelle de Sup&eacute;lec R&eacute;zo."
@@ -258,9 +211,8 @@ msgid "Membres"
 msgstr "Members"
 
 #: includes/menu.php:43 promos/2003.php:2 promos/2004.php:2 promos/2005.php:2 promos/2006.php:2
-#: promos/2007.php:2 promos/2008.php:2 promos/2009.php:2 promos/2010.php:2 promos/2011.php:2
-#: promos/2012.php:2 promos/2013.php:2 promos/2014.php:2 promos/2015.php:2 promos/2016.php:2
-#: promos/2017.php:2
+#: promos/2007.php:2 promos/2008.php:2 promos/2009.php:2 promos/2010.php:2 promos/2011.php:2 promos/2012.php:2
+#: promos/2013.php:2 promos/2014.php:2 promos/2015.php:2 promos/2016.php:2 promos/2017.php:2 promos/2018.php:2
 msgid "Promotion"
 msgstr "Graduation year"
 
@@ -283,13 +235,14 @@ msgstr "Contact"
 
 #: promos/2003.php:5 promos/2004.php:5 promos/2005.php:5 promos/2006.php:5 promos/2007.php:5 promos/2008.php:5
 #: promos/2009.php:5 promos/2010.php:6 promos/2011.php:5 promos/2012.php:5 promos/2013.php:5 promos/2014.php:5
-#: promos/2015.php:5 promos/2016.php:5 promos/2017.php:5
+#: promos/2015.php:5 promos/2016.php:5 promos/2017.php:5 promos/2018.php:5
 msgid "Bureau"
 msgstr "Board"
 
 #: promos/2003.php:10 promos/2004.php:10 promos/2005.php:10 promos/2006.php:10 promos/2007.php:10
 #: promos/2008.php:10 promos/2009.php:10 promos/2010.php:10 promos/2011.php:10 promos/2012.php:10
 #: promos/2013.php:10 promos/2014.php:10 promos/2015.php:10 promos/2016.php:10 promos/2017.php:10
+#: promos/2018.php:10
 msgid "Président"
 msgstr "President"
 
@@ -302,25 +255,26 @@ msgstr "Treasurer"
 #: promos/2003.php:20 promos/2004.php:20 promos/2005.php:20 promos/2006.php:20 promos/2007.php:20
 #: promos/2008.php:20 promos/2009.php:20 promos/2010.php:25 promos/2011.php:20 promos/2012.php:20
 #: promos/2013.php:20 promos/2013.php:25 promos/2014.php:20 promos/2015.php:20 promos/2016.php:20
-#: promos/2017.php:20
+#: promos/2017.php:20 promos/2018.php:20
 msgid "Secrétaire"
 msgstr "Secretary"
 
 #: promos/2003.php:25 promos/2005.php:25 promos/2006.php:25 promos/2007.php:25 promos/2008.php:25
 #: promos/2009.php:25 promos/2010.php:30 promos/2011.php:25 promos/2012.php:25 promos/2013.php:30
 #: promos/2013.php:35 promos/2014.php:25 promos/2014.php:30 promos/2015.php:25 promos/2016.php:25
-#: promos/2017.php:25
+#: promos/2017.php:25 promos/2018.php:25
 msgid "Vice-Président"
 msgstr "Vice-President"
 
 #: promos/2003.php:30 promos/2004.php:25 promos/2005.php:30 promos/2006.php:30 promos/2007.php:30
 #: promos/2008.php:30 promos/2009.php:55 promos/2010.php:37 promos/2011.php:85 promos/2012.php:65
 #: promos/2013.php:95 promos/2014.php:70 promos/2015.php:60 promos/2016.php:70 promos/2017.php:86
+#: promos/2018.php:142
 msgid "Autres membres"
 msgstr "Other members"
 
 #: promos/2009.php:30 promos/2010.php:35 promos/2011.php:30 promos/2012.php:30 promos/2013.php:40
-#: promos/2014.php:35 promos/2015.php:30 promos/2016.php:30 promos/2017.php:30
+#: promos/2014.php:35 promos/2015.php:30 promos/2016.php:30 promos/2017.php:40 promos/2018.php:40
 #, fuzzy
 msgid "Conseil d'administration"
 msgstr "Board of managers"
@@ -405,15 +359,15 @@ msgstr "(Vice-President until 2014-12-10, went for a semester abroad)"
 msgid "(président jusqu'au 10/12/14 pour cause de départ en semestre)"
 msgstr "(President until 2014-12-10, went for a semester abroad)"
 
-#: promos/2017.php:15
+#: promos/2017.php:15 promos/2018.php:15
 msgid "Trésorière"
 msgstr "Treasurer"
 
-#: promos/2017.php:30
+#: promos/2017.php:30 promos/2018.php:30
 msgid "Responsable Infrastructure"
 msgstr ""
 
-#: promos/2017.php:35
+#: promos/2017.php:35 promos/2018.php:35
 msgid "Responsable Administration Système"
 msgstr ""
 
@@ -421,7 +375,7 @@ msgstr ""
 msgid "(démissionnaire en avril 2015)"
 msgstr "(resigned in April, 2015)"
 
-#: promos/2017.php:92
+#: promos/2017.php:92 promos/2018.php:148
 msgid "(Depuis janvier 2016)"
 msgstr "(From January, 2016)"
 
@@ -430,9 +384,8 @@ msgid ""
 "Supélec Rézo est une association loi 1901 administrant le réseau internet de la résidence du campus de "
 "CentraleSupélec de Gif-sur-Yvette."
 msgstr ""
-"Supélec Rézo is an association defined by the French 1901 law. It "
-"administrates the computer network of the CentraleSupélec residence in Gif-"
-"sur-Yvette and provides an Internet access to its members."
+"Supélec Rézo is an association defined by the French 1901 law. It administrates the computer network of the "
+"CentraleSupélec residence in Gif-sur-Yvette and provides an Internet access to its members."
 
 #: includes/pages/accueil.php:7
 msgid "Objectifs et missions"
@@ -447,13 +400,12 @@ msgid ""
 "Favoriser la communication entre étudiants sur le campus, ce qui passe par l'offre de nombreux services "
 "tels qu'un service mail, un hébergement de sites internets, de fichiers..."
 msgstr ""
-"To promote communications between students on the campus. To do that, we "
-"provide services such as mails, website hosting, file hosting, …"
+"To promote communications between students on the campus. To do that, we provide services such as mails, "
+"website hosting, file hosting, …"
 
 #: includes/pages/accueil.php:11
 msgid "Offrir une aide technique aux adhérents en ce qui concerne leurs problèmes d'ordre informatique"
-msgstr ""
-"To provide technical support to members who need help on computer topics"
+msgstr "To provide technical support to members who need help on computer topics"
 
 #: includes/pages/accueil.php:12
 msgid "Maintenir et renouveler le parc informatique de la résidence"
@@ -463,8 +415,7 @@ msgstr "To maintain and renew the IT infrastructure of the residence"
 msgid ""
 "Supélec Rézo est constitué d'une vingtaine d'élèves de CentraleSupélec, aussi connus sous le nom de Rézomen."
 msgstr ""
-"Supélec Rézo is composed of about twenty students from CentraleSupélec. They "
-"are usually named Rézomen."
+"Supélec Rézo is composed of about twenty students from CentraleSupélec. They are usually named Rézomen."
 
 #: includes/pages/accueil.php:18
 msgid ""
@@ -472,9 +423,8 @@ msgid ""
 "fois par semaines les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux "
 "demandes formulées par ses adhérents."
 msgstr ""
-"Besides administrating the network, this team has three duty periods per "
-"week, on Monday and Friday at noon and on Wednesday evening. It also "
-"continuously answers to all requests from its members."
+"Besides administrating the network, this team has three duty periods per week, on Monday and Friday at noon "
+"and on Wednesday evening. It also continuously answers to all requests from its members."
 
 #: includes/pages/accueil.php:19
 msgid "Pour plus de précisions, visitez la"
@@ -498,8 +448,8 @@ msgid ""
 "Chaque adhérent se voit fournir à son inscription une adresse mail, et la possibilité de s'inscrire aux "
 "listes de diffusion administrées par Supélec Rézo."
 msgstr ""
-"When registering, each member receives a mail adress and the possibility to "
-"subscibe to the mailing lists managed by Supélec Rézo."
+"When registering, each member receives a mail adress and the possibility to subscibe to the mailing lists "
+"managed by Supélec Rézo."
 
 #: includes/pages/accueil.php:31
 msgid "Service d'hébergement de fichiers"
@@ -511,8 +461,8 @@ msgid ""
 "Nous fournissons aux associations et clubs du campus la possibilité d'héberger des fichiers. Les élèves "
 "peuvent également nous demander en cas de besoin un hébergement personnel."
 msgstr ""
-"We offer a file hosting service for the clubs and organizations on the "
-"campus. Students can also make a request for an indiviual hosting if needed."
+"We offer a file hosting service for the clubs and organizations on the campus. Students can also make a "
+"request for an indiviual hosting if needed."
 
 #: includes/pages/accueil.php:36
 msgid "Service d'hébergement web"
@@ -533,9 +483,8 @@ msgid ""
 "CentraleSupélec, un descriptif des clubs et associations du campus, ainsi qu'une section d'aide à "
 "l'adhérent."
 msgstr ""
-"We offer a community website with a trombinoscope of the CentraleSupélec's "
-"students, a description of the clubs and societies on the campus and a help "
-"section for our members."
+"We offer a community website with a trombinoscope of the CentraleSupélec's students, a description of the "
+"clubs and societies on the campus and a help section for our members."
 
 #: includes/pages/accueil.php:47
 #, fuzzy
@@ -544,7 +493,7 @@ msgstr "We give students a way to watch the"
 
 #: includes/pages/accueil.php:47
 #, fuzzy
-msgid "en multicast à la résidence"
+msgid "en multicast à la résidence."
 msgstr "in multicast inside the residence"
 
 #: includes/pages/accueil.php:52
@@ -562,59 +511,36 @@ msgid ""
 "Nous hébergeons des serveurs de virtualisation permettant d'offrir à nos adhérents des machines virtuelles "
 "pour leurs projets, ou pour leurs clubs et associations."
 msgstr ""
-"We host virtualization servers in order to offer virtual machines for our "
-"members' projects or for the club and societies on the campus."
-
-#: includes/pages/accueil.php:63
-#, fuzzy
-msgid "Supélec Rézo est membre fondateur de"
-msgstr "Supélec Rézo is a founding member of"
+"We host virtualization servers in order to offer virtual machines for our members' projects or for the club "
+"and societies on the campus."
 
 #: includes/pages/accueil.php:63
 #, fuzzy
 msgid ""
-"fédération d'associations regroupant des réseaux étudiants venant de la France entière, et visant à "
-"favoriser l'échange entre ces dernières, tant par l'organisation d'événements regroupants ses membres que "
-"par les conseils techniques qu'elle apporte afin de soutenir le développement des projets des associations "
-"qu'elle rassemble."
+"Supélec Rézo est membre fondateur de <a href=\"http://www.federez.net\">FedeRez</a>, fédération "
+"d'associations regroupant des réseaux étudiants venant de la France entière, et visant à favoriser "
+"l'échange entre ces dernières, tant par l'organisation d'événements regroupants ses membres que par les "
+"conseils techniques qu'elle apporte afin de soutenir le développement des projets des associations qu'elle "
+"rassemble."
 msgstr ""
-"federation of student network associations from the whole France which aims "
-"at improving the exchanges between them by organizing events for its members "
-"as well as giving technical advice to support their on-going projects."
+"federation of student network associations from the whole France which aims at improving the exchanges "
+"between them by organizing events for its members as well as giving technical advice to support their on-"
+"going projects."
 
 #: includes/pages/accueil.php:63
 #, fuzzy
-msgid "FedeRez organise chaque année les"
-msgstr "Each year, FedeRez organizes the"
+msgid ""
+"FedeRez organise chaque année les <a href=\"http://www.federez.net/journees/\">journées FedeRez</a>, "
+"événement durant lequel sont organisées des conférences sur le thème de l'informatique."
+msgstr "an event which consists in conferences and talks about the computing world."
 
-#: includes/pages/accueil.php:63
-#, fuzzy
-msgid "journées FedeRez"
-msgstr "\"journées FedeRez\" (FedeRez's days)"
-
-#: includes/pages/accueil.php:63
-msgid "événement durant lequel sont organisées des conférences sur le thème de l'informatique."
+#: includes/pages/accueil.php:68
+msgid ""
+"L'accès à Internet nous est fourni par l'intermédiaire du <abbr title=\"Direction des Services Informatiques"
+"\" lang=\"fr\">DSI</abbr> de l'Université Paris-Sud, par le fournisseur d'accès <a href=\"http://www."
+"renater.fr\">RENATER</a>, organisme chargé de fédérer les infrastructures de télécommunication pour la "
+"recherche et l'éducation."
 msgstr ""
-"an event which consists in conferences and talks about the computing world."
-
-#: includes/pages/accueil.php:68
-msgid "L'accès à Internet nous est fourni par l'intermédiaire du"
-msgstr "The Internet acces is given to us by"
-
-#: includes/pages/accueil.php:68
-msgid "DSI"
-msgstr "ISD"
-
-#: includes/pages/accueil.php:68
-msgid "de l'Université Paris-Sud, par le fournisseur d'accès"
-msgstr "of the University of Paris-Sud through the provider"
-
-#: includes/pages/accueil.php:68
-#, fuzzy
-msgid "organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l'éducation."
-msgstr ""
-"organization in charge of grouping the telecommunication infrastructure for "
-"the research and the education."
 
 #: includes/pages/accueil.php:71
 msgid "Voir aussi"
@@ -670,8 +596,8 @@ msgid ""
 "Vous trouverez sur cette page les projets de l'équipe de développement logiciel de l'association <a href="
 "\"http://www.rez-gif.supelec.fr\">Supélec Rézo</a>"
 msgstr ""
-"You can find on this page the projects of the software development team of "
-"the association <a href=\"http://www.rez-gif.supelec.fr\">Supélec Rézo</a>."
+"You can find on this page the projects of the software development team of the association <a href=\"http://"
+"www.rez-gif.supelec.fr\">Supélec Rézo</a>."
 
 #: includes/pages/applis.php:4
 #, fuzzy
@@ -679,8 +605,8 @@ msgid ""
 "Pour toute question, remarque, insulte, contactez Supélec Rézo sur sa <a href=\"mailto:rezo@rez-gif.supelec."
 "fr\">mailing-list</a>."
 msgstr ""
-"If you have any question or suggestion, please contact Supélec Rézo on its <"
-"a href=\"mailto:rezo@rez-gif.supelec.fr\">mailing-list</a>."
+"If you have any question or suggestion, please contact Supélec Rézo on its <a href=\"mailto:rezo@rez-gif."
+"supelec.fr\">mailing-list</a>."
 
 #: includes/pages/applis.php:10
 msgid "Nom du projet"
@@ -742,11 +668,10 @@ msgid ""
 "et le <a href=\"http://www.crans.org\">CR@NS</a>, les associations de réseaux officiant respectivement sur "
 "le campus de CentraleSupélec à Châtenay-Malabry et celui de l'École Normale Supérieure à Cachan."
 msgstr ""
-"Supélec Rézo forms the <a href=\"https://myares.fr\">ARES</a> together with <"
-"a href=\"http://www.via.ecp.fr\">VIA</a> and the <a href=\"http://www.crans."
-"org\">CR@NS</a>, the student network associations based respectively on the "
-"campus of CentraleSupélec in Châtenay-Malabry and the campus of the École "
-"Normale Supérieure in Cachan."
+"Supélec Rézo forms the <a href=\"https://myares.fr\">ARES</a> together with <a href=\"http://www.via.ecp.fr"
+"\">VIA</a> and the <a href=\"http://www.crans.org\">CR@NS</a>, the student network associations based "
+"respectively on the campus of CentraleSupélec in Châtenay-Malabry and the campus of the École Normale "
+"Supérieure in Cachan."
 
 #: includes/pages/historique.php:5
 #, fuzzy
@@ -754,18 +679,16 @@ msgid ""
 "Cette association sert d'interlocuteur aux instances responsables du Projet Paris-Saclay dans la promotion "
 "d'un réseau étudiant sur le campus de l'Université Paris-Saclay."
 msgstr ""
-"This association is meant to be the spokesperson with the authorities in "
-"charge of the Paris-Saclay project to promote a student network on the "
-"campus of the University of Paris-Saclay."
+"This association is meant to be the spokesperson with the authorities in charge of the Paris-Saclay project "
+"to promote a student network on the campus of the University of Paris-Saclay."
 
 #: includes/pages/historique.php:7
 msgid ""
 "Supélec Rézo a aussi procédé à l'amélioration de sa fibre, passant d'un débit de 100Mb/s à 1Gb/s grâce à sa "
 "coopération avec la DSI de l'Université Paris-Sud."
 msgstr ""
-"Supélec Rézo also proceeded to upgrade its fiber, going from a throughput of "
-"100Mb/s to a throughput of 1Gb/s thanks to the help of the ISD of the "
-"University of Paris-Saclay."
+"Supélec Rézo also proceeded to upgrade its fiber, going from a throughput of 100Mb/s to a throughput of 1Gb/"
+"s thanks to the help of the ISD of the University of Paris-Saclay."
 
 #: includes/pages/historique.php:12
 #, fuzzy
@@ -773,9 +696,8 @@ msgid ""
 "Supélec Rézo devient membre de l'<a href = \"https://www.april.org/\">APRIL</a>, association pour la "
 "promotion et la défense du logiciel libre."
 msgstr ""
-"Supélec Rézo becomes a member of the <a href = \"https://www.april.org/\""
-">APRIL</a>, a French association for the promotion and the defense of open-"
-"source software."
+"Supélec Rézo becomes a member of the <a href = \"https://www.april.org/\">APRIL</a>, a French association "
+"for the promotion and the defense of open-source software."
 
 #: includes/pages/historique.php:17
 #, fuzzy
@@ -783,9 +705,8 @@ msgid ""
 "Supélec Rézo investit dans la virtualisation, et se dote de son premier serveur utilisant <a href=\"http://"
 "www.xenproject.org/\">Xen</a> comme hyperviseur."
 msgstr ""
-"Supélec Rézo invests in virtualization solutions and equip itself with its "
-"first server using <a href=\"http://www.xenproject.org/\">Xen</a> as the "
-"hypervisor."
+"Supélec Rézo invests in virtualization solutions and equip itself with its first server using <a href="
+"\"http://www.xenproject.org/\">Xen</a> as the hypervisor."
 
 #: includes/pages/historique.php:17
 #, fuzzy
@@ -799,17 +720,14 @@ msgid ""
 "son système d'adressage et implémente un <a href=\"http://fr.wikipedia.org/wiki/Network_address_translation"
 "\">NAT</a> permettant aux adhérents de connecter jusqu'à 256 machines chacun."
 msgstr ""
-"Due to the increase in the number of devices connected to the residence, "
-"Supélec Rézo also rebuild its addressing scheme and implement a <a href=\""
-"http://en.wikipedia.org/wiki/Network_address_translation\">NAT</a> allowing "
-"each member to connect up to 256 devices."
+"Due to the increase in the number of devices connected to the residence, Supélec Rézo also rebuild its "
+"addressing scheme and implement a <a href=\"http://en.wikipedia.org/wiki/Network_address_translation\">NAT</"
+"a> allowing each member to connect up to 256 devices."
 
 #: includes/pages/historique.php:25
 #, fuzzy
 msgid "Rénovation complète du local Rézo, au rez-de-chaussée la résidence II.C."
-msgstr ""
-"Complete renovation of the Rézo's office, at the ground floor of the "
-"residence II.C."
+msgstr "Complete renovation of the Rézo's office, at the ground floor of the residence II.C."
 
 #: includes/pages/historique.php:30
 #, fuzzy
@@ -818,10 +736,9 @@ msgid ""
 "De nombreux switchs sont achetés à HP avec l'aide du CRI de Supélec et de CESAL (Organisme gérant de la "
 "résidence des élèves de Supélec) ; ils seront installés entre novembre et décembre 2009."
 msgstr ""
-"Suéplec Rézo cxompletely renew its ahrdware architecture, end point of a "
-"project started in 2007. Many switches were bought from HP with the help of "
-"Supélec's CRI and CESAL (organization managing the residence of Supélec's "
-"students); they will be deployed between November and December 2009."
+"Suéplec Rézo cxompletely renew its ahrdware architecture, end point of a project started in 2007. Many "
+"switches were bought from HP with the help of Supélec's CRI and CESAL (organization managing the residence "
+"of Supélec's students); they will be deployed between November and December 2009."
 
 #: includes/pages/historique.php:35
 #, fuzzy
@@ -834,15 +751,13 @@ msgid ""
 "et <a href=\"http://www.via.ecp.fr/\">VIA Centrale Réseaux</a> (École Centrale Paris ), la Fédération des "
 "Réseaux Étudiants."
 msgstr ""
-"Supélec Rézo forms <a href=\"http://www.federez.net\">FedeRez</a>, the "
-"federation of student networks, together with <a href=\"http://br.binets.fr/"
-"Accueil\">Binet Réseau</a> (École  Polytechnique), <a href=\""
-"http://www.crans.org/\">CR@NS</a> (École Normale Supérieure de Cachan), <a "
-"href=\"http://resel.fr/\">ResEl</a> (TELECOM Bretagne - Institut TELECOM), <"
-"a href=\"http://www.rezel.net/\">Rezel</a> (TELECOM ParisTech - Télécom "
-"Paris - Institut TELECOM), <a href=\"http://www.rez-rennes.supelec.fr/\">"
-"Supélec Rézo Rennes</a> (Supélec campus of Rennes) et <a href=\""
-"http://www.via.ecp.fr/\">VIA Centrale Réseaux</a> (École Centrale Paris)."
+"Supélec Rézo forms <a href=\"http://www.federez.net\">FedeRez</a>, the federation of student networks, "
+"together with <a href=\"http://br.binets.fr/Accueil\">Binet Réseau</a> (École  Polytechnique), <a href="
+"\"http://www.crans.org/\">CR@NS</a> (École Normale Supérieure de Cachan), <a href=\"http://resel.fr/"
+"\">ResEl</a> (TELECOM Bretagne - Institut TELECOM), <a href=\"http://www.rezel.net/\">Rezel</a> (TELECOM "
+"ParisTech - Télécom Paris - Institut TELECOM), <a href=\"http://www.rez-rennes.supelec.fr/\">Supélec Rézo "
+"Rennes</a> (Supélec campus of Rennes) et <a href=\"http://www.via.ecp.fr/\">VIA Centrale Réseaux</a> (École "
+"Centrale Paris)."
 
 #: includes/pages/historique.php:38
 #, fuzzy
@@ -851,10 +766,9 @@ msgid ""
 "principalement sur IRC <a href=\"irc://irc.rezosup.org/#federez\">irc.rezosup.org/#federez</a> et au cours "
 "des journées FedeRez."
 msgstr ""
-"This could finally be done after very long conversations during the previous "
-"years, mainly on IRC <a href=\"irc://irc.rezosup.org/#federez\""
-">irc.rezosup.org/#federez</a> and during the \"journées FedeRez\" (FedeRez's "
-"days)."
+"This could finally be done after very long conversations during the previous years, mainly on IRC <a href="
+"\"irc://irc.rezosup.org/#federez\">irc.rezosup.org/#federez</a> and during the \"journées FedeRez"
+"\" (FedeRez's days)."
 
 #: includes/pages/historique.php:39
 #, fuzzy
@@ -862,9 +776,8 @@ msgid ""
 "Les status ont été adoptés après une réunion marathon durant les journées FedeRez de l'année 2009 organisée "
 "par l'École Normale Supérieure de Cachan."
 msgstr ""
-"The status were passed after a very long meeting during the \"journées "
-"FedeRez\" (FedeRez's days) in 2009 organized by the École Normale Supérieure "
-"de Cachan."
+"The status were passed after a very long meeting during the \"journées FedeRez\" (FedeRez's days) in 2009 "
+"organized by the École Normale Supérieure de Cachan."
 
 #: includes/pages/historique.php:42
 #, fuzzy
@@ -892,17 +805,15 @@ msgid ""
 "Au fil des années le nombre de Rézomen a augmenté (pour atteindre un nombre record de 15 personnes "
 "impliquées dans la promotion 2010)."
 msgstr ""
-"Year after Year, the number of Rézomen has increased (to reach the record "
-"number of 15 implied persons of the graduation year 2010)."
+"Year after Year, the number of Rézomen has increased (to reach the record number of 15 implied persons of "
+"the graduation year 2010)."
 
 #: includes/pages/historique.php:53
 #, fuzzy
 msgid ""
 "Cela introduisit des problématiques d'organisation, que la réforme des statuts créant le Conseil "
 "d'Administration a tenté de résoudre."
-msgstr ""
-"This created organizational problems that the creation of the Board of "
-"managers tried to solve."
+msgstr "This created organizational problems that the creation of the Board of managers tried to solve."
 
 #: includes/pages/historique.php:56
 #, fuzzy
@@ -925,8 +836,8 @@ msgid ""
 "Lors de sa <strong>mise en service</strong> à la rentrée de septembre 1995, le réseau interconnecte 80 "
 "ordinateurs en résidence II exclusivement."
 msgstr ""
-"On its <strong>deployment</strong> at the beginning of the school year in "
-"September 1995, the network connects 80 computers in the residence II only."
+"On its <strong>deployment</strong> at the beginning of the school year in September 1995, the network "
+"connects 80 computers in the residence II only."
 
 #: includes/pages/historique.php:64
 #, fuzzy
@@ -934,8 +845,8 @@ msgid ""
 "Les Rézomen ont à l'époque en effet préféré se concentrer sur le déploiement dans cette nouvelle résidence "
 "ouverte en Septembre 1994."
 msgstr ""
-"At this time, the Rézomen chose to focus on the deployment inside this new "
-"residence opened in September 1994."
+"At this time, the Rézomen chose to focus on the deployment inside this new residence opened in September "
+"1994."
 
 #: includes/pages/historique.php:69
 #, fuzzy
@@ -943,9 +854,8 @@ msgid ""
 "Il faudra attendre trois ans et demi pour que le réseau (en réalité, une partie de celui-ci) soit mis en "
 "service, suite à un travail considérable d'étude et de financement mené par les premiers Rezomen."
 msgstr ""
-"It took three and a half years for the network (in fact, a part of the "
-"network) to come into service after an incredible work made of studies and "
-"funding was made by the first Rézomen."
+"It took three and a half years for the network (in fact, a part of the network) to come into service after "
+"an incredible work made of studies and funding was made by the first Rézomen."
 
 #: includes/pages/historique.php:70
 #, fuzzy
@@ -953,9 +863,8 @@ msgid ""
 "Les comptes rendus de réunion de ces temps \"anciens\" font état d'une collaboration inter-campus "
 "particulièrement active, les \"Supélec Rézo\" rennais et messin étant alors rattachés à celui de Gif."
 msgstr ""
-"The minutes of the meetings of these \"ancient times\" show a very active "
-"inter-campus collaboration, the \"Supélec Rézo\" from Rennes and Metz were "
-"then attached to the one from Gif."
+"The minutes of the meetings of these \"ancient times\" show a very active inter-campus collaboration, the "
+"\"Supélec Rézo\" from Rennes and Metz were then attached to the one from Gif."
 
 #: includes/pages/historique.php:73
 #, fuzzy
@@ -968,8 +877,8 @@ msgid ""
 "<strong>Création de l'association</strong> le 11 Juin 1991, fondée par Alexandre LACHMANN, Corinne LAUER et "
 "Valérie ABRELL."
 msgstr ""
-"<strong>Creation of the association</strong> on June, 21 1991, formed by "
-"Alexandre LACHMANN, Corinne LAUER et Valérie ABRELL."
+"<strong>Creation of the association</strong> on June, 21 1991, formed by Alexandre LACHMANN, Corinne LAUER "
+"et Valérie ABRELL."
 
 #: includes/pages/historique.php:76
 #, fuzzy
@@ -977,8 +886,8 @@ msgid ""
 "L'objet de l'association Supélec Rézo est alors de créer et gérer un \"réseau voix-données-images\" dans la "
 "résidence des élèves."
 msgstr ""
-"The reason of the association Supélec Rézo is then to create and manage a \""
-"voice-data-image network\" isnide the students' residence."
+"The reason of the association Supélec Rézo is then to create and manage a \"voice-data-image network\" "
+"isnide the students' residence."
 
 #: includes/pages/matos.php:3
 #, fuzzy
@@ -989,9 +898,7 @@ msgstr "Servers"
 msgid ""
 "Supélec Rézo possède un parc d'une vingtaine serveurs. Ces serveurs sont traditionnellement nommés à partir "
 "de noms de personnages de Star Wars."
-msgstr ""
-"Supélec Rézo owns around twenty servers. These servers are usually named "
-"after Star Wars characters."
+msgstr "Supélec Rézo owns around twenty servers. These servers are usually named after Star Wars characters."
 
 #: includes/pages/matos.php:7
 #, fuzzy
@@ -999,9 +906,8 @@ msgid ""
 "Ce parc se compose de machines montées à partir de pièces achetées dans le commerce pour la plupart, mais "
 "également d'anciennes machines de membres, ainsi que de serveurs donnés à l'association."
 msgstr ""
-"This stock is made of machines assembled from parts mainly bought in "
-"standard stores but also from parts gathered on old members' machines and "
-"also of servers given to the association."
+"This stock is made of machines assembled from parts mainly bought in standard stores but also from parts "
+"gathered on old members' machines and also of servers given to the association."
 
 #: includes/pages/matos.php:10
 #, fuzzy
@@ -1019,9 +925,8 @@ msgid ""
 "Nous possédons 5 modèles de switchs formant l'architecture filaire de la résidence, tous mis en production "
 "lors du renouvellement de l'architecture physique en novembre 2009."
 msgstr ""
-"We have 5 different types of switches which create the wired architecture of "
-"the residence, all of them deployed during the renewal of the hardware "
-"architecture in November 2009."
+"We have 5 different types of switches which create the wired architecture of the residence, all of them "
+"deployed during the renewal of the hardware architecture in November 2009."
 
 #: includes/pages/matos.php:17
 #, fuzzy
@@ -1074,8 +979,8 @@ msgid ""
 "Il s'agit de bornes <em class=\"blue\">Cisco aironet 1130AG</em> et <em class=\"blue\">Cisco aironet "
 "AP1042N</em>."
 msgstr ""
-"It is <em class=\"blue\">Cisco aironet 1130AG</em> and <em class=\"blue\">"
-"Cisco aironet AP1042N</em> routers."
+"It is <em class=\"blue\">Cisco aironet 1130AG</em> and <em class=\"blue\">Cisco aironet AP1042N</em> "
+"routers."
 
 #: includes/pages/matos.php:31
 #, fuzzy
@@ -1083,16 +988,14 @@ msgid ""
 "La mise en place complète du réseau WiFi a été finie en 2012. Une refonte totale de ce réseau est "
 "actuellement menée."
 msgstr ""
-"The complete deployment of the WiFi network was finished in 2012. A complete "
-"renewal of this network is on-going."
+"The complete deployment of the WiFi network was finished in 2012. A complete renewal of this network is on-"
+"going."
 
 #: includes/pages/membres.php:4
 #, fuzzy
 msgid ""
 "Cette page donne la liste des membres connus de Supélec Rézo depuis la création de l'association en 1991."
-msgstr ""
-"This page lists all the known active members of Supélec Rézo since its "
-"creation in 1991."
+msgstr "This page lists all the known active members of Supélec Rézo since its creation in 1991."
 
 #: includes/pages/membres.php:5
 #, fuzzy
@@ -1101,14 +1004,43 @@ msgid ""
 "en 2008. L'appartenance au conseil d'administration commence en Février de l'année scolaire en cours ou "
 "après un vote du Conseil d'administration, et se termine au 30 Avril de l'année suivante."
 msgstr ""
-"The members of the committee are also members of the Board of managers "
-"created by the status passed in 2008. The mandate for the Board of managers "
-"starts in February of the school year or after a vote from the current Board "
-"of managers, and finishes on April, 30 of the next year."
+"The members of the committee are also members of the Board of managers created by the status passed in "
+"2008. The mandate for the Board of managers starts in February of the school year or after a vote from the "
+"current Board of managers, and finishes on April, 30 of the next year."
 
 #: includes/pages/membres.php:6
 #, fuzzy
 msgid "Les années de promotion correspondent à l'année prévue de remise du diplôme."
+msgstr "The graduation year corresponds to the expected year of the certificate presentation."
+
+#: includes/pages/membres.php:11
+msgid "En plein écran"
 msgstr ""
-"The graduation year corresponds to the expected year of the certificate "
-"presentation."
+
+#, fuzzy
+#~ msgid "Supélec Rézo est membre fondateur de"
+#~ msgstr "Supélec Rézo is a founding member of"
+
+#, fuzzy
+#~ msgid "FedeRez organise chaque année les"
+#~ msgstr "Each year, FedeRez organizes the"
+
+#, fuzzy
+#~ msgid "journées FedeRez"
+#~ msgstr "\"journées FedeRez\" (FedeRez's days)"
+
+#~ msgid "L'accès à Internet nous est fourni par l'intermédiaire du"
+#~ msgstr "The Internet acces is given to us by"
+
+#~ msgid "DSI"
+#~ msgstr "ISD"
+
+#~ msgid "de l'Université Paris-Sud, par le fournisseur d'accès"
+#~ msgstr "of the University of Paris-Sud through the provider"
+
+#, fuzzy
+#~ msgid ""
+#~ "organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l'éducation."
+#~ msgstr ""
+#~ "organization in charge of grouping the telecommunication infrastructure for the research and the "
+#~ "education."

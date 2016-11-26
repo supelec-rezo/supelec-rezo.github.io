@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-21 15:24+0200\n"
+"POT-Creation-Date: 2016-11-26 18:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -198,7 +198,7 @@ msgstr ""
 
 #: includes/menu.php:43 promos/2003.php:2 promos/2004.php:2 promos/2005.php:2 promos/2006.php:2
 #: promos/2007.php:2 promos/2008.php:2 promos/2009.php:2 promos/2010.php:2 promos/2011.php:2 promos/2012.php:2
-#: promos/2013.php:2 promos/2014.php:2 promos/2015.php:2 promos/2016.php:2 promos/2017.php:2
+#: promos/2013.php:2 promos/2014.php:2 promos/2015.php:2 promos/2016.php:2 promos/2017.php:2 promos/2018.php:2
 msgid "Promotion"
 msgstr ""
 
@@ -220,13 +220,14 @@ msgstr ""
 
 #: promos/2003.php:5 promos/2004.php:5 promos/2005.php:5 promos/2006.php:5 promos/2007.php:5 promos/2008.php:5
 #: promos/2009.php:5 promos/2010.php:6 promos/2011.php:5 promos/2012.php:5 promos/2013.php:5 promos/2014.php:5
-#: promos/2015.php:5 promos/2016.php:5 promos/2017.php:5
+#: promos/2015.php:5 promos/2016.php:5 promos/2017.php:5 promos/2018.php:5
 msgid "Bureau"
 msgstr ""
 
 #: promos/2003.php:10 promos/2004.php:10 promos/2005.php:10 promos/2006.php:10 promos/2007.php:10
 #: promos/2008.php:10 promos/2009.php:10 promos/2010.php:10 promos/2011.php:10 promos/2012.php:10
 #: promos/2013.php:10 promos/2014.php:10 promos/2015.php:10 promos/2016.php:10 promos/2017.php:10
+#: promos/2018.php:10
 msgid "Président"
 msgstr ""
 
@@ -239,25 +240,26 @@ msgstr ""
 #: promos/2003.php:20 promos/2004.php:20 promos/2005.php:20 promos/2006.php:20 promos/2007.php:20
 #: promos/2008.php:20 promos/2009.php:20 promos/2010.php:25 promos/2011.php:20 promos/2012.php:20
 #: promos/2013.php:20 promos/2013.php:25 promos/2014.php:20 promos/2015.php:20 promos/2016.php:20
-#: promos/2017.php:20
+#: promos/2017.php:20 promos/2018.php:20
 msgid "Secrétaire"
 msgstr ""
 
 #: promos/2003.php:25 promos/2005.php:25 promos/2006.php:25 promos/2007.php:25 promos/2008.php:25
 #: promos/2009.php:25 promos/2010.php:30 promos/2011.php:25 promos/2012.php:25 promos/2013.php:30
 #: promos/2013.php:35 promos/2014.php:25 promos/2014.php:30 promos/2015.php:25 promos/2016.php:25
-#: promos/2017.php:25
+#: promos/2017.php:25 promos/2018.php:25
 msgid "Vice-Président"
 msgstr ""
 
 #: promos/2003.php:30 promos/2004.php:25 promos/2005.php:30 promos/2006.php:30 promos/2007.php:30
 #: promos/2008.php:30 promos/2009.php:55 promos/2010.php:37 promos/2011.php:85 promos/2012.php:65
 #: promos/2013.php:95 promos/2014.php:70 promos/2015.php:60 promos/2016.php:70 promos/2017.php:86
+#: promos/2018.php:142
 msgid "Autres membres"
 msgstr ""
 
 #: promos/2009.php:30 promos/2010.php:35 promos/2011.php:30 promos/2012.php:30 promos/2013.php:40
-#: promos/2014.php:35 promos/2015.php:30 promos/2016.php:30 promos/2017.php:40
+#: promos/2014.php:35 promos/2015.php:30 promos/2016.php:30 promos/2017.php:40 promos/2018.php:40
 msgid "Conseil d'administration"
 msgstr ""
 
@@ -341,15 +343,15 @@ msgstr ""
 msgid "(président jusqu'au 10/12/14 pour cause de départ en semestre)"
 msgstr ""
 
-#: promos/2017.php:15
+#: promos/2017.php:15 promos/2018.php:15
 msgid "Trésorière"
 msgstr ""
 
-#: promos/2017.php:30
+#: promos/2017.php:30 promos/2018.php:30
 msgid "Responsable Infrastructure"
 msgstr ""
 
-#: promos/2017.php:35
+#: promos/2017.php:35 promos/2018.php:35
 msgid "Responsable Administration Système"
 msgstr ""
 
@@ -357,7 +359,7 @@ msgstr ""
 msgid "(démissionnaire en avril 2015)"
 msgstr ""
 
-#: promos/2017.php:92
+#: promos/2017.php:92 promos/2018.php:148
 msgid "(Depuis janvier 2016)"
 msgstr ""
 
@@ -477,43 +479,26 @@ msgid ""
 msgstr ""
 
 #: includes/pages/accueil.php:63
-msgid "Supélec Rézo est membre fondateur de"
+msgid ""
+"Supélec Rézo est membre fondateur de <a href=\"http://www.federez.net\">FedeRez</a>, fédération "
+"d'associations regroupant des réseaux étudiants venant de la France entière, et visant à favoriser "
+"l'échange entre ces dernières, tant par l'organisation d'événements regroupants ses membres que par les "
+"conseils techniques qu'elle apporte afin de soutenir le développement des projets des associations qu'elle "
+"rassemble."
 msgstr ""
 
 #: includes/pages/accueil.php:63
 msgid ""
-"fédération d'associations regroupant des réseaux étudiants venant de la France entière, et visant à "
-"favoriser l'échange entre ces dernières, tant par l'organisation d'événements regroupants ses membres que "
-"par les conseils techniques qu'elle apporte afin de soutenir le développement des projets des associations "
-"qu'elle rassemble."
-msgstr ""
-
-#: includes/pages/accueil.php:63
-msgid "FedeRez organise chaque année les"
-msgstr ""
-
-#: includes/pages/accueil.php:63
-msgid "journées FedeRez"
-msgstr ""
-
-#: includes/pages/accueil.php:63
-msgid "événement durant lequel sont organisées des conférences sur le thème de l'informatique."
+"FedeRez organise chaque année les <a href=\"http://www.federez.net/journees/\">journées FedeRez</a>, "
+"événement durant lequel sont organisées des conférences sur le thème de l'informatique."
 msgstr ""
 
 #: includes/pages/accueil.php:68
-msgid "L'accès à Internet nous est fourni par l'intermédiaire du"
-msgstr ""
-
-#: includes/pages/accueil.php:68
-msgid "DSI"
-msgstr ""
-
-#: includes/pages/accueil.php:68
-msgid "de l'Université Paris-Sud, par le fournisseur d'accès"
-msgstr ""
-
-#: includes/pages/accueil.php:68
-msgid "organisme chargé de fédérer les infrastructures de télécommunication pour la recherche et l'éducation."
+msgid ""
+"L'accès à Internet nous est fourni par l'intermédiaire du <abbr title=\"Direction des Services Informatiques"
+"\" lang=\"fr\">DSI</abbr> de l'Université Paris-Sud, par le fournisseur d'accès <a href=\"http://www."
+"renater.fr\">RENATER</a>, organisme chargé de fédérer les infrastructures de télécommunication pour la "
+"recherche et l'éducation."
 msgstr ""
 
 #: includes/pages/accueil.php:71
@@ -878,4 +863,8 @@ msgstr ""
 
 #: includes/pages/membres.php:6
 msgid "Les années de promotion correspondent à l'année prévue de remise du diplôme."
+msgstr ""
+
+#: includes/pages/membres.php:11
+msgid "En plein écran"
 msgstr ""
