@@ -15,7 +15,7 @@
 <h3><?php echo _('Membres'); ?></h3>
 <p>
   <?php echo _('Supélec Rézo est constitué d\'une vingtaine d\'élèves de CentraleSupélec, aussi connus sous le nom de Rézomen.'); ?><br />
-  <?php echo _('Cette équipe s\'occupe, en plus de l\'administration du réseau, de tenir des permanences, organisées trois fois par semaines les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux demandes formulées par ses adhérents.'); ?> <br />
+  <?php echo _('Cette équipe s\'occupe, en plus de l\'administration du réseau, de tenir des permanences, organisées trois fois par semaine les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux demandes formulées par ses adhérents.'); ?> <br />
   <?php echo _('Pour plus de précisions, visitez la'); ?> <a href="membres/"><?php echo _('page des membres'); ?></a>.
 </p>
 
@@ -44,7 +44,7 @@
   <tr>
     <td><img class="server-icon" src='assets/images/icons/tnt_server.png' alt= "Serveur TNT"/></td>
     <td>TNT</td>
-    <td><?php echo _('Il est mis à la disposition des élèves la possibilité de regarder la'); ?> <abbr title="Télévision Numérique Terrestre" lang="fr">TNT</abbr> <?php echo _('en multicast à la résidence.'); ?></td>
+    <td><?php echo _('Il est mis à la disposition des élèves la possibilité de regarder la <abbr title="Télévision Numérique Terrestre" lang="fr">TNT</abbr> en multicast à la résidence.'); ?></td>
   </tr>
   <tr>
     <td><img class="server-icon" src='assets/images/icons/irc_server.png' alt= "Serveur IRC"/></td>

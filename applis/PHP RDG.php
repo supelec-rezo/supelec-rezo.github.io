@@ -11,7 +11,7 @@
 
   <table class="app-table">
     <tr>
-      <th class="label"><?php echo _('License :');?></th>
+      <th class="label"><?php echo _('Licence :');?></th>
       <td>BSD 1999</td>
     </tr>
     <tr>

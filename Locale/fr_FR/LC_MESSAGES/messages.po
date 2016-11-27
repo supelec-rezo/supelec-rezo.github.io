@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-26 18:20+0100\n"
+"POT-Creation-Date: 2016-11-27 11:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgstr ""
 
 #: applis/Birdo.php:14 applis/Kettu.php:15 applis/Notifier.php:14 applis/PHP RDG.php:14
 #: applis/RezoIrcLogs.php:14
-msgid "License :"
+msgid "Licence :"
 msgstr ""
 
 #: applis/Birdo.php:18 applis/Notifier.php:18 applis/PHP RDG.php:18 applis/RezoIrcLogs.php:18
@@ -399,7 +399,7 @@ msgstr ""
 #: includes/pages/accueil.php:18
 msgid ""
 "Cette équipe s'occupe, en plus de l'administration du réseau, de tenir des permanences, organisées trois "
-"fois par semaines les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux "
+"fois par semaine les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux "
 "demandes formulées par ses adhérents."
 msgstr ""
 
@@ -455,11 +455,9 @@ msgid ""
 msgstr ""
 
 #: includes/pages/accueil.php:47
-msgid "Il est mis à la disposition des élèves la possibilité de regarder la"
-msgstr ""
-
-#: includes/pages/accueil.php:47
-msgid "en multicast à la résidence."
+msgid ""
+"Il est mis à la disposition des élèves la possibilité de regarder la <abbr title=\"Télévision Numérique "
+"Terrestre\" lang=\"fr\">TNT</abbr> en multicast à la résidence."
 msgstr ""
 
 #: includes/pages/accueil.php:52

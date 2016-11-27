@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 2016\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-26 18:20+0100\n"
+"POT-Creation-Date: 2016-11-27 11:01+0100\n"
 "PO-Revision-Date: 2016-03-06 14:37+0000\n"
 "Last-Translator: marc.barussaud <marc.barussaud@laposte.net>\n"
 "Language-Team: English (United States) <http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
@@ -34,7 +34,7 @@ msgstr "One can also search for files in these servers."
 
 #: applis/Birdo.php:14 applis/Kettu.php:15 applis/Notifier.php:14 applis/PHP RDG.php:14
 #: applis/RezoIrcLogs.php:14
-msgid "License :"
+msgid "Licence :"
 msgstr ""
 
 #: applis/Birdo.php:18 applis/Notifier.php:18 applis/PHP RDG.php:18 applis/RezoIrcLogs.php:18
@@ -418,9 +418,10 @@ msgstr ""
 "Supélec Rézo is composed of about twenty students from CentraleSupélec. They are usually named Rézomen."
 
 #: includes/pages/accueil.php:18
+#, fuzzy
 msgid ""
 "Cette équipe s'occupe, en plus de l'administration du réseau, de tenir des permanences, organisées trois "
-"fois par semaines les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux "
+"fois par semaine les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux "
 "demandes formulées par ses adhérents."
 msgstr ""
 "Besides administrating the network, this team has three duty periods per week, on Monday and Friday at noon "
@@ -487,14 +488,10 @@ msgstr ""
 "clubs and societies on the campus and a help section for our members."
 
 #: includes/pages/accueil.php:47
-#, fuzzy
-msgid "Il est mis à la disposition des élèves la possibilité de regarder la"
-msgstr "We give students a way to watch the"
-
-#: includes/pages/accueil.php:47
-#, fuzzy
-msgid "en multicast à la résidence."
-msgstr "in multicast inside the residence"
+msgid ""
+"Il est mis à la disposition des élèves la possibilité de regarder la <abbr title=\"Télévision Numérique "
+"Terrestre\" lang=\"fr\">TNT</abbr> en multicast à la résidence."
+msgstr ""
 
 #: includes/pages/accueil.php:52
 msgid ""
@@ -1016,6 +1013,14 @@ msgstr "The graduation year corresponds to the expected year of the certificate 
 #: includes/pages/membres.php:11
 msgid "En plein écran"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Il est mis à la disposition des élèves la possibilité de regarder la"
+#~ msgstr "We give students a way to watch the"
+
+#, fuzzy
+#~ msgid "en multicast à la résidence."
+#~ msgstr "in multicast inside the residence"
 
 #, fuzzy
 #~ msgid "Supélec Rézo est membre fondateur de"

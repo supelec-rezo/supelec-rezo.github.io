@@ -12,7 +12,7 @@
 
   <table class="app-table">
     <tr>
-      <th class="label"><?php echo _('License :');?></th>
+      <th class="label"><?php echo _('Licence :');?></th>
       <td><img src="assets/images/icons/gplv3.png" alt="GPL v3" title="GPL v3" /></td>
     </tr>
     <tr>
