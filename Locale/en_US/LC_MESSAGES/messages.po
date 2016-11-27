@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: 2016\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:01+0100\n"
-"PO-Revision-Date: 2016-03-06 14:37+0000\n"
-"Last-Translator: marc.barussaud <marc.barussaud@laposte.net>\n"
-"Language-Team: English (United States) <http://example.com/projects/rezomenfr/rezomenfr/en_US/>\n"
+"PO-Revision-Date: 2016-11-27 10:33+0000\n"
+"Last-Translator: julien.lepiller <julien.lepiller@supelec.fr>\n"
+"Language-Team: English (United States) "
+"<https://z6po.larez.fr/projects/rezomenfr/rezomenfr/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.5-dev\n"
+"X-Generator: Weblate 2.8-dev\n"
 
 #: applis/Birdo.php:6
 msgid "Indexeur automatique de serveurs FTP."
@@ -35,7 +36,7 @@ msgstr "One can also search for files in these servers."
 #: applis/Birdo.php:14 applis/Kettu.php:15 applis/Notifier.php:14 applis/PHP RDG.php:14
 #: applis/RezoIrcLogs.php:14
 msgid "Licence :"
-msgstr ""
+msgstr "License:"
 
 #: applis/Birdo.php:18 applis/Notifier.php:18 applis/PHP RDG.php:18 applis/RezoIrcLogs.php:18
 msgid "Langage :"
@@ -65,7 +66,7 @@ msgstr "Git repository:"
 
 #: applis/Birdo.php:31
 msgid "Ce projet n'est pas encore disponible au public pour des raisons de maturité."
-msgstr ""
+msgstr "This project is not yet publicly available for maturity reasons."
 
 #: applis/Kettu.php:6 includes/pages/applis.php:18
 msgid "Système de gestion d'un réseau local."
@@ -96,11 +97,12 @@ msgid "Langages :"
 msgstr "Languages:"
 
 #: applis/Kettu.php:24
-#, fuzzy
 msgid ""
 "La dernière version stable est la 2.0. La version 3.0 a été abandonnée au profit de la version 4.0, "
 "actuellement en cours de dévelopement."
-msgstr "The latest stable version is 2.0. The version 3.0 is currently under development."
+msgstr ""
+"The latest stable version is 2.0. The version 3.0 has been abandoned for "
+"version 4.0 currently under development."
 
 #: applis/Kettu.php:31 applis/PHP RDG.php:34
 msgid "Dépôt Mercurial :"
@@ -457,13 +459,12 @@ msgid "Service d'hébergement de fichiers"
 msgstr "File hosting service"
 
 #: includes/pages/accueil.php:32
-#, fuzzy
 msgid ""
 "Nous fournissons aux associations et clubs du campus la possibilité d'héberger des fichiers. Les élèves "
 "peuvent également nous demander en cas de besoin un hébergement personnel."
 msgstr ""
-"We offer a file hosting service for the clubs and organizations on the campus. Students can also make a "
-"request for an indiviual hosting if needed."
+"We offer a file hosting service for the clubs and organizations on the "
+"campus. Students can also make a request for an individual hosting if needed."
 
 #: includes/pages/accueil.php:36
 msgid "Service d'hébergement web"
@@ -498,6 +499,8 @@ msgid ""
 "Nous hébergeons et administrons un serveur <abbr title=\"Internet Relay Chat\" lang=\"en\">IRC</abbr> de "
 "RézoSup"
 msgstr ""
+"We host and administer an <abbr title=\"Internet Relay Chat\" lang=\"en\""
+">IRC</abbr> server for RézoSup"
 
 #: includes/pages/accueil.php:56
 msgid "Machines virtuelles"
@@ -512,7 +515,6 @@ msgstr ""
 "and societies on the campus."
 
 #: includes/pages/accueil.php:63
-#, fuzzy
 msgid ""
 "Supélec Rézo est membre fondateur de <a href=\"http://www.federez.net\">FedeRez</a>, fédération "
 "d'associations regroupant des réseaux étudiants venant de la France entière, et visant à favoriser "
@@ -520,16 +522,20 @@ msgid ""
 "conseils techniques qu'elle apporte afin de soutenir le développement des projets des associations qu'elle "
 "rassemble."
 msgstr ""
-"federation of student network associations from the whole France which aims at improving the exchanges "
-"between them by organizing events for its members as well as giving technical advice to support their on-"
-"going projects."
+"Supélec Rézo is a funding member of <a href=\"http://www.federez.net\""
+">FedeRez</a>, a federation of student network associations from the whole "
+"France which aims at improving the exchanges between them by organizing "
+"events for its members as well as giving technical advice to support their "
+"on-going projects."
 
 #: includes/pages/accueil.php:63
-#, fuzzy
 msgid ""
 "FedeRez organise chaque année les <a href=\"http://www.federez.net/journees/\">journées FedeRez</a>, "
 "événement durant lequel sont organisées des conférences sur le thème de l'informatique."
-msgstr "an event which consists in conferences and talks about the computing world."
+msgstr ""
+"FedeRez organizes each year the <a href=\"http://www.federez.net/journees/\">"
+"FedeRez days</a>, an event which consists in conferences and talks about the "
+"computing world."
 
 #: includes/pages/accueil.php:68
 msgid ""
@@ -538,6 +544,11 @@ msgid ""
 "renater.fr\">RENATER</a>, organisme chargé de fédérer les infrastructures de télécommunication pour la "
 "recherche et l'éducation."
 msgstr ""
+"Internet access is provided through the <abbr title=\"Direction des Services "
+"Informatiques\" lang=\"fr\">DSI</abbr> of Paris-Sud University, by the <a "
+"href=\"http://www.renater.fr\">RENATER</a> internet service provider, "
+"organization in charge of telecommunication infrastructure federation for "
+"research and education."
 
 #: includes/pages/accueil.php:71
 msgid "Voir aussi"
@@ -588,13 +599,12 @@ msgid "Applications développées"
 msgstr "Created applications"
 
 #: includes/pages/applis.php:4
-#, fuzzy
 msgid ""
 "Vous trouverez sur cette page les projets de l'équipe de développement logiciel de l'association <a href="
 "\"http://www.rez-gif.supelec.fr\">Supélec Rézo</a>"
 msgstr ""
-"You can find on this page the projects of the software development team of the association <a href=\"http://"
-"www.rez-gif.supelec.fr\">Supélec Rézo</a>."
+"You can find on this page the projects of the software development team of "
+"the <a href=\"http://www.rez-gif.supelec.fr\">Supélec Rézo</a> association."
 
 #: includes/pages/applis.php:4
 #, fuzzy
@@ -626,9 +636,8 @@ msgid "Version"
 msgstr "Version"
 
 #: includes/pages/applis.php:24
-#, fuzzy
 msgid "Abstraction simple d'une base de données Mysql en PHP."
-msgstr "Simple abstraction of a MySQL database en PHP."
+msgstr "Simple abstraction of a MySQL database in PHP."
 
 #: includes/pages/applis.php:29 includes/pages/applis.php:41
 msgid "Développement en cours"
