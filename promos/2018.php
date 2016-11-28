@@ -12,7 +12,7 @@
       </tr>
       <tr>
         <th>Emeric BENONI</th>
-        <td><?php echo _("Trésorière");?></td>
+        <td><?php echo _("Trésorier");?></td>
         <td></td>
       </tr>
       <tr>
@@ -41,6 +41,37 @@
     
     <table class="members">
       <tr>
+        <th>Quentin BOUNIOT</th>
+        <td></td>
+        <td><?php echo _('(démissionnaire en septembre 2016)');?></td>
+      </tr>
+      <tr>
+        <th>Léon CARDINEAUD</th>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <th>Peio EYHERAMONO</th>
+        <td></td>
+        <td><?php echo _('(démissionnaire en septembre 2016)');?></td>
+      </tr>
+      <tr>
+        <th>Hugo HERVIEUX</th>
+        <td></td>
+        <td><?php echo _('(démissionnaire en septembre 2016)');?></td>
+      </tr>
+      <tr>
+        <th>Tanguy RENAN</th>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
+      
+    
+    <h3><?php echo _('Autres membres');?></h3>
+    
+    <table class="members">
+      <tr>
         <th>Kevin ALINE</th>
         <td></td>
         <td></td>
@@ -51,27 +82,12 @@
         <td></td>
       </tr>
       <tr>
-        <th>Quentin BOUNIOT</th>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
         <th>Guillaume CAILLAUD</th>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <th>CARDINEAUD Léon</th>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
         <th>Nicolas DEBAUD</th>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <th>Peio EYHERAMONO</th>
         <td></td>
         <td></td>
       </tr>
@@ -127,34 +143,6 @@
       </tr>
       <tr>
         <th>Yoann PRUVOST</th>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <th>
-          Tanguy RENAN</th>
-        <td></td>
-        <td></td>
-      </tr>
-    </table>
-      
-    
-    <h3><?php echo _('Autres membres');?></h3>
-    
-    <table class="members">
-      <tr>
-        <th>Jules CHAMOUX</th>
-        <td></td>
-        <td><?php echo _('(Depuis janvier 2016)');?></td>
-      </tr>
-      <tr>
-        <th>Adrien PALAYRET</th>
-        <td></td>
-        <td></td>
-      </tr>
-
-      <tr>
-        <th>Cyprien THOMAS</th>
         <td></td>
         <td></td>
       </tr>
