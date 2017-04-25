@@ -1,0 +1,868 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-27 11:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: applis/Birdo.php:6
+msgid "Indexeur automatique de serveurs FTP."
+msgstr ""
+
+#: applis/Birdo.php:7
+msgid ""
+"Cet outil parcourt et indexe de façon automatique les serveurs FTP dotés d'un accès anonyme sur son réseau."
+msgstr ""
+
+#: applis/Birdo.php:8
+msgid "Il permet également d'effectuer des recherches dans ces serveurs."
+msgstr ""
+
+#: applis/Birdo.php:14 applis/Kettu.php:15 applis/Notifier.php:14 applis/PHP RDG.php:14
+#: applis/RezoIrcLogs.php:14
+msgid "Licence :"
+msgstr ""
+
+#: applis/Birdo.php:18 applis/Notifier.php:18 applis/PHP RDG.php:18 applis/RezoIrcLogs.php:18
+msgid "Langage :"
+msgstr ""
+
+#: applis/Birdo.php:22 applis/Kettu.php:23 applis/Notifier.php:22 applis/PHP RDG.php:22
+#: applis/RezoIrcLogs.php:22
+msgid "Dernière version :"
+msgstr ""
+
+#: applis/Birdo.php:23 applis/Notifier.php:23
+msgid "Cette application est en cours de développement."
+msgstr ""
+
+#: applis/Birdo.php:26 applis/Kettu.php:27 applis/Notifier.php:26 applis/PHP RDG.php:30
+#: applis/RezoIrcLogs.php:26
+msgid "Documentation :"
+msgstr ""
+
+#: applis/Birdo.php:27 applis/Kettu.php:28 applis/Notifier.php:27
+msgid "Pas encore disponible"
+msgstr ""
+
+#: applis/Birdo.php:30 applis/Notifier.php:30 applis/RezoIrcLogs.php:30
+msgid "Dépôt Git :"
+msgstr ""
+
+#: applis/Birdo.php:31
+msgid "Ce projet n'est pas encore disponible au public pour des raisons de maturité."
+msgstr ""
+
+#: applis/Kettu.php:6 includes/pages/applis.php:18
+msgid "Système de gestion d'un réseau local."
+msgstr ""
+
+#: applis/Kettu.php:7
+msgid ""
+"Il s'agit de l'ensemble de logiciels et de \tscripts que nous utilisons pour administrer le réseau de la "
+"résidence."
+msgstr ""
+
+#: applis/Kettu.php:8
+msgid "Le projet Kettu est developpé en interne, essentiellement en Ruby."
+msgstr ""
+
+#: applis/Kettu.php:9
+msgid ""
+"Il supporte&nbsp;: la gestion des switchs, du DNS, du DHCP, du Firewall, les adhésions et la comptabilité, "
+"les comptes Web, FTP, mail et les mailing-lists des adhérents, ..."
+msgstr ""
+
+#: applis/Kettu.php:19
+msgid "Langages :"
+msgstr ""
+
+#: applis/Kettu.php:24
+msgid ""
+"La dernière version stable est la 2.0. La version 3.0 a été abandonnée au profit de la version 4.0, "
+"actuellement en cours de dévelopement."
+msgstr ""
+
+#: applis/Kettu.php:31 applis/PHP RDG.php:34
+msgid "Dépôt Mercurial :"
+msgstr ""
+
+#: applis/Kettu.php:32
+msgid "Retrouvez ce dépôt parmi les dépôts mercurial de Supélec Rézo&nbsp;:"
+msgstr ""
+
+#: applis/Notifier.php:6
+msgid "Outil de surveillance de serveurs de jeu."
+msgstr ""
+
+#: applis/Notifier.php:7
+msgid ""
+"Cette application permet de détecter et de notifier l'utilisateur quand un joueur rejoint un des serveurs "
+"surveillés."
+msgstr ""
+
+#: applis/Notifier.php:8
+msgid ""
+"La notification s'effectue par une alerte sonore ou visuelle, via une icône dans la zone de notification."
+msgstr ""
+
+#: applis/Notifier.php:31 applis/RezoIrcLogs.php:31
+msgid "Retrouvez ce projet sur GitHub&nbsp;:"
+msgstr ""
+
+#: applis/PHP RDG.php:6
+msgid "Implémentation simple du patron de conception Row Data Gateway pour PHP."
+msgstr ""
+
+#: applis/PHP RDG.php:7
+msgid ""
+"L'objectif de PHP RDG est de fournir une implémentation très simple pour réaliser l'abstraction d'une table "
+"Mysql dans une classe PHP."
+msgstr ""
+
+#: applis/PHP RDG.php:8
+msgid ""
+"Les fonctions habituelles de communication avec la base de données sont factorisées, il n'y a plus qu'à les "
+"inclure dans vos classes en les faisant hériter d'une classe de base."
+msgstr ""
+
+#: applis/PHP RDG.php:24
+msgid "Version 0.22 du 04/05/2008"
+msgstr ""
+
+#: applis/PHP RDG.php:25
+msgid "Télécharger au format tar.gz"
+msgstr ""
+
+#: applis/PHP RDG.php:26
+msgid "Télécharger au format zip"
+msgstr ""
+
+#: applis/RezoIrcLogs.php:6 includes/pages/applis.php:36
+msgid "Application web permettant de parcourir des logs IRC"
+msgstr ""
+
+#: applis/RezoIrcLogs.php:7
+msgid ""
+"Cette application lit et affiche dans un format agréable les logs IRC, en prenant soin de les organiser de "
+"façon hiérarchique et chronologique."
+msgstr ""
+
+#: applis/RezoIrcLogs.php:8
+msgid "Elle permet également d'effectuer des recherches à l'intérieur de ces logs."
+msgstr ""
+
+#: applis/RezoIrcLogs.php:23
+msgid "Version 1.9."
+msgstr ""
+
+#: applis/RezoIrcLogs.php:27
+msgid "Voir le fichier README"
+msgstr ""
+
+#: includes/footer.php:3
+msgid "Page professionnelle de Sup&eacute;lec R&eacute;zo."
+msgstr ""
+
+#: includes/footer.php:3
+msgid "Nous contacter"
+msgstr ""
+
+#: includes/footer.php:4
+msgid "Tous droits r&eacute;serv&eacute;s."
+msgstr ""
+
+#: includes/menu.php:33
+msgid "Présentation"
+msgstr ""
+
+#: includes/menu.php:35 includes/pages/historique.php:1
+msgid "Historique"
+msgstr ""
+
+#: includes/menu.php:37 includes/pages/accueil.php:15 includes/pages/membres.php:1
+msgid "Membres"
+msgstr ""
+
+#: includes/menu.php:43 promos/2003.php:2 promos/2004.php:2 promos/2005.php:2 promos/2006.php:2
+#: promos/2007.php:2 promos/2008.php:2 promos/2009.php:2 promos/2010.php:2 promos/2011.php:2 promos/2012.php:2
+#: promos/2013.php:2 promos/2014.php:2 promos/2015.php:2 promos/2016.php:2 promos/2017.php:2 promos/2018.php:2
+msgid "Promotion"
+msgstr ""
+
+#: includes/menu.php:46
+msgid "Promotions antérieures"
+msgstr ""
+
+#: includes/menu.php:55 includes/pages/matos.php:1
+msgid "Matériel"
+msgstr ""
+
+#: includes/menu.php:57
+msgid "Applications"
+msgstr ""
+
+#: includes/menu.php:70 includes/pages/contact.php:1
+msgid "Contact"
+msgstr ""
+
+#: promos/2003.php:5 promos/2004.php:5 promos/2005.php:5 promos/2006.php:5 promos/2007.php:5 promos/2008.php:5
+#: promos/2009.php:5 promos/2010.php:6 promos/2011.php:5 promos/2012.php:5 promos/2013.php:5 promos/2014.php:5
+#: promos/2015.php:5 promos/2016.php:5 promos/2017.php:5 promos/2018.php:5
+msgid "Bureau"
+msgstr ""
+
+#: promos/2003.php:10 promos/2004.php:10 promos/2005.php:10 promos/2006.php:10 promos/2007.php:10
+#: promos/2008.php:10 promos/2009.php:10 promos/2010.php:10 promos/2011.php:10 promos/2012.php:10
+#: promos/2013.php:10 promos/2014.php:10 promos/2015.php:10 promos/2016.php:10 promos/2017.php:10
+#: promos/2018.php:10
+msgid "Président"
+msgstr ""
+
+#: promos/2003.php:15 promos/2004.php:15 promos/2005.php:15 promos/2006.php:15 promos/2007.php:15
+#: promos/2008.php:15 promos/2009.php:15 promos/2010.php:20 promos/2011.php:15 promos/2012.php:15
+#: promos/2013.php:15 promos/2014.php:15 promos/2015.php:15 promos/2016.php:15
+msgid "Trésorier"
+msgstr ""
+
+#: promos/2003.php:20 promos/2004.php:20 promos/2005.php:20 promos/2006.php:20 promos/2007.php:20
+#: promos/2008.php:20 promos/2009.php:20 promos/2010.php:25 promos/2011.php:20 promos/2012.php:20
+#: promos/2013.php:20 promos/2013.php:25 promos/2014.php:20 promos/2015.php:20 promos/2016.php:20
+#: promos/2017.php:20 promos/2018.php:20
+msgid "Secrétaire"
+msgstr ""
+
+#: promos/2003.php:25 promos/2005.php:25 promos/2006.php:25 promos/2007.php:25 promos/2008.php:25
+#: promos/2009.php:25 promos/2010.php:30 promos/2011.php:25 promos/2012.php:25 promos/2013.php:30
+#: promos/2013.php:35 promos/2014.php:25 promos/2014.php:30 promos/2015.php:25 promos/2016.php:25
+#: promos/2017.php:25 promos/2018.php:25
+msgid "Vice-Président"
+msgstr ""
+
+#: promos/2003.php:30 promos/2004.php:25 promos/2005.php:30 promos/2006.php:30 promos/2007.php:30
+#: promos/2008.php:30 promos/2009.php:55 promos/2010.php:37 promos/2011.php:85 promos/2012.php:65
+#: promos/2013.php:95 promos/2014.php:70 promos/2015.php:60 promos/2016.php:70 promos/2017.php:86
+#: promos/2018.php:142
+msgid "Autres membres"
+msgstr ""
+
+#: promos/2009.php:30 promos/2010.php:35 promos/2011.php:30 promos/2012.php:30 promos/2013.php:40
+#: promos/2014.php:35 promos/2015.php:30 promos/2016.php:30 promos/2017.php:40 promos/2018.php:40
+msgid "Conseil d'administration"
+msgstr ""
+
+#: promos/2010.php:11
+msgid "(Du 16/04/2008 jusqu'au 17/12/2008, départ en semestre à l'étranger)"
+msgstr ""
+
+#: promos/2010.php:15
+msgid "Vice-Président puis Président"
+msgstr ""
+
+#: promos/2010.php:16
+msgid "(Président à partir du 17/12/2008)"
+msgstr ""
+
+#: promos/2010.php:31
+msgid "(A partir du 17/12/2008)"
+msgstr ""
+
+#: promos/2010.php:42 promos/2011.php:35 promos/2012.php:35 promos/2014.php:45
+msgid "Responsable Technique"
+msgstr ""
+
+#: promos/2013.php:21
+msgid "(Avril 2011 - Janvier 2012, départ en semestre à l'étranger)"
+msgstr ""
+
+#: promos/2013.php:25
+msgid "et Responsable Technique"
+msgstr ""
+
+#: promos/2013.php:26
+msgid "(Secrétaire de Janvier 2012 à Avril 2012)"
+msgstr ""
+
+#: promos/2013.php:51
+msgid "(À partir de Septembre 2011)"
+msgstr ""
+
+#: promos/2013.php:56
+msgid "(Jusqu'au 29/02/2012, départ à l'étranger)"
+msgstr ""
+
+#: promos/2013.php:61 promos/2013.php:66
+msgid "(Jusqu'à Décembre 2011)"
+msgstr ""
+
+#: promos/2013.php:71
+msgid "(Jusqu'au 27/02/2012, départ à l'étranger)"
+msgstr ""
+
+#: promos/2014.php:41
+msgid "(Jusqu'au 10/10/2011)"
+msgstr ""
+
+#: promos/2014.php:46
+msgid "(Jusqu'au 10/10/2011, semestre à l'ESCP)"
+msgstr ""
+
+#: promos/2014.php:66
+msgid "(À partir du 10/10/2011)"
+msgstr ""
+
+#: promos/2016.php:10
+msgid "(à partir du 10/12/14, précédemment Secrétaire)"
+msgstr ""
+
+#: promos/2016.php:20 promos/2016.php:25
+msgid "(à partir du 10/12/14)"
+msgstr ""
+
+#: promos/2016.php:41
+msgid "(À partir du 24/09/2014)"
+msgstr ""
+
+#: promos/2016.php:51
+msgid "(vice-président jusqu'au 10/12/14 pour cause de départ en semestre)"
+msgstr ""
+
+#: promos/2016.php:61
+msgid "(président jusqu'au 10/12/14 pour cause de départ en semestre)"
+msgstr ""
+
+#: promos/2017.php:15 promos/2018.php:15
+msgid "Trésorière"
+msgstr ""
+
+#: promos/2017.php:30 promos/2018.php:30
+msgid "Responsable Infrastructure"
+msgstr ""
+
+#: promos/2017.php:35 promos/2018.php:35
+msgid "Responsable Administration Système"
+msgstr ""
+
+#: promos/2017.php:61
+msgid "(démissionnaire en avril 2015)"
+msgstr ""
+
+#: promos/2017.php:92 promos/2018.php:148
+msgid "(Depuis janvier 2016)"
+msgstr ""
+
+#: includes/pages/accueil.php:4
+msgid ""
+"Supélec Rézo est une association loi 1901 administrant le réseau internet de la résidence du campus de "
+"CentraleSupélec de Gif-sur-Yvette."
+msgstr ""
+
+#: includes/pages/accueil.php:7
+msgid "Objectifs et missions"
+msgstr ""
+
+#: includes/pages/accueil.php:9
+msgid "Fournir aux adhérents de l'association une connexion à Internet"
+msgstr ""
+
+#: includes/pages/accueil.php:10
+msgid ""
+"Favoriser la communication entre étudiants sur le campus, ce qui passe par l'offre de nombreux services "
+"tels qu'un service mail, un hébergement de sites internets, de fichiers..."
+msgstr ""
+
+#: includes/pages/accueil.php:11
+msgid "Offrir une aide technique aux adhérents en ce qui concerne leurs problèmes d'ordre informatique"
+msgstr ""
+
+#: includes/pages/accueil.php:12
+msgid "Maintenir et renouveler le parc informatique de la résidence"
+msgstr ""
+
+#: includes/pages/accueil.php:17
+msgid ""
+"Supélec Rézo est constitué d'une vingtaine d'élèves de CentraleSupélec, aussi connus sous le nom de Rézomen."
+msgstr ""
+
+#: includes/pages/accueil.php:18
+msgid ""
+"Cette équipe s'occupe, en plus de l'administration du réseau, de tenir des permanences, organisées trois "
+"fois par semaine les lundi et vendredi midi et le mercredi soir, ainsi que de répondre quotidiennement aux "
+"demandes formulées par ses adhérents."
+msgstr ""
+
+#: includes/pages/accueil.php:19
+msgid "Pour plus de précisions, visitez la"
+msgstr ""
+
+#: includes/pages/accueil.php:19
+msgid "page des membres"
+msgstr ""
+
+#: includes/pages/accueil.php:22
+msgid "Services"
+msgstr ""
+
+#: includes/pages/accueil.php:26
+msgid "Service mail"
+msgstr ""
+
+#: includes/pages/accueil.php:27
+msgid ""
+"Chaque adhérent se voit fournir à son inscription une adresse mail, et la possibilité de s'inscrire aux "
+"listes de diffusion administrées par Supélec Rézo."
+msgstr ""
+
+#: includes/pages/accueil.php:31
+msgid "Service d'hébergement de fichiers"
+msgstr ""
+
+#: includes/pages/accueil.php:32
+msgid ""
+"Nous fournissons aux associations et clubs du campus la possibilité d'héberger des fichiers. Les élèves "
+"peuvent également nous demander en cas de besoin un hébergement personnel."
+msgstr ""
+
+#: includes/pages/accueil.php:36
+msgid "Service d'hébergement web"
+msgstr ""
+
+#: includes/pages/accueil.php:37
+msgid "Nous proposons aux adhérents un service d'hébergement de sites web."
+msgstr ""
+
+#: includes/pages/accueil.php:41
+msgid "Site communautaire"
+msgstr ""
+
+#: includes/pages/accueil.php:42
+msgid ""
+"Nous proposons un site communautaire, contenant notamment un trombinoscope des étudiants de "
+"CentraleSupélec, un descriptif des clubs et associations du campus, ainsi qu'une section d'aide à "
+"l'adhérent."
+msgstr ""
+
+#: includes/pages/accueil.php:47
+msgid ""
+"Il est mis à la disposition des élèves la possibilité de regarder la <abbr title=\"Télévision Numérique "
+"Terrestre\" lang=\"fr\">TNT</abbr> en multicast à la résidence."
+msgstr ""
+
+#: includes/pages/accueil.php:52
+msgid ""
+"Nous hébergeons et administrons un serveur <abbr title=\"Internet Relay Chat\" lang=\"en\">IRC</abbr> de "
+"RézoSup"
+msgstr ""
+
+#: includes/pages/accueil.php:56
+msgid "Machines virtuelles"
+msgstr ""
+
+#: includes/pages/accueil.php:57
+msgid ""
+"Nous hébergeons des serveurs de virtualisation permettant d'offrir à nos adhérents des machines virtuelles "
+"pour leurs projets, ou pour leurs clubs et associations."
+msgstr ""
+
+#: includes/pages/accueil.php:63
+msgid ""
+"Supélec Rézo est membre fondateur de <a href=\"http://www.federez.net\">FedeRez</a>, fédération "
+"d'associations regroupant des réseaux étudiants venant de la France entière, et visant à favoriser "
+"l'échange entre ces dernières, tant par l'organisation d'événements regroupants ses membres que par les "
+"conseils techniques qu'elle apporte afin de soutenir le développement des projets des associations qu'elle "
+"rassemble."
+msgstr ""
+
+#: includes/pages/accueil.php:63
+msgid ""
+"FedeRez organise chaque année les <a href=\"http://www.federez.net/journees/\">journées FedeRez</a>, "
+"événement durant lequel sont organisées des conférences sur le thème de l'informatique."
+msgstr ""
+
+#: includes/pages/accueil.php:68
+msgid ""
+"L'accès à Internet nous est fourni par l'intermédiaire du <abbr title=\"Direction des Services Informatiques"
+"\" lang=\"fr\">DSI</abbr> de l'Université Paris-Sud, par le fournisseur d'accès <a href=\"http://www."
+"renater.fr\">RENATER</a>, organisme chargé de fédérer les infrastructures de télécommunication pour la "
+"recherche et l'éducation."
+msgstr ""
+
+#: includes/pages/accueil.php:71
+msgid "Voir aussi"
+msgstr ""
+
+#: includes/pages/accueil.php:73
+msgid "Supélec Rézo sur le web"
+msgstr ""
+
+#: includes/pages/accueil.php:82
+msgid "Site communautaire de Supélec Rézo"
+msgstr ""
+
+#: includes/pages/accueil.php:83
+msgid "Site de FédeRez"
+msgstr ""
+
+#: includes/pages/accueil.php:84
+msgid "Site de l'April"
+msgstr ""
+
+#: includes/pages/accueil.php:85
+msgid "Dépôts GitHub du Rézo"
+msgstr ""
+
+#: includes/pages/accueil.php:89
+msgid "Supélec Rézo sur les réseaux sociaux"
+msgstr ""
+
+#: includes/pages/accueil.php:98
+msgid "Page Viadéo"
+msgstr ""
+
+#: includes/pages/accueil.php:99
+msgid "Page Facebook"
+msgstr ""
+
+#: includes/pages/accueil.php:100
+msgid "Page LinkedIn"
+msgstr ""
+
+#: includes/pages/accueil.php:101
+msgid "Page Twitter"
+msgstr ""
+
+#: includes/pages/applis.php:1
+msgid "Applications développées"
+msgstr ""
+
+#: includes/pages/applis.php:4
+msgid ""
+"Vous trouverez sur cette page les projets de l'équipe de développement logiciel de l'association <a href="
+"\"http://www.rez-gif.supelec.fr\">Supélec Rézo</a>"
+msgstr ""
+
+#: includes/pages/applis.php:4
+msgid ""
+"Pour toute question, remarque, insulte, contactez Supélec Rézo sur sa <a href=\"mailto:rezo@rez-gif.supelec."
+"fr\">mailing-list</a>."
+msgstr ""
+
+#: includes/pages/applis.php:10
+msgid "Nom du projet"
+msgstr ""
+
+#: includes/pages/applis.php:11
+msgid "Dernière version"
+msgstr ""
+
+#: includes/pages/applis.php:12
+msgid "Description"
+msgstr ""
+
+#: includes/pages/applis.php:17
+msgid "Utilisé en interne, pas encore disponible au public"
+msgstr ""
+
+#: includes/pages/applis.php:23 includes/pages/applis.php:35
+msgid "Version"
+msgstr ""
+
+#: includes/pages/applis.php:24
+msgid "Abstraction simple d'une base de données Mysql en PHP."
+msgstr ""
+
+#: includes/pages/applis.php:29 includes/pages/applis.php:41
+msgid "Développement en cours"
+msgstr ""
+
+#: includes/pages/applis.php:30
+msgid "Outil de surveillance de serveurs de jeu"
+msgstr ""
+
+#: includes/pages/applis.php:42
+msgid "Indexeur automatique de serveurs FTP"
+msgstr ""
+
+#: includes/pages/contact.php:4
+msgid "Vous pouvez nous contacter&nbsp;:"
+msgstr ""
+
+#: includes/pages/contact.php:8
+msgid "Par mail via notre mailing&nbsp;:"
+msgstr ""
+
+#: includes/pages/contact.php:9
+msgid "En nous écrivant à l'adresse"
+msgstr ""
+
+#: includes/pages/contact.php:10
+msgid "Sur IRC sur le chan"
+msgstr ""
+
+#: includes/pages/historique.php:5
+msgid ""
+"Supélec Rézo fonde l'<a href=\"https://myares.fr\">ARES</a> avec <a href=\"http://www.via.ecp.fr\">VIA</a> "
+"et le <a href=\"http://www.crans.org\">CR@NS</a>, les associations de réseaux officiant respectivement sur "
+"le campus de CentraleSupélec à Châtenay-Malabry et celui de l'École Normale Supérieure à Cachan."
+msgstr ""
+
+#: includes/pages/historique.php:5
+msgid ""
+"Cette association sert d'interlocuteur aux instances responsables du Projet Paris-Saclay dans la promotion "
+"d'un réseau étudiant sur le campus de l'Université Paris-Saclay."
+msgstr ""
+
+#: includes/pages/historique.php:7
+msgid ""
+"Supélec Rézo a aussi procédé à l'amélioration de sa fibre, passant d'un débit de 100Mb/s à 1Gb/s grâce à sa "
+"coopération avec la DSI de l'Université Paris-Sud."
+msgstr ""
+
+#: includes/pages/historique.php:12
+msgid ""
+"Supélec Rézo devient membre de l'<a href = \"https://www.april.org/\">APRIL</a>, association pour la "
+"promotion et la défense du logiciel libre."
+msgstr ""
+
+#: includes/pages/historique.php:17
+msgid ""
+"Supélec Rézo investit dans la virtualisation, et se dote de son premier serveur utilisant <a href=\"http://"
+"www.xenproject.org/\">Xen</a> comme hyperviseur."
+msgstr ""
+
+#: includes/pages/historique.php:17
+msgid " L'association propose depuis des machines virtuelles à ses adhérents."
+msgstr ""
+
+#: includes/pages/historique.php:20
+msgid ""
+"Face au problème de l'augmentation des machines connectées à la résidence, Supélec Rézo refond également "
+"son système d'adressage et implémente un <a href=\"http://fr.wikipedia.org/wiki/Network_address_translation"
+"\">NAT</a> permettant aux adhérents de connecter jusqu'à 256 machines chacun."
+msgstr ""
+
+#: includes/pages/historique.php:25
+msgid "Rénovation complète du local Rézo, au rez-de-chaussée la résidence II.C."
+msgstr ""
+
+#: includes/pages/historique.php:30
+msgid ""
+"Supélec Rézo renouvelle entièrement son architecture physique, accomplissement d'un projet datant de 2007. "
+"De nombreux switchs sont achetés à HP avec l'aide du CRI de Supélec et de CESAL (Organisme gérant de la "
+"résidence des élèves de Supélec) ; ils seront installés entre novembre et décembre 2009."
+msgstr ""
+
+#: includes/pages/historique.php:35
+msgid ""
+"Supélec Rezo fonde <a href=\"http://www.federez.net\">FedeRez</a>, en association avec <a href=\"http://br."
+"binets.fr/Accueil\">Binet Réseau</a> (Polytechnique), <a href=\"http://www.crans.org/\">CR@NS</a> (École "
+"Normale Supérieure de Cachan), <a href=\"http://resel.fr/\">ResEl</a> (TELECOM Bretagne - Institut "
+"TELECOM), <a href=\"http://www.rezel.net/\">Rezel</a> (TELECOM ParisTech - Télécom Paris - Institut "
+"TELECOM), <a href=\"http://www.rez-rennes.supelec.fr/\">Supélec Rézo Rennes</a> (Supélec campus de Rennes) "
+"et <a href=\"http://www.via.ecp.fr/\">VIA Centrale Réseaux</a> (École Centrale Paris ), la Fédération des "
+"Réseaux Étudiants."
+msgstr ""
+
+#: includes/pages/historique.php:38
+msgid ""
+"Ceci a pu enfin s'accomplir après de très longues discussions au cours des années précédentes, "
+"principalement sur IRC <a href=\"irc://irc.rezosup.org/#federez\">irc.rezosup.org/#federez</a> et au cours "
+"des journées FedeRez."
+msgstr ""
+
+#: includes/pages/historique.php:39
+msgid ""
+"Les status ont été adoptés après une réunion marathon durant les journées FedeRez de l'année 2009 organisée "
+"par l'École Normale Supérieure de Cachan."
+msgstr ""
+
+#: includes/pages/historique.php:42
+msgid "FedeRez est officiellement créée le 08 Août 2009 (WALDEC : W751201020)."
+msgstr ""
+
+#: includes/pages/historique.php:47
+msgid "Installation des premières bornes WiFi à la résidence."
+msgstr ""
+
+#: includes/pages/historique.php:50
+msgid "26 mars 2008"
+msgstr ""
+
+#: includes/pages/historique.php:52
+msgid "Création du Conseil d'<strong>Administration de Supélec Rézo</strong>."
+msgstr ""
+
+#: includes/pages/historique.php:53
+msgid ""
+"Au fil des années le nombre de Rézomen a augmenté (pour atteindre un nombre record de 15 personnes "
+"impliquées dans la promotion 2010)."
+msgstr ""
+
+#: includes/pages/historique.php:53
+msgid ""
+"Cela introduisit des problématiques d'organisation, que la réforme des statuts créant le Conseil "
+"d'Administration a tenté de résoudre."
+msgstr ""
+
+#: includes/pages/historique.php:56
+msgid "Septembre 1996"
+msgstr ""
+
+#: includes/pages/historique.php:58
+msgid "Fin des câblages de la résidence I, plus ancienne que la résidence II."
+msgstr ""
+
+#: includes/pages/historique.php:61
+msgid "Septembre 1995"
+msgstr ""
+
+#: includes/pages/historique.php:63
+msgid ""
+"Lors de sa <strong>mise en service</strong> à la rentrée de septembre 1995, le réseau interconnecte 80 "
+"ordinateurs en résidence II exclusivement."
+msgstr ""
+
+#: includes/pages/historique.php:64
+msgid ""
+"Les Rézomen ont à l'époque en effet préféré se concentrer sur le déploiement dans cette nouvelle résidence "
+"ouverte en Septembre 1994."
+msgstr ""
+
+#: includes/pages/historique.php:69
+msgid ""
+"Il faudra attendre trois ans et demi pour que le réseau (en réalité, une partie de celui-ci) soit mis en "
+"service, suite à un travail considérable d'étude et de financement mené par les premiers Rezomen."
+msgstr ""
+
+#: includes/pages/historique.php:70
+msgid ""
+"Les comptes rendus de réunion de ces temps \"anciens\" font état d'une collaboration inter-campus "
+"particulièrement active, les \"Supélec Rézo\" rennais et messin étant alors rattachés à celui de Gif."
+msgstr ""
+
+#: includes/pages/historique.php:73
+msgid "Juin 1991"
+msgstr ""
+
+#: includes/pages/historique.php:75
+msgid ""
+"<strong>Création de l'association</strong> le 11 Juin 1991, fondée par Alexandre LACHMANN, Corinne LAUER et "
+"Valérie ABRELL."
+msgstr ""
+
+#: includes/pages/historique.php:76
+msgid ""
+"L'objet de l'association Supélec Rézo est alors de créer et gérer un \"réseau voix-données-images\" dans la "
+"résidence des élèves."
+msgstr ""
+
+#: includes/pages/matos.php:3
+msgid "Serveurs"
+msgstr ""
+
+#: includes/pages/matos.php:5
+msgid ""
+"Supélec Rézo possède un parc d'une vingtaine serveurs. Ces serveurs sont traditionnellement nommés à partir "
+"de noms de personnages de Star Wars."
+msgstr ""
+
+#: includes/pages/matos.php:7
+msgid ""
+"Ce parc se compose de machines montées à partir de pièces achetées dans le commerce pour la plupart, mais "
+"également d'anciennes machines de membres, ainsi que de serveurs donnés à l'association."
+msgstr ""
+
+#: includes/pages/matos.php:10
+msgid "Matériel Réseau"
+msgstr ""
+
+#: includes/pages/matos.php:12
+msgid "Switchs"
+msgstr ""
+
+#: includes/pages/matos.php:14
+msgid ""
+"Nous possédons 5 modèles de switchs formant l'architecture filaire de la résidence, tous mis en production "
+"lors du renouvellement de l'architecture physique en novembre 2009."
+msgstr ""
+
+#: includes/pages/matos.php:17
+msgid "Voici une liste des modèles que nous utilisons&nbsp;:"
+msgstr ""
+
+#: includes/pages/matos.php:21
+msgid "Le master switch"
+msgstr ""
+
+#: includes/pages/matos.php:21 includes/pages/matos.php:22 includes/pages/matos.php:23
+#: includes/pages/matos.php:24 includes/pages/matos.php:25
+msgid "&nbsp;:"
+msgstr ""
+
+#: includes/pages/matos.php:22
+msgid "Les switchs 24 ports"
+msgstr ""
+
+#: includes/pages/matos.php:23
+msgid "Les switchs 48 ports"
+msgstr ""
+
+#: includes/pages/matos.php:24
+msgid "Les switchs serveurs"
+msgstr ""
+
+#: includes/pages/matos.php:25
+msgid "Le switch en salle polyvalente"
+msgstr ""
+
+#: includes/pages/matos.php:28
+msgid "Points d'accès WiFi"
+msgstr ""
+
+#: includes/pages/matos.php:31
+msgid "Les premiers points d'accès WiFi ont été installés à la résidence en 2008."
+msgstr ""
+
+#: includes/pages/matos.php:31
+msgid ""
+"Il s'agit de bornes <em class=\"blue\">Cisco aironet 1130AG</em> et <em class=\"blue\">Cisco aironet "
+"AP1042N</em>."
+msgstr ""
+
+#: includes/pages/matos.php:31
+msgid ""
+"La mise en place complète du réseau WiFi a été finie en 2012. Une refonte totale de ce réseau est "
+"actuellement menée."
+msgstr ""
+
+#: includes/pages/membres.php:4
+msgid ""
+"Cette page donne la liste des membres connus de Supélec Rézo depuis la création de l'association en 1991."
+msgstr ""
+
+#: includes/pages/membres.php:5
+msgid ""
+"Les membres du bureau font également partie du Conseil d'Administration, créé par une refonte des statuts "
+"en 2008. L'appartenance au conseil d'administration commence en Février de l'année scolaire en cours ou "
+"après un vote du Conseil d'administration, et se termine au 30 Avril de l'année suivante."
+msgstr ""
+
+#: includes/pages/membres.php:6
+msgid "Les années de promotion correspondent à l'année prévue de remise du diplôme."
+msgstr ""
+
+#: includes/pages/membres.php:11
+msgid "En plein écran"
+msgstr ""
