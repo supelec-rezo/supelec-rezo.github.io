@@ -50,7 +50,7 @@
 <h3><?php echo _('26 mars 2008');?></h3>
 <p>
   <?php echo _('Création du Conseil d\'<strong>Administration de Supélec Rézo</strong>.');?><br />
-  <?php echo _('Au fil des années le nombre de Rézomen a augmenté (pour atteindre un nombre record de 15 personnes impliquées dans la promotion 2010).').' '._('Cela introduisit des problématiques d\'organisation, que la réforme des statuts créant le Conseil d\'Administration a tenté de résoudre.');?>
+  <?php echo _('Au fil des années le nombre de Rézomen a augmenté (pour atteindre un nombre record de 38 personnes impliquées dans la promotion 2019).').' '._('Cela introduisit des problématiques d\'organisation, que la réforme des statuts créant le Conseil d\'Administration a tenté de résoudre.');?>
 </p>
 
 <h3><?php echo _('Septembre 1996');?></h3>
