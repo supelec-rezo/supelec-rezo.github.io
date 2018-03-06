@@ -667,7 +667,7 @@ msgstr "by writting to"
 msgid "Sur IRC sur le chan"
 msgstr "By IRC on the channel"
 
-#: includes/pages/historique.php:5
+#: includes/pages/historique.php:12
 #, fuzzy
 msgid ""
 "Supélec Rézo fonde l'<a href=\"https://myares.fr\">ARES</a> avec <a href=\"http://www.via.ecp.fr\">VIA</a> "
@@ -679,7 +679,7 @@ msgstr ""
 "respectively on the campus of CentraleSupélec in Châtenay-Malabry and the campus of the École Normale "
 "Supérieure in Cachan."
 
-#: includes/pages/historique.php:5
+#: includes/pages/historique.php:12
 #, fuzzy
 msgid ""
 "Cette association sert d'interlocuteur aux instances responsables du Projet Paris-Saclay dans la promotion "
@@ -688,7 +688,7 @@ msgstr ""
 "This association is meant to be the spokesperson with the authorities in charge of the Paris-Saclay project "
 "to promote a student network on the campus of the University of Paris-Saclay."
 
-#: includes/pages/historique.php:7
+#: includes/pages/historique.php:14
 msgid ""
 "Supélec Rézo a aussi procédé à l'amélioration de sa fibre, passant d'un débit de 100Mb/s à 1Gb/s grâce à sa "
 "coopération avec la DSI de l'Université Paris-Sud."
@@ -696,7 +696,7 @@ msgstr ""
 "Supélec Rézo also proceeded to upgrade its fiber, going from a throughput of 100Mb/s to a throughput of 1Gb/"
 "s thanks to the help of the ISD of the University of Paris-Saclay."
 
-#: includes/pages/historique.php:12
+#: includes/pages/historique.php:19
 #, fuzzy
 msgid ""
 "Supélec Rézo devient membre de l'<a href = \"https://www.april.org/\">APRIL</a>, association pour la "
@@ -705,7 +705,7 @@ msgstr ""
 "Supélec Rézo becomes a member of the <a href = \"https://www.april.org/\">APRIL</a>, a French association "
 "for the promotion and the defense of open-source software."
 
-#: includes/pages/historique.php:17
+#: includes/pages/historique.php:24
 #, fuzzy
 msgid ""
 "Supélec Rézo investit dans la virtualisation, et se dote de son premier serveur utilisant <a href=\"http://"
@@ -714,12 +714,12 @@ msgstr ""
 "Supélec Rézo invests in virtualization solutions and equip itself with its first server using <a href="
 "\"http://www.xenproject.org/\">Xen</a> as the hypervisor."
 
-#: includes/pages/historique.php:17
+#: includes/pages/historique.php:24
 #, fuzzy
 msgid " L'association propose depuis des machines virtuelles à ses adhérents."
 msgstr " Since then, the association offers virtual machines to its members."
 
-#: includes/pages/historique.php:20
+#: includes/pages/historique.php:27
 #, fuzzy
 msgid ""
 "Face au problème de l'augmentation des machines connectées à la résidence, Supélec Rézo refond également "
@@ -730,23 +730,23 @@ msgstr ""
 "addressing scheme and implement a <a href=\"http://en.wikipedia.org/wiki/Network_address_translation\">NAT</"
 "a> allowing each member to connect up to 256 devices."
 
-#: includes/pages/historique.php:25
+#: includes/pages/historique.php:32
 #, fuzzy
 msgid "Rénovation complète du local Rézo, au rez-de-chaussée la résidence II.C."
 msgstr "Complete renovation of the Rézo's office, at the ground floor of the residence II.C."
 
-#: includes/pages/historique.php:30
+#: includes/pages/historique.php:37
 #, fuzzy
 msgid ""
 "Supélec Rézo renouvelle entièrement son architecture physique, accomplissement d'un projet datant de 2007. "
 "De nombreux switchs sont achetés à HP avec l'aide du CRI de Supélec et de CESAL (Organisme gérant de la "
 "résidence des élèves de Supélec) ; ils seront installés entre novembre et décembre 2009."
 msgstr ""
-"Suéplec Rézo cxompletely renew its ahrdware architecture, end point of a project started in 2007. Many "
+"Suéplec Rézo completely renews its hardware architecture, end point of a project started in 2007. Many "
 "switches were bought from HP with the help of Supélec's CRI and CESAL (organization managing the residence "
 "of Supélec's students); they will be deployed between November and December 2009."
 
-#: includes/pages/historique.php:35
+#: includes/pages/historique.php:42
 #, fuzzy
 msgid ""
 "Supélec Rezo fonde <a href=\"http://www.federez.net\">FedeRez</a>, en association avec <a href=\"http://br."
@@ -765,7 +765,7 @@ msgstr ""
 "Rennes</a> (Supélec campus of Rennes) et <a href=\"http://www.via.ecp.fr/\">VIA Centrale Réseaux</a> (École "
 "Centrale Paris)."
 
-#: includes/pages/historique.php:38
+#: includes/pages/historique.php:45
 #, fuzzy
 msgid ""
 "Ceci a pu enfin s'accomplir après de très longues discussions au cours des années précédentes, "
@@ -776,7 +776,7 @@ msgstr ""
 "\"irc://irc.rezosup.org/#federez\">irc.rezosup.org/#federez</a> and during the \"journées FedeRez"
 "\" (FedeRez's days)."
 
-#: includes/pages/historique.php:39
+#: includes/pages/historique.php:46
 #, fuzzy
 msgid ""
 "Les status ont été adoptés après une réunion marathon durant les journées FedeRez de l'année 2009 organisée "
@@ -785,27 +785,27 @@ msgstr ""
 "The status were passed after a very long meeting during the \"journées FedeRez\" (FedeRez's days) in 2009 "
 "organized by the École Normale Supérieure de Cachan."
 
-#: includes/pages/historique.php:42
+#: includes/pages/historique.php:49
 #, fuzzy
 msgid "FedeRez est officiellement créée le 08 Août 2009 (WALDEC : W751201020)."
 msgstr "FedeRez is officially created on August, 08 2009 (WALDEC : W751201020)."
 
-#: includes/pages/historique.php:47
+#: includes/pages/historique.php:54
 #, fuzzy
 msgid "Installation des premières bornes WiFi à la résidence."
 msgstr "Deployment of the first WiFi emitters inside the residence."
 
-#: includes/pages/historique.php:50
+#: includes/pages/historique.php:57
 #, fuzzy
 msgid "26 mars 2008"
 msgstr "March, 26 2008"
 
-#: includes/pages/historique.php:52
+#: includes/pages/historique.php:59
 #, fuzzy
 msgid "Création du Conseil d'<strong>Administration de Supélec Rézo</strong>."
 msgstr "Creation of the <strong>Board of managers of Supélec Rézo</strong>."
 
-#: includes/pages/historique.php:53
+#: includes/pages/historique.php:60
 #, fuzzy
 msgid ""
 "Au fil des années le nombre de Rézomen a augmenté (pour atteindre un nombre record de 15 personnes "
@@ -814,29 +814,29 @@ msgstr ""
 "Year after Year, the number of Rézomen has increased (to reach the record number of 15 implied persons of "
 "the graduation year 2010)."
 
-#: includes/pages/historique.php:53
+#: includes/pages/historique.php:60
 #, fuzzy
 msgid ""
 "Cela introduisit des problématiques d'organisation, que la réforme des statuts créant le Conseil "
 "d'Administration a tenté de résoudre."
 msgstr "This created organizational problems that the creation of the Board of managers tried to solve."
 
-#: includes/pages/historique.php:56
+#: includes/pages/historique.php:63
 #, fuzzy
 msgid "Septembre 1996"
 msgstr "September 1996"
 
-#: includes/pages/historique.php:58
+#: includes/pages/historique.php:65
 #, fuzzy
 msgid "Fin des câblages de la résidence I, plus ancienne que la résidence II."
 msgstr "End of the wiring of the residence I, older than the residence II."
 
-#: includes/pages/historique.php:61
+#: includes/pages/historique.php:68
 #, fuzzy
 msgid "Septembre 1995"
 msgstr "September 1995"
 
-#: includes/pages/historique.php:63
+#: includes/pages/historique.php:70
 #, fuzzy
 msgid ""
 "Lors de sa <strong>mise en service</strong> à la rentrée de septembre 1995, le réseau interconnecte 80 "
@@ -845,7 +845,7 @@ msgstr ""
 "On its <strong>deployment</strong> at the beginning of the school year in September 1995, the network "
 "connects 80 computers in the residence II only."
 
-#: includes/pages/historique.php:64
+#: includes/pages/historique.php:71
 #, fuzzy
 msgid ""
 "Les Rézomen ont à l'époque en effet préféré se concentrer sur le déploiement dans cette nouvelle résidence "
@@ -854,7 +854,7 @@ msgstr ""
 "At this time, the Rézomen chose to focus on the deployment inside this new residence opened in September "
 "1994."
 
-#: includes/pages/historique.php:69
+#: includes/pages/historique.php:76
 #, fuzzy
 msgid ""
 "Il faudra attendre trois ans et demi pour que le réseau (en réalité, une partie de celui-ci) soit mis en "
@@ -863,7 +863,7 @@ msgstr ""
 "It took three and a half years for the network (in fact, a part of the network) to come into service after "
 "an incredible work made of studies and funding was made by the first Rézomen."
 
-#: includes/pages/historique.php:70
+#: includes/pages/historique.php:77
 #, fuzzy
 msgid ""
 "Les comptes rendus de réunion de ces temps \"anciens\" font état d'une collaboration inter-campus "
@@ -872,12 +872,12 @@ msgstr ""
 "The minutes of the meetings of these \"ancient times\" show a very active inter-campus collaboration, the "
 "\"Supélec Rézo\" from Rennes and Metz were then attached to the one from Gif."
 
-#: includes/pages/historique.php:73
+#: includes/pages/historique.php:80
 #, fuzzy
 msgid "Juin 1991"
 msgstr "June 1991"
 
-#: includes/pages/historique.php:75
+#: includes/pages/historique.php:82
 #, fuzzy
 msgid ""
 "<strong>Création de l'association</strong> le 11 Juin 1991, fondée par Alexandre LACHMANN, Corinne LAUER et "
@@ -886,7 +886,7 @@ msgstr ""
 "<strong>Creation of the association</strong> on June, 21 1991, formed by Alexandre LACHMANN, Corinne LAUER "
 "et Valérie ABRELL."
 
-#: includes/pages/historique.php:76
+#: includes/pages/historique.php:83
 #, fuzzy
 msgid ""
 "L'objet de l'association Supélec Rézo est alors de créer et gérer un \"réseau voix-données-images\" dans la "

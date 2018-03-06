@@ -1,12 +1,19 @@
 <h1 class="page-title"><?php echo _('Historique');?></h1>
 
+<h3>2017</h3>
+<p>
+  <?php echo _('Supélec Rézo fusionne avec VIA Centrale Réseaux pour former <a href="https://viarezo.fr">ViaRézo</a>.'); ?>
+  </br></br>
+  <?php echo _('ViaRézo contracte sa propre fibre pour pouvoir continuer de fournir un service de qualité optimale à ses adhérents toujours plus nombreux.'); ?>
+ </p>
+
 <h3>2015</h3>
 <p>
   <?php echo _('Supélec Rézo fonde l\'<a href="https://myares.fr">ARES</a> avec <a href="http://www.via.ecp.fr">VIA</a> et le <a href="http://www.crans.org">CR@NS</a>, les associations de réseaux officiant respectivement sur le campus de CentraleSupélec à Châtenay-Malabry et celui de l\'École Normale Supérieure à Cachan.').' '._('Cette association sert d\'interlocuteur aux instances responsables du Projet Paris-Saclay dans la promotion d\'un réseau étudiant sur le campus de l\'Université Paris-Saclay.'); ?>
   </br></br>
   <?php echo _('Supélec Rézo a aussi procédé à l\'amélioration de sa fibre, passant d\'un débit de 100Mb/s à 1Gb/s grâce à sa coopération avec la DSI de l\'Université Paris-Sud.'); ?>
  </p>
-  
+
 <h3>2013</h3>
 <p>
   <?php echo _('Supélec Rézo devient membre de l\'<a href = "https://www.april.org/">APRIL</a>, association pour la promotion et la défense du logiciel libre.'); ?>
@@ -34,10 +41,10 @@
 <p>
   <?php echo _('Supélec Rezo fonde <a href="http://www.federez.net">FedeRez</a>, en association avec <a href="http://br.binets.fr/Accueil">Binet Réseau</a> (Polytechnique), <a href="http://www.crans.org/">CR@NS</a> (École Normale Supérieure de Cachan), <a href="http://resel.fr/">ResEl</a> (TELECOM Bretagne - Institut TELECOM), <a href="http://www.rezel.net/">Rezel</a> (TELECOM ParisTech - Télécom Paris - Institut TELECOM), <a href="http://www.rez-rennes.supelec.fr/">Supélec Rézo Rennes</a> (Supélec campus de Rennes) et <a href="http://www.via.ecp.fr/">VIA Centrale Réseaux</a> (École Centrale Paris ), la Fédération des Réseaux Étudiants.');?><br />
   <br />
-  
+
   <?php echo _('Ceci a pu enfin s\'accomplir après de très longues discussions au cours des années précédentes, principalement sur IRC <a href="irc://irc.rezosup.org/#federez">irc.rezosup.org/#federez</a> et au cours des journées FedeRez.');?> <br />
   <?php echo _('Les status ont été adoptés après une réunion marathon durant les journées FedeRez de l\'année 2009 organisée par l\'École Normale Supérieure de Cachan.');?><br />
-  
+
   <br />
   <?php echo _('FedeRez est officiellement créée le 08 Août 2009 (WALDEC : W751201020).');?>
 </p>
