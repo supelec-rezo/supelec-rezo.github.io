@@ -1,0 +1,450 @@
+---
+- annee: 2019
+  photo: true
+  bureau:
+    - nom: James BARRIOS
+      poste: Président
+    - nom: Maxime GERUM
+      poste: Trésorier
+    - nom: Paul WITZ
+      poste: Secrétaire
+    - nom: Romain POIROT
+      poste: Vice-Président
+    - nom: Victor FAUTH
+      poste: Responsable Infrastructure
+    - nom: Benjamin MOUSCADET
+      poste: Responsable Administration Système
+  CA:
+    - Pierre BIRET
+    - François BOUVIER D'YVOIRE
+    - Antoine CORDELLE
+    - Corentin GODEAU
+    - Léo POIREL
+    - Emmanuel TRAN
+    - Paul WITZ
+  autre:
+    - Rebeca ARARIPE
+    - Théophile BARRY
+    - Théo BONNARD
+    - Pierrick CHEVAILLIER
+    - Antoine CHEVALIER
+    - Mathieu DELMAS
+    - Louis-Alexis DUBIEF
+    - Xinze DU
+    - Sofiane EL KOUARATI
+    - Mikael FREIRE RODRIGUEZ
+    - Guillaume GAILLARD
+    - Alexis GERARD
+    - Gauthier LACROIX
+    - Alexis LAURET
+    - Hugo MASCLET
+    - Guillaume MOCQUARD
+    - Aymeric QUESNE
+    - Vincent RIPOCHE
+    - Pierre ROLLAND
+    - Auguste SIMONIN
+    - Christophe THIBAUT
+    - Hugo WALTSBURGER
+    - Elena ZHELONDZ
+
+- annee: 2018
+  photo: true
+  bureau:
+    - nom: Julien HEMERY
+      poste: Président
+    - nom: Emeric BENONI
+      poste: Trésorier
+    - nom: Flavien MESIRARD
+      poste: Secrétaire
+    - nom: Maxime AMOSSÉ
+      poste: Vice-Président
+    - nom: Sylvain PASCOU
+      poste: Responsable Infrastructure
+    - nom: Maxime AMOSSÉ
+      poste: Responsable Administration Système
+  CA:
+    - nom: Quentin BOUNIOT
+      commentaire: (démissionnaire en septembre 2016)
+    - Léon CARDINEAUD
+    - nom: Peio EYHERAMONO
+      commentaire: (démissionnaire en septembre 2016)
+    - nom: Hugo HERVIEUX
+      commentaire: (démissionnaire en septembre 2016)
+    - Tanguy RENAN
+  autre:
+    - Kevin ALINE
+    - Sacha AYOUN
+    - Guillaume CAILLAUD
+    - Nicolas DEBAUD
+    - Alexandre FAUQUETTE
+    - João Vítor FERREIRA DUARTE
+    - Julien GERARD
+    - Roman GRELOT
+    - Louis GRISON
+    - Louis LENIEF
+    - Lucas MAHÉO
+    - Paul MOUGIN
+    - Emery PIERSON LANCASTER
+    - Thomas PRENLELOUP
+    - Yoann PRUVOST
+
+- annee: 2017
+  photo: true
+  bureau:
+    - nom: Eugène NELOU
+      poste: Président
+    - nom: Louise MORIN
+      poste: Trésorière
+    - nom: Adrien ROL
+      poste: Secrétaire
+    - nom: Marc BARUSSAUD
+      poste: Vice-Président
+    - nom: Ghislain FOURNIER
+      poste: Responsable Infrastructure
+    - nom: Arnaud VENTURI
+      poste: Responsable Administration Système
+  CA:
+    - Benoît CASTEIGTS
+    - Héloïse DE LE BROUE DE VAREILLES-SOMMIERES
+    - Jean-Baptiste DE PLINVAL
+    - nom: Julian FARELLA-CHAMPEIX
+      commentaire: (démissionnaire en avril 2015)
+    - Nicolas GONCALVES
+    - Valentin LE TOURNEUX DE LA PERRAUDIERE
+    - Antoine REBEYRE
+    - Yohann SILLAM
+  autre:
+    - nom: Jules CHAMOUX
+      commentaire: (Depuis janvier 2016)
+    - Adrien PALAYRET
+    - Cyprien THOMAS
+
+- annee: 2016
+  photo: true
+  bureau:
+    - nom: Jean-Sébastien RENAUD
+      poste: Président (à partir du 10/12/14, précédemment Secrétaire)
+    - nom: Julien LEPILLER
+      poste: Trésorier
+    - nom: Hélène BOUDON
+      poste: Secrétaire (à partir du 10/12/14)
+    - nom: Fabien BERQUEZ
+      poste: Vice-Président (à partir du 10/12/14)
+  CA:
+    - Gabriel DEPARIS
+    - nom: Robin LABAT
+      commentaire: (À partir du 24/09/2014)
+    - Paul MARGHERITTA
+    - nom: Julien MURGEY
+      commentaire: (vice-président jusqu'au 10/12/14 pour cause de départ en semestre)
+    - Antoine RABANY
+    - nom: Gauthier SEBAUX
+      commentaire: (président jusqu'au 10/12/14 pour cause de départ en semestre)
+    - Arthur VILLARD
+  autre:
+    - Antoine BEAUGENDRE
+    - Renaud GUYOT
+    - Bruno PRZETAKIEWICZ
+
+- annee: 2015
+  photo: true
+  bureau:
+    - nom: Nicolas AUDEBERT
+      poste: Président
+    - nom: Rémi ROBERT
+      poste: Trésorier
+    - nom: Michel TORELLI
+      poste: Secrétaire
+    - nom: Florian LEMAITRE
+      poste: Vice-Président
+  CA:
+    - Georges BADRO
+    - Guillaume BORRITS
+    - Guillaume DHAINAUT
+    - Benoît FAURÉ
+    - Sélim MENOUAR
+  autre:
+    - Jolan BONATO
+    - Francis DUPÉ
+    - Quentin PARIS
+
+- annee: 2014
+  photo: true
+  bureau:
+    - nom: Pierre MONTAGNIER
+      poste: Président
+    - nom: Xavier NUNN
+      poste: Trésorier
+    - nom: Geoffrey SIMON
+      poste: Secrétaire
+    - nom: Thomas FARGEIX
+      poste: Vice-Président
+    - nom: Maxime PRUNEAU
+      poste: Vice-Président
+  CA:
+    - nom: Maxime COLLODEL
+      commentaire: (Jusqu'au 10/10/2011)
+    - nom: Maxime COURTAUX
+      poste: Responsable Technique
+      commentaire: (Jusqu'au 10/10/2011, semestre à l'ESCP)
+    - Jean-Alix DAVID
+    - Paul EDOUARD
+    - Clément PARISOT
+    - nom: Nicolas PORCEL
+      commentaire: (À partir du 10/10/2011)
+  autre:
+    - Thomas ALMECIJA
+    - Nicolas DUBIEN
+    - Laure HUGO
+    - Valérian JUSTINE
+    - Alexandra KRAUTH
+    - Adam MAKHLOUF
+    - Amélie MARTINEZ
+    - Sylvain MICHAUX
+    - Alexandre PLAZANET
+
+- annee: 2013
+  photo: true
+  bureau:
+    - nom: Olivier CAILLAULT
+      poste: Président
+    - nom: Alexandre CAMUS
+      poste: Trésorier
+    - nom: Armen SIMSIR
+      poste: Secrétaire
+      commentaire: (Avril 2011 - Janvier 2012, départ en semestre à l'étranger)
+    - nom: Geoffrey MONTEL
+      poste: Secrétaire et Responsable Technique
+      commentaire: (Secrétaire de Janvier 2012 à Avril 2012)
+    - nom: Rémi CHAINTREUIL
+      poste: Vice-Président
+    - nom: Lucas DESCHAMPS
+      poste: Vice-Président
+  CA:
+    - Matthieu ARMANDO
+    - nom: Yanis BRIHECHE
+      commentaire: (À partir de Septembre 2011)
+    - nom: Théo CUNY
+      commentaire: (Jusqu'au 29/02/2012, départ à l'étranger)
+    - nom: Etienne DARGAUD
+      commentaire: (Jusqu'à Décembre 2011)
+    - nom: Pascal FRESNE
+      commentaire: (Jusqu'à Décembre 2011)
+    - nom: Jean-Baptiste GUIRIMAND
+      commentaire: (Jusqu'au 27/02/2012, départ à l'étranger)
+    - Thomas PARADIS
+    - Matthieu RAMET
+    - Fabien SCHWEBEL
+    - Geoffrey VOYER
+  autre:
+    - Thomas LACROIX
+
+- annee: 2012
+  photo: true
+  bureau:
+    - nom: Marc DELORME
+      poste: Président
+    - nom: Denis BAHEUX
+      poste: Trésorier
+    - nom: Cyprien OGER
+      poste: Secrétaire
+    - nom: Marc GALLET
+      poste: Vice-Président
+  CA:
+    - nom: Maxime BAUDETTE
+      poste: Responsable Technique
+    - Romain BERTRAND
+    - Guillaume BRAGARD
+    - Luce PHILIBERT
+    - Rémi RAMPIN
+    - Quentin THEBAULT
+  autre:
+    - Vincent BARBARESI
+    - Antoine CAPARROS
+    - François D'OLIVEIRA
+    - Lucie DAEYE
+    - Maxime FERREIRA
+    - Loïc FOURNASSON
+    - Thomas FUZEAU
+    - Antoine LADIEL
+    - Laurent REN
+
+- annee: 2011
+  photo: true
+  bureau:
+    - nom: Dimitri WATEL
+      poste: Président
+    - nom: Samuel COULIN
+      poste: Trésorier
+    - nom: Yann ARMELIN
+      poste: Secrétaire
+    - nom: Yoaan ISAAC
+      poste: Vice-Président
+  CA:
+    - nom: Jean-Baptiste BESSELAT
+      poste: Responsable Technique
+    - Romain COURTIER
+    - Félix ELEFANT
+    - Niels GIORNO
+    - Sébastien LABORDE
+    - Jean-Baptiste LAFFITTE
+    - David MA
+    - Thomas PEYRET
+    - Guy-William PIVOT
+    - Benjamin PROPHETE
+  autre:
+    - Romain BETHENOD
+    - Cyril CONDEZ-GODZIEMBA
+    - Alexandre HENRY
+    - Martin JUSTRA
+
+- annee: 2010
+  photo: true
+  bureau:
+    - nom: Arthur CHEYSSON
+      poste: Président
+      commentaire: (Du 16/04/2008 jusqu'au 17/12/2008, départ en semestre à l'étranger)
+    - nom: Matthieu PASTORE
+      poste: Vice-Président puis Président
+      commentaire: (Président à partir du 17/12/2008)
+    - nom: Benoit BROUARD
+      poste: Trésorier
+    - nom: Yacine STOUKY
+      poste: Secrétaire
+    - nom: Georges DUBUS
+      poste: Vice-Président
+      commentaire: (A partir du 17/12/2008)
+  autre:
+    - nom: Mounir ASSAF
+      poste: Responsable Technique
+    - Mathieu BRUYEN
+    - Yann COIFFEC-PENNEC
+    - Mathieu DAVAINE
+    - Bruno DE ARAUJO
+    - Thomas DUBOUCHER
+    - Olivier JOLIT
+    - Simon LEBRETON
+    - Antoine SABOURIN
+
+- annee: 2009
+  photo: true
+  bureau:
+    - nom: Sébastien HOCQUET
+      poste: Président
+    - nom: Guillaume CHAUVILLE
+      poste: Trésorier
+    - nom: Nicolas FRANCOIS
+      poste: Secrétaire
+    - nom: Bruno VIRLET
+      poste: Vice-Président
+
+  CA:
+    - Anthony BUCOVAZ
+    - Bastien BUSSON
+    - Jean CAVALLO
+    - Nathalie GOUDEAU
+  autre:
+    - Maykel-Ange AL ZREIBI
+    - Olivier GATIMEL
+    - Camille HAMON
+    - Bouna NIANG
+    - Pierre-Jean PARODI-KERAVEC
+    - Nhan TRUONG
+
+- annee: 2008
+  photo: true
+  bureau:
+    - nom: Giuliano LOSA
+      poste: Président
+    - nom: Matthieu ROSSET
+      poste: Trésorier
+    - nom: Nicolas MAISONNEUVE
+      poste: Secrétaire
+    - nom: Florent GUEDON
+      poste: Vice-Président
+  autre:
+    - Olivier GATIMEL
+    - Guillaume JEAN
+    - Pascal JINKOJI
+    - Patrick NICOLAS
+
+- annee: 2007
+  photo: false
+  bureau:
+    - nom: Philippe ULLAH
+      poste: Président
+    - nom: Richard PAVY
+      poste: Trésorier
+    - nom: Etienne CARRIERE
+      poste: Secrétaire
+    - nom: Frédéric BRAULT
+      poste: Vice-Président
+  autre:
+    - François WAXIN
+    - Samir NEJJAI
+    - Pierre-Yves JALABERT
+
+- annee: 2006
+  photo: false
+  bureau:
+    - nom: Matthieu LEMERRE
+      poste: Président
+    - nom: Carl FISCHER
+      poste: Trésorier
+    - nom: François DE PARSCAU DU PLESSIX
+      poste: Secrétaire
+    - nom: Colin PITRAT
+      poste: Vice-Président
+  autre:
+    - Philippe GUILLEBERT
+    - Yann CHALLAMEL
+    - Jocelyn FALEMPE
+    - Erwan LE MALECOT
+
+- annee: 2005
+  photo: false
+  bureau:
+    - nom: Damien GOUJU
+      poste: Président
+    - nom: Nicolas MASSON
+      poste: Trésorier
+    - nom: Alexis TABARY
+      poste: Secrétaire
+    - nom: Michel GIRIER
+      poste: Vice-Président
+  autre:
+    - Selim BESSASSI
+    - Xavier FAJOLLE
+    - Jérôme LORY
+
+- annee: 2004
+  photo: false
+  bureau:
+    - nom: Loeiz TANGUY
+      poste: Président
+    - nom: Aurélien DEGEORGES
+      poste: Trésorier
+    - nom: Antoire RICHERT
+      poste: Secrétaire
+  autre:
+    - Yann BRILLOUET
+    - Emmanuel LANGE
+    - David MARCHAND
+    - Thomas POTTIER
+
+- annee: 2003
+  photo: false
+  bureau:
+    - nom: Damien DOMENGE
+      poste: Président
+    - nom: Nicolas DESLANDES
+      poste: Trésorier
+    - nom: Pierre MAON
+      poste: Secrétaire
+    - nom: François CAMI
+      poste: Vice-Président
+  autre:
+    - Emmanuel COLIN
+    - Christophe JACQUET
+    - Frédéric MAJORCZYK
+    - Olivier SEMAY

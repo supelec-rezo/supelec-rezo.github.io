@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<h1 class="page-title">Membres</h1>
+
+<p>
+  Cette page donne la liste des membres connus de Supélec Rézo depuis la création de l'association en 1991. <br />
+  Les membres du bureau font également partie du Conseil d'Administration, créé par une refonte des statuts en 2008. L'appartenance au conseil d'administration commence en Février de l'année scolaire en cours ou après un vote du Conseil d'administration, et se termine au 30 Avril de l'année suivante.<br />
+  Les années de promotion correspondent à l'année prévue de remise du diplôme.
+</p>
+
+<iframe width="100%" height="300px" style="margin: 1em 0 0 0;" frameBorder="0"
+src="https://framacarte.org/en/map/rezomen-sans-frontieres_5083?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a
+href="https://framacarte.org/en/map/rezomen-sans-frontieres_5083">En plein écran</a></p>
+
+{% for promo in site.data.promos %}
+<div id="promo{{ promo.annee }}" class="promo">
+  <h2 class='promo-title'>Promotion {{ promo.annee }}</h2>
+
+  <div class="promo-left">
+    {% if promo.bureau.size > 0 %}
+    <h3>Bureau</h3>
+
+    <table class="members">
+      {% for membre in promo.bureau %}
+      <tr>
+        <th>{{ membre.nom | default: membre }}</th>
+        <td>{{ membre.poste }}</td>
+        <td>{{ membre.commentaire }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+    {% endif %}
+
+    {% if promo.CA.size > 0 %}
+    <h3>Conseil d'administration</h3>
+
+    <table class="members">
+      {% for membre in promo.CA %}
+      <tr>
+        <th>{{ membre.nom | default: membre }}</th>
+        <td>{{ membre.poste }}</td>
+        <td>{{ membre.commentaire }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+    {% endif %}
+
+    {% if promo.autre.size > 0 %}
+    <h3>Autres membres</h3>
+
+    <table class="members">
+      {% for membre in promo.autre %}
+      <tr>
+        <th>{{ membre.nom | default: membre }}</th>
+        <td>{{ membre.poste }}</td>
+        <td>{{ membre.commentaire }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+    {% endif %}
+  </div>
+
+  <div class="promo-right">
+    {% if promo.photo %}
+    <img src="assets/images/rezomen/{{ promo.annee }}.jpg" alt="{{ promo.annee }}"/>
+    {% endif %}
+  </div>
+</div>
+{% endfor %}

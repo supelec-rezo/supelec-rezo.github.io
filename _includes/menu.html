@@ -1,0 +1,31 @@
+<div id="menu">
+  <div id="nav">
+    <ul>
+      <li><a href="accueil"><span>Présentation</span></a></li>
+
+      <li><a href="historique"><span>Historique</span></a></li>
+
+      <li class="dropdown"><a href="membres"><span>Membres</span></a>
+          <ul>
+            {% for promo in site.data.promos limit: site.menu_promo_limit %}
+            <li><a href='membres#promo{{ promo.annee }}'><span>Promotion {{ promo.annee }}</span></a></li>
+            {% endfor %}
+            <li><a href='membres#promo{{ site.data.promos.first.annee | minus: site.menu_promo_limit }}'><span>Promotions antérieures</span></a></li>
+          </ul>
+      </li>
+
+      <li><a href="matos"><span>Matériel</span></a></li>
+
+      <li class="dropdown"><a href="applis"><span>Applications</span></a>
+          <ul>
+              {% for appli in site.data.applis %}
+              <li><a href='applis#{{ appli.nom | slugify }}'><span>{{ appli.nom }}</span></a></li>
+              {% endfor %}
+          </ul>
+      </li>
+
+      <li><a href="contact"><span>Contact</span></a></li>
+
+    </ul>
+  </div>
+</div>

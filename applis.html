@@ -1,0 +1,85 @@
+---
+layout: default
+---
+<h1 class="page-title">Applications développées </h1>
+
+<p>
+  Vous trouverez sur cette page les projets de l'équipe de développement logiciel de l'association <a href="http://www.rez-gif.supelec.fr">Supélec Rézo</a>. Pour toute question, remarque, insulte, contactez Supélec Rézo sur sa <a href="mailto:rezo@rez-gif.supelec.fr">mailing-list</a>.
+</p>
+
+<div>
+  <table id="apps-summary">
+    <tr>
+      <th>Nom du projet</th>
+      <th>Dernière version</th>
+      <th>Description</th>
+    </tr>
+
+    <tr>
+      <td><a href="apps/#kettu">Kettu</a></td>
+      <td>Utilisé en interne, pas encore disponible au public</td>
+      <td>Système de gestion d'un réseau local.</td>
+    </tr>
+
+    <tr>
+      <td><a href="apps/#phprdg">PHP RDG</a></td>
+      <td>Version 0.22 (04/05/2008)</td>
+      <td>Abstraction simple d'une base de données Mysql en PHP.</td>
+    </tr>
+
+  	<tr>
+  	  <td><a href="apps/#notifier">Notifier</a></td>
+  	  <td>Développement en cours</td>
+  	  <td>Outil de surveillance de serveurs de jeu</td>
+  	</tr>
+
+  	<tr>
+  	  <td><a href="apps/#rezoirclogs">RezoIrcLogs</a></td>
+  	  <td>Version 1.9</td>
+  	  <td>Application web permettant de parcourir des logs IRC</td>
+  	</tr>
+
+  	<tr>
+  	  <td><a href="apps/#yoppi">Birdo</a></td>
+  	  <td>Développement en cours</td>
+  	  <td>Indexeur automatique de serveurs FTP</td>
+  	</tr>
+
+  </table>
+</div>
+
+{% for appli in site.data.applis %}
+<div id="{{ appli.nom | slugify }}" class="app">
+  <h1>{{ appli.nom }}</h1>
+
+  <div>
+    <p>
+      <b>{{ appli.titre }}</b><br />
+      {{ appli.description }}
+    </p>
+  </div>
+
+  <table class="app-table">
+    <tr>
+      <th class="label">Licence :</th>
+      <td>{{ appli.license }}</td>
+    </tr>
+    <tr>
+      <th class="label">Langage :</th>
+      <td>{{ appli.language }}</td>
+    </tr>
+    <tr>
+      <th class="label">Dernière version :</th>
+      <td>{{ appli.derniere_version }}</td>
+    </tr>
+    <tr>
+      <th class="label">Documentation :</th>
+      <td>{{ appli.documentation}}</td>
+    </tr>
+    <tr>
+      <th class="label">Dépôt {{ appli.type_depot }} :</th>
+      <td>{{ appli.depot }}</td>
+    </tr>
+  </table>
+</div>
+{% endfor %}

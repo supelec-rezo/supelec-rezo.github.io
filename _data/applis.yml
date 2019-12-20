@@ -1,0 +1,53 @@
+---
+- nom: Birdo
+  titre: Indexeur automatique de serveurs FTP.
+  description: Cet outil parcourt et indexe de façon automatique les serveurs FTP dotés d'un accès anonyme sur son réseau. Il permet également d'effectuer des recherches dans ces serveurs.
+  license: <img src="assets/images/icons/gplv3.png" alt="GPL v3" title="GPL v3" />
+  language: Symfony
+  derniere_version: Cette application est en cours de développement.
+  documentation: Pas encore disponible
+  type_depot: Git
+  depot: "Ce projet n'est pas encore disponible au public pour des raisons de maturité. <!-- Retrouvez ce projet sur GitHub : <a href=\"https://github.com/supelec-rezo/yoppi\">https://github.com/supelec-rezo/yoppi</a> -->"
+
+- nom: Kettu
+  titre: Système de gestion d'un réseau local.
+  description: "Il s'agit de l'ensemble de logiciels et de	scripts que nous utilisons pour administrer le réseau de la résidence. Le projet Kettu est developpé en interne, essentiellement en Ruby. Il supporte : la gestion des switchs, du DNS, du DHCP, du Firewall, les adhésions et la comptabilité, les comptes Web, FTP, mail et les mailing-lists des adhérents, ..."
+  license: <img src="assets/images/icons/gplv3.png" alt="GPL v3" title="GPL v3" />
+  language: Ruby / Ruby on Rails / Javascript
+  derniere_version: La dernière version stable est la 2.0. La version 3.0 a été abandonnée au profit de la version 4.0, actuellement en cours de dévelopement.
+  documentation: Pas encore disponible
+  type_depot: Mercurial
+  depot: 'Retrouvez ce dépôt parmi les dépôts mercurial de Supélec Rézo : <a href="https://hg.rez-gif.supelec.fr/kettu-admin/" title="Dépôt de Kettu">https://hg.rez-gif.supelec.fr/kettu-admin/</a>'
+
+- nom: Notifier
+  titre: Outil de surveillance de serveurs de jeu.
+  description: Cette application permet de détecter et de notifier l'utilisateur quand un joueur rejoint un des serveurs surveillés. La notification s'effectue par une alerte sonore ou visuelle, via une icône dans la zone de notification.
+  license: <img src="assets/images/icons/gplv3.png" alt="GPL v3" title="GPL v3" />
+  language: C++
+  derniere_version: Cette application est en cours de développement.
+  documentation: Pas encore disponible
+  type_depot: Git
+  depot: 'Retrouvez ce projet sur GitHub : <a href="https://github.com/supelec-rezo/notifier">https://github.com/supelec-rezo/notifier'
+
+- nom: PHP RDG
+  titre: Implémentation simple du patron de conception Row Data Gateway pour PHP.
+  description: L'objectif de PHP RDG est de fournir une implémentation très simple pour réaliser l'abstraction d'une table Mysql dans une classe PHP. Les fonctions habituelles de communication avec la base de données sont factorisées, il n'y a plus qu'à les inclure dans vos classes en les faisant hériter d'une classe de base.
+  license: BSD 1999
+  language: PHP 5
+  derniere_version: |
+    Version 0.22 du 04/05/2008<br />
+    <a class="download" href="downloads/phprdg-0.22.tar.gz">Télécharger au format tar.gz</a><br />
+    <a class="download" href="downloads/phprdg-0.22.zip">Télécharger au format zip</a>
+  documentation: Voir le fichier README
+  type_depot: Mercurial
+  depot: <a href="https://hg.rez-gif.supelec.fr/phprdg">https://hg.rez-gif.supelec.fr/phprdg</a>
+
+- nom: RezoIrcLogs
+  titre: Application web permettant de parcourir des logs IRC.
+  description: Cette application lit et affiche dans un format agréable les logs IRC, en prenant soin de les organiser de façon hiérarchique et chronologique. Elle permet également d'effectuer des recherches à l'intérieur de ces logs.
+  license: <img src="assets/images/icons/gplv3.png" alt="GPL v3" title="GPL v3" />
+  language: Python
+  derniere_version: Version 1.9.
+  documentation: Voir le fichier README
+  type_depot: Git
+  depot: 'Retrouvez ce projet sur GitHub : <a href="https://github.com/supelec-rezo/rezoirclogs">https://github.com/supelec-rezo/rezoirclogs</a>'

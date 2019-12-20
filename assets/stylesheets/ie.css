@@ -1,11 +1,11 @@
-/** CSS complémentaire permettant un affichage correct des couleurs des menus déroulants sous Internet Explorer 8 et inférieurs **/
+/** CSS complÃ©mentaire permettant un affichage correct des couleurs des menus dÃ©roulants sous Internet Explorer 8 et infÃ©rieurs **/
 
 #menu a {
-    color: rgb(250,250,250); 
+    color: rgb(250,250,250);
 }
 
 #menu a:hover {
-    color: #555;    
+    color: #555;
 }
 
 #nav ul ul li a {
